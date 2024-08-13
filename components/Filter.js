@@ -40,9 +40,9 @@ export default function Filter({ onApplyFilterClick }) {
 
   return (
     <div className="md:block hidden">
-      <p className="uppercase font-bold">FILTER</p>
+      <p className="uppercase font-silk-serif">FILTER</p>
       <List>
-        <p className="font-bold">Photos</p>
+        <p className="font-itc-franklin">Photos</p>
         {PHOTOS.map((type, index) => (
           <ListItem className="p-0" key={index}>
             <label
@@ -72,7 +72,7 @@ export default function Filter({ onApplyFilterClick }) {
                   }}
                 />
               </ListItemPrefix>
-              <Typography color="blue-gray" className="font-medium">
+              <Typography color="blue-gray" className="font-itc-franklin">
                 {type.label}
               </Typography>
             </label>

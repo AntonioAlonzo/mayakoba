@@ -14,6 +14,10 @@ module.exports = withMT({
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      fontFamily: {
+        "silk-serif": ["SilkSerif", "serif"],
+        "itc-franklin": ["ITCFranklinGothicStd", "serif"],
+      },
     },
   },
   plugins: [],

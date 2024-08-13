@@ -25,12 +25,12 @@ function Item({ data }) {
       </div>
       <div className="flex justify-between p-4 md:pt-6 bg-[#F2F2F2]">
         <div>
-          <button
-            onClick=""
-            className="transition-all font-bold hover:tracking-wider"
+          <a
+            href={data.url} target="_blank"
+            className="transition-all hover:tracking-wider font-itc-franklin"
           >
             {data.title}
-          </button>
+          </a>
         </div>
 
         <div>

@@ -20,7 +20,29 @@
 
 body {
   color: rgb(var(--foreground-rgb));
-  background: linear-gradient(to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))) rgb(var(--background-start-rgb));
+  background: white;
+}
+
+@font-face {
+  font-family: 'SilkSerif';
+  src: url('/fonts/Silk Serif Regular.otf') format('opentype');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SilkSerif';
+  src: url('/fonts/Silk Serif Regular Italic.otf') format('opentype');
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'SilkSerif';
+  src: url('/fonts/Silk Serif SemiBold.otf') format('opentype');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'ITCFranklinGothicStd';
+  src: url('/fonts/ITCFranklinGothicStd-Book.otf') format('opentype');
+  font-weight: normal;
 }

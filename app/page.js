@@ -39,12 +39,14 @@ export default function Home() {
   return (
     <div className=" bg-white">
       <div className="text-center">
-        <h2 className="text-center text-[2rem] w-[35rem] mx-auto">
-          <span className="italic">Welcome</span> to FAIRMONT MAYAKOBA{" "}
-          <span className="italic">brand asset</span> MANAGEMENT SITE
+        <h2 className="font-silk-serif text-center text-[2rem] w-[35rem] mx-auto">
+          <span className="italic">Welcome</span>
+          <br></br> to <span className="font-semibold">FAIRMONT MAYAKOBA</span>{" "}
+          <br></br>
+          <span className="italic">brand asset</span> <br></br> MANAGEMENT SITE
         </h2>
 
-        <p className="text-center w-[30rem] mx-auto mt-10">
+        <p className="text-center w-[30rem] mx-auto mt-10 font-itc-franklin">
           Escape to a tropical paradise in the lush rainforest of Mexico’s
           Riviera Maya. Discover our magnificent 594-acre private community on
           the Caribbean shoreline, which is newly renovated and totally
@@ -52,10 +54,10 @@ export default function Home() {
         </p>
       </div>
 
-      <h2 className="uppercase text-center text-[2rem] mt-16">
+      <h2 className="uppercase text-center text-[2rem] mt-16 font-silk-serif">
         Assets | Fairmont Mayakoba
       </h2>
-      <main className="grid md:grid-cols-[1fr_2fr] md:p-10 p-6">
+      <main className="grid md:grid-cols-[1fr_3fr] md:p-10 p-6">
         <div>
           <Filter onApplyFilterClick={handleApplyFilterClick}></Filter>
         </div>
