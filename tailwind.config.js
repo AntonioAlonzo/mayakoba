@@ -16,7 +16,7 @@ module.exports = withMT({
       },
       fontFamily: {
         "silk-serif": ["SilkSerif", "serif"],
-        "itc-franklin": ["ITCFranklinGothicStd", "serif"],
+        "itc-franklin": ["ITCFranklinGothicStd", "sans-serif"],
       },
     },
   },
