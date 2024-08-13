@@ -43,6 +43,6 @@ body {
 
 @font-face {
   font-family: 'ITCFranklinGothicStd';
-  src: url('/fonts/ITCFranklinGothicStd-Book.otf') format('opentype');
+  src: url('/fonts/ITCFranklinGothicStdBook.otf') format('opentype');
   font-weight: normal;
 }
