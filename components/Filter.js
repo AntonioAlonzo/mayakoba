@@ -21,6 +21,7 @@ export default function Filter({ onApplyFilterClick }) {
     { label: "Resort", value: "resort" },
     { label: "Activities", value: "activities" },
     { label: "Wellness", value: "wellness" },
+    { label: "Residences", value: "residences" },
   ];
 
   const OTHER = [
