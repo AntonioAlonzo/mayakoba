@@ -4,49 +4,58 @@ import React, { useState, useEffect } from "react";
 import Filter from "../components/Filter";
 import { ASSETS } from "../components/data.js";
 import Item from "../components/Item";
+import FileTypeFilter from "../components/FileTypeFilter";
 
 export default function Home() {
   const [itemList, setItemList] = useState([]);
+  const [currentPage, setCurrentPage] = useState(1);
+  const itemsPerPage = 9; // Show 9 items per page
 
   useEffect(() => {
-    setItemList(
-      ASSETS.map((item) => (
-        <Item key={item._ID} data={item} onItemClick={handleItemClick}></Item>
-      ))
-    );
+    setItemList(ASSETS);
   }, []);
 
   function handleApplyFilterClick(types) {
-    setItemList(
-      ASSETS.filter((item) => {
-        let filter = true;
-
-        if (types.length) {
-          filter = types.includes(item.type);
-        }
-
-        return filter;
-      }).map((item) => {
-        return (
-          <Item key={item._ID} data={item} onItemClick={handleItemClick}></Item>
-        );
-      })
+    const filteredItems = ASSETS.filter((item) =>
+      types.length ? types.includes(item.type) : true
     );
+    setItemList(filteredItems);
+    setCurrentPage(1); // Reset to the first page after filtering
+  }
+
+  function handleApplyFileTypeFilterClick(types) {
+    const filteredItems = ASSETS.filter((item) =>
+      types.length ? types.includes(item.filetype) : true
+    );
+    setItemList(filteredItems);
+    setCurrentPage(1); // Reset to the first page after filtering
   }
 
   function handleItemClick() {}
 
+  // Get the current items based on the current page
+  const indexOfLastItem = currentPage * itemsPerPage;
+  const indexOfFirstItem = indexOfLastItem - itemsPerPage;
+  const currentItems = itemList.slice(indexOfFirstItem, indexOfLastItem);
+
+  // Change page
+  const paginate = (pageNumber) => setCurrentPage(pageNumber);
+
+  const totalPages = Math.ceil(itemList.length / itemsPerPage);
+
   return (
-    <div className=" bg-white">
-      <div className="text-center">
-        <h2 className="font-silk-serif text-center text-[2rem] w-[35rem] mx-auto">
+    <div className="bg-white mb-16">
+      <div className="h-[70vh] bg-[url('/header.png')] bg-cover bg-center"></div>
+
+      <div className="text-center pt-16 px-4">
+        <h2 className="font-silk-serif text-center text-[2rem] mx-auto">
           <span className="italic">Welcome</span>
-          <br></br> to <span className="font-semibold">FAIRMONT MAYAKOBA</span>{" "}
-          <br></br>
-          <span className="italic">brand asset</span> <br></br> MANAGEMENT SITE
+          <br /> to <span className="font-semibold">FAIRMONT MAYAKOBA</span>
+          <br />
+          <span className="italic">brand asset</span> <br /> MANAGEMENT SITE
         </h2>
 
-        <p className="text-center w-[30rem] mx-auto mt-10 font-itc-franklin">
+        <p className="text-center sm:w-[80%] md:w-[40rem] mx-auto mt-10 font-itc-franklin">
           Escape to a tropical paradise in the lush rainforest of Mexico’s
           Riviera Maya. Discover our magnificent 594-acre private community on
           the Caribbean shoreline, which is newly renovated and totally
@@ -54,18 +63,39 @@ export default function Home() {
         </p>
       </div>
 
+      <FileTypeFilter
+        onApplyFilterClick={handleApplyFileTypeFilterClick}
+      ></FileTypeFilter>
+
       <h2 className="uppercase text-center text-[2rem] mt-16 font-silk-serif">
         Assets | Fairmont Mayakoba
       </h2>
-      <main className="grid md:grid-cols-[1fr_3fr] md:p-10 p-6">
-        <div>
+
+      <main className="flex md:gap-40 md:px-32 md:mt-16 px-2 gap-2 md:flex-row flex-col">
+        <div className="w-full md:w-1/6">
           <Filter onApplyFilterClick={handleApplyFilterClick}></Filter>
         </div>
 
-        <div className="grid sm:grid-cols-1 md:grid-cols-3 gap-x-8 gap-y-7 md:gap-y-16">
-          {itemList}
+        <div className="w-full md:w-5/6 grid grid-cols-2 md:grid-cols-3 gap-x-2 gap-y-7 ">
+          {currentItems.map((item) => (
+            <Item key={item._ID} data={item} onItemClick={handleItemClick} />
+          ))}
         </div>
       </main>
+
+      <div className="flex justify-center mt-8">
+        {Array.from({ length: totalPages }, (_, index) => (
+          <button
+            key={index}
+            onClick={() => paginate(index + 1)}
+            className={`px-4 py-2 mx-1 border ${
+              currentPage === index + 1 ? "bg-gray-300" : "bg-white"
+            }`}
+          >
+            {index + 1}
+          </button>
+        ))}
+      </div>
     </div>
   );
 }
