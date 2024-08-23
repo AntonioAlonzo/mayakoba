@@ -62,7 +62,7 @@ export default function Home() {
           reimagined.
         </p>
       </div>
-
+ 
       <FileTypeFilter
         onApplyFilterClick={handleApplyFileTypeFilterClick}
       ></FileTypeFilter>
