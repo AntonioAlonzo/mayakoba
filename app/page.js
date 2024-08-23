@@ -45,7 +45,7 @@ export default function Home() {
 
   return (
     <div className="bg-white mb-16">
-      <div className="h-[70vh] bg-[url('./assets/header.jpg')] bg-cover bg-center"></div>
+      <div className="h-[40rem] bg-[url('./assets/header.webp')] bg-cover bg-center"></div>
 
       <div className="text-center pt-16 px-4">
         <h2 className="font-silk-serif text-center text-[2rem] mx-auto">
@@ -62,7 +62,7 @@ export default function Home() {
           reimagined.
         </p>
       </div>
- 
+
       <FileTypeFilter
         onApplyFilterClick={handleApplyFileTypeFilterClick}
       ></FileTypeFilter>
