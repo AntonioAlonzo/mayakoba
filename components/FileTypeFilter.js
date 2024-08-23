@@ -18,7 +18,7 @@ export default function FileTypeFilter({ onApplyFilterClick }) {
 
       <div
         onClick={() => handleTypeClick("video")}
-        className="cursor-pointer bg-[url('./assets/videos.jpng')] h-[10rem] w-full md:h-[20rem] md:w-[20rem] bg-cover flex items-center justify-center"
+        className="cursor-pointer bg-[url('./assets/videos.jpg')] h-[10rem] w-full md:h-[20rem] md:w-[20rem] bg-cover flex items-center justify-center"
       >
         <p className="uppercase text-white">Videos</p>
       </div>
