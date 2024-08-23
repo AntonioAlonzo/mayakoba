@@ -5,10 +5,8 @@ import { IconButton } from "@material-tailwind/react";
 
 function Item({ data }) {
   let preview = "";
-  if (data.filetype == "pdf") {
-    preview = "./pdf.png";
-  } else if (data.filetype == "video") {
-    preview = "./video.png";
+  if (data.preview !== "") {
+    preview = data.preview;
   } else {
     preview = data.url;
   }

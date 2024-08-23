@@ -1,10 +1,11 @@
 export const ASSETS = [
   {
     id: 0,
-    title: "FAIRMONT - LOGO - WHITE",
+    title: "Factsheet-Individual-ESP-1",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/05/Factsheet-Individual-ESP-1.pdf",
-    preview: "",
-    type: "events",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Factsheet-Individual-ESP-1.png",
+    type: "factsheet",
     filetype: "other",
   },
   {
@@ -86,5 +87,131 @@ export const ASSETS = [
     preview: "",
     type: "resort",
     filetype: "img",
+  },
+  {
+    id: 11,
+    title: "Factsheet Individual ING",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/05/Factsheet-Individual-ING-1.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Factsheet-Individual-ING-1.png",
+    type: "factsheet",
+    filetype: "other",
+  },
+  {
+    id: 12,
+    title: "Factsheet Individual Extendido ING",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/05/Factsheet-Fairmont-ENG-2024.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Factsheet-Fairmont-ENG-2024.png",
+    type: "factsheet",
+    filetype: "other",
+  },
+  {
+    id: 13,
+    title: "Leisure 2024",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/05/press-leisure-2024-3.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/08/press-leisure-2024-3.png",
+    type: "factsheet",
+    filetype: "other",
+  },
+  {
+    id: 14,
+    title: "Políticas de sustentabilidad 2024 Español",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/05/Politicas-de-sustentabilidad_esp.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Politicas-de-sustentabilidad_esp.png",
+    type: "factsheet",
+    filetype: "other",
+  },
+  {
+    id: 15,
+    title: "Políticas de sustentabilidad 2024 Inglés",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/05/Politicas-de-sustentabilidad_ing.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Politicas-de-sustentabilidad_ing.png",
+    type: "factsheet",
+    filetype: "other",
+  },
+  {
+    id: 16,
+    title: "Presentación de bodas 2024 inglés",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/05/Wedding-presentation-ENG-2024.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Wedding-presentation-ENG-2024.png",
+    type: "weddings",
+    filetype: "other",
+  },
+  {
+    id: 17,
+    title: "Brochure Bodas 2023 en español",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/05/Brochure-weddings-Esp.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Brochure-weddings-Esp.png",
+    type: "weddings",
+    filetype: "other",
+  },
+  {
+    id: 18,
+    title: "Brochure Bodas 2023 en inglés",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/05/Brochure-Weddings-ENG.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Brochure-Weddings-ENG.png",
+    type: "weddings",
+    filetype: "other",
+  },
+  {
+    id: 19,
+    title: "Brochure Mice 2024 en español",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/05/Brochure-MICE-SPA.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Brochure-MICE-ENG.png",
+    type: "brochure",
+    filetype: "other",
+  },
+  {
+    id: 20,
+    title: "Brochure Mice 2024 en inglés",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/05/Brochure-MICE-ENG.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Brochure-MICE-ENG.png",
+    type: "brochure",
+    filetype: "other",
+  },
+  {
+    id: 21,
+    title: "Factsheet Spa 2024 en inglés",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/05/FactSheet-Spa-2024_ING.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/08/FactSheet-Spa-2024_ING.png",
+    type: "factsheet",
+    filetype: "other",
+  },
+  {
+    id: 22,
+    title: "Factsheet Spa 2024 en español",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/05/FactSheet-Spa-2024-ESP.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/08/FactSheet-Spa-2024_ING.png",
+    type: "factsheet",
+    filetype: "other",
+  },
+  {
+    id: 23,
+    title: "Factsheet Kids Club 2024 en inglés",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/05/FactSheet-Kids-2024-ING-1.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/08/FactSheet-Kids-2024-ING-1.png",
+    type: "factsheet",
+    filetype: "other",
+  },
+  {
+    id: 24,
+    title: "Factsheet Kids Club 2024 en español",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/05/FactSheet-Kids-2024-ESP-1.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/08/FactSheet-Kids-2024-ING-1.png",
+    type: "factsheet",
+    filetype: "other",
   },
 ];
