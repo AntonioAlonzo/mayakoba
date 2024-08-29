@@ -13,15 +13,21 @@ import {
 
 export default function Filter({ onApplyFilterClick }) {
   const PHOTOS = [
-    { label: "Accomodations", value: "accomodations" },
-    { label: "Events", value: "events" },
-    { label: "F&B", value: "f&b" },
-    { label: "Experiences", value: "experiences" },
-    { label: "Pool & Beaches", value: "pool" },
-    { label: "Resort", value: "resort" },
-    { label: "Activities", value: "activities" },
-    { label: "Wellness", value: "wellness" },
-    { label: "Residences", value: "residences" },
+    { label: "Aerial", value: "aerial" },
+    { label: "Meeting Spaces", value: "meeting" },
+    { label: "Public Spaces", value: "public" },
+    {
+      label: "Residences",
+      value: "residences",
+      subcategories: [
+        { label: "2 PH Residence 4 Bed", value: "2ph" },
+        { label: "802 Ground Floor Residence", value: "802" },
+        { label: "912 Residence 3 Bed", value: "912" },
+        { label: "931 Resicence 3 Bedroom", value: "931" },
+      ],
+    },
+    { label: "Rooms", value: "rooms" },
+    { label: "SPA", value: "spa" },
   ];
 
   const OTHER = [
@@ -41,6 +47,7 @@ export default function Filter({ onApplyFilterClick }) {
 
   const [isPhotosExpanded, setIsPhotosExpanded] = useState(true);
   const [isOthersExpanded, setIsOthersExpanded] = useState(false);
+  const [expandedSubcategories, setExpandedSubcategories] = useState({});
 
   function handleTypeClick(type) {
     onApplyFilterClick(type);
@@ -52,6 +59,13 @@ export default function Filter({ onApplyFilterClick }) {
 
   function toggleOthersList() {
     setIsOthersExpanded(!isOthersExpanded);
+  }
+
+  function toggleSubcategories(index) {
+    setExpandedSubcategories((prevState) => ({
+      ...prevState,
+      [index]: !prevState[index],
+    }));
   }
 
   return (
@@ -76,18 +90,48 @@ export default function Filter({ onApplyFilterClick }) {
       {isPhotosExpanded && (
         <List>
           {PHOTOS.map((type, index) => (
-            <ListItem
-              className="p-0 cursor-pointer"
-              key={index}
-              onClick={() => handleTypeClick(type.value)}
-            >
-              <Typography
-                color="blue-gray"
-                className="font-itc-franklin px-3 py-2"
+            <div key={index}>
+              <ListItem
+                className="p-0 cursor-pointer"
+                onClick={() => handleTypeClick(type.value)}
               >
-                {type.label}
-              </Typography>
-            </ListItem>
+                <Typography
+                  color="blue-gray"
+                  className="font-itc-franklin px-3 py-2"
+                >
+                  {type.label}
+                </Typography>
+                {type.subcategories && (
+                  <button
+                    onClick={(e) => {
+                      e.stopPropagation();
+                      toggleSubcategories(index);
+                    }}
+                    className="text-lg font-bold focus:outline-none"
+                  >
+                    {expandedSubcategories[index] ? "-" : "+"}
+                  </button>
+                )}
+              </ListItem>
+              {type.subcategories && expandedSubcategories[index] && (
+                <List className="pl-6">
+                  {type.subcategories.map((subcategory, subIndex) => (
+                    <ListItem
+                      className="p-0 cursor-pointer"
+                      key={subIndex}
+                      onClick={() => handleTypeClick(subcategory.value)}
+                    >
+                      <Typography
+                        color="blue-gray"
+                        className="font-itc-franklin px-3 py-2"
+                      >
+                        {subcategory.label}
+                      </Typography>
+                    </ListItem>
+                  ))}
+                </List>
+              )}
+            </div>
           ))}
         </List>
       )}

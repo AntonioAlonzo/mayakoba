@@ -9,6 +9,7 @@ import FileTypeFilter from "../components/FileTypeFilter";
 export default function Home() {
   const [itemList, setItemList] = useState([]);
   const [currentPage, setCurrentPage] = useState(1);
+  const [loading, setLoading] = useState(false); // Add loading state
   const itemsPerPage = 9; // Show 9 items per page
 
   useEffect(() => {
@@ -16,19 +17,27 @@ export default function Home() {
   }, []);
 
   function handleApplyFilterClick(types) {
-    const filteredItems = ASSETS.filter((item) =>
-      types.length ? types.includes(item.type) : true
-    );
-    setItemList(filteredItems);
-    setCurrentPage(1); // Reset to the first page after filtering
+    setLoading(true); // Start loading when filter is applied
+    setTimeout(() => {
+      const filteredItems = ASSETS.filter((item) =>
+        types.length ? types.includes(item.type) : true
+      );
+      setItemList(filteredItems);
+      setCurrentPage(1); // Reset to the first page after filtering
+      setLoading(false); // End loading after filtering
+    }, 500); // Simulate a delay for loading (you can adjust this)
   }
 
   function handleApplyFileTypeFilterClick(types) {
-    const filteredItems = ASSETS.filter((item) =>
-      types.length ? types.includes(item.filetype) : true
-    );
-    setItemList(filteredItems);
-    setCurrentPage(1); // Reset to the first page after filtering
+    setLoading(true); // Start loading when filter is applied
+    setTimeout(() => {
+      const filteredItems = ASSETS.filter((item) =>
+        types.length ? types.includes(item.filetype) : true
+      );
+      setItemList(filteredItems);
+      setCurrentPage(1); // Reset to the first page after filtering
+      setLoading(false); // End loading after filtering
+    }, 500); // Simulate a delay for loading (you can adjust this)
   }
 
   function handleItemClick() {}
@@ -77,9 +86,15 @@ export default function Home() {
         </div>
 
         <div className="w-full md:w-5/6 grid grid-cols-2 md:grid-cols-3 gap-x-2 gap-y-7 ">
-          {currentItems.map((item) => (
-            <Item key={item._ID} data={item} onItemClick={handleItemClick} />
-          ))}
+          {loading ? (
+            <div className="col-span-2 md:col-span-3 text-center">
+              <p>Loading...</p>
+            </div>
+          ) : (
+            currentItems.map((item) => (
+              <Item key={item._ID} data={item} onItemClick={handleItemClick} />
+            ))
+          )}
         </div>
       </main>
 
