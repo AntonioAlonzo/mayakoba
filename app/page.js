@@ -5,6 +5,7 @@ import Filter from "../components/Filter";
 import { ASSETS } from "../components/data.js";
 import Item from "../components/Item";
 import FileTypeFilter from "../components/FileTypeFilter";
+import { FaFacebookF, FaTwitter, FaInstagram, FaGlobe } from "react-icons/fa"; // Importing icons
 
 export default function Home() {
   const [itemList, setItemList] = useState([]);
@@ -56,13 +57,46 @@ export default function Home() {
     <div className="bg-white mb-16">
       <div className="h-[40rem] bg-[url('./assets/header.webp')] bg-cover bg-center"></div>
 
-      <div className="text-center pt-16 px-4">
+      <div className="relative text-center pt-16 px-4">
+        {/* Flex container for title */}
         <h2 className="font-silk-serif text-center text-[2rem] mx-auto">
           <span className="italic">Welcome</span>
           <br /> to <span className="font-semibold">FAIRMONT MAYAKOBA</span>
           <br />
           <span className="italic">brand asset</span> <br /> MANAGEMENT SITE
         </h2>
+
+        {/* Social media and website icons */}
+        <div className="absolute right-4 top-0 mt-4 flex space-x-6">
+          <a
+            href="https://www.facebook.com/FairmontMayakoba/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <FaFacebookF className="text-xl" />
+          </a>
+          <a
+            href="https://x.com/fairmontmayakoba"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <FaTwitter className="text-xl" />
+          </a>
+          <a
+            href="https://www.instagram.com/fairmontmayakoba/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <FaInstagram className="text-xl" />
+          </a>
+          <a
+            href="https://www.fairmont-mayakoba.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <FaGlobe className="text-xl" />
+          </a>
+        </div>
 
         <p className="text-center sm:w-[80%] md:w-[40rem] mx-auto mt-10 font-itc-franklin">
           Escape to a tropical paradise in the lush rainforest of Mexico’s

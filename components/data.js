@@ -65,14 +65,6 @@ export const ASSETS = [
     filetype: "img",
   },
   {
-    id: 8,
-    title: "Riviera MYK_352",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Riviera-MYK_352-scaled.jpg",
-    preview: "",
-    type: "meeting",
-    filetype: "img",
-  },
-  {
     id: 9,
     title: "Riviera MYK_353",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Riviera-MYK_353-scaled.jpg",
@@ -216,7 +208,7 @@ export const ASSETS = [
   },
   {
     id: 25,
-    title: "4673_230228_Fairmont-scaled",
+    title: "Penthouse, 4 bedrooms Residence 1",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/4673_230228_Fairmont-scaled.jpg",
     preview: "",
     type: "2ph",
@@ -224,7 +216,7 @@ export const ASSETS = [
   },
   {
     id: 26,
-    title: "4583_230228_Fairmont-scaled",
+    title: "Penthouse, 4 bedrooms Residence 2",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/4583_230228_Fairmont-scaled.jpg",
     preview: "",
     type: "2ph",
@@ -232,7 +224,7 @@ export const ASSETS = [
   },
   {
     id: 27,
-    title: "4607_230228_Fairmont-scaled",
+    title: "Penthouse, 4 bedrooms Residence 3",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/4607_230228_Fairmont-scaled.jpg",
     preview: "",
     type: "2ph",
@@ -240,7 +232,7 @@ export const ASSETS = [
   },
   {
     id: 28,
-    title: "4616_230228_Fairmont-scaled",
+    title: "Penthouse, 4 bedrooms Residence 4",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/4616_230228_Fairmont-scaled.jpg",
     preview: "",
     type: "2ph",
@@ -248,7 +240,7 @@ export const ASSETS = [
   },
   {
     id: 29,
-    title: "4626_230228_Fairmont-scaled",
+    title: "Penthouse, 4 bedrooms Residence 5",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/4626_230228_Fairmont-scaled.jpg",
     preview: "",
     type: "2ph",
@@ -256,7 +248,7 @@ export const ASSETS = [
   },
   {
     id: 30,
-    title: "4656_230228_Fairmont-scaled",
+    title: "Penthouse, 4 bedrooms Residence 6",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/4656_230228_Fairmont-scaled.jpg",
     preview: "",
     type: "2ph",
@@ -264,7 +256,7 @@ export const ASSETS = [
   },
   {
     id: 31,
-    title: "4689_230228_Fairmont-scaled",
+    title: "Exclusive 3 bedroom Residence Ground Floor 1",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/4689_230228_Fairmont-scaled.jpg",
     preview: "",
     type: "802",
@@ -272,7 +264,7 @@ export const ASSETS = [
   },
   {
     id: 32,
-    title: "4696_230228_Fairmont-scaled",
+    title: "Exclusive 3 bedroom Residence Ground Floor 2",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/4696_230228_Fairmont-scaled.jpg",
     preview: "",
     type: "802",
@@ -280,7 +272,7 @@ export const ASSETS = [
   },
   {
     id: 33,
-    title: "4234_230227_Fairmont-scaled",
+    title: "Exclusive 3 bedroom Residence Mid Floor 1",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/4234_230227_Fairmont-scaled.jpg",
     preview: "",
     type: "912",
@@ -288,7 +280,7 @@ export const ASSETS = [
   },
   {
     id: 34,
-    title: "4246_230227_Fairmont-scaled",
+    title: "Exclusive 3 bedroom Residence Mid Floor 2",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/4246_230227_Fairmont-scaled.jpg",
     preview: "",
     type: "912",
@@ -296,7 +288,7 @@ export const ASSETS = [
   },
   {
     id: 35,
-    title: "4263_230227_Fairmont",
+    title: "Exclusive 3 bedroom Residence Mid Floor 3",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/4263_230227_Fairmont-scaled.jpg",
     preview: "",
     type: "912",
@@ -304,7 +296,7 @@ export const ASSETS = [
   },
   {
     id: 36,
-    title: "4272_230227_Fairmont-scaled",
+    title: "Exclusive 3 bedroom Residence Mid Floor 4",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/4272_230227_Fairmont-scaled.jpg",
     preview: "",
     type: "912",
@@ -312,7 +304,7 @@ export const ASSETS = [
   },
   {
     id: 37,
-    title: "4284_230227_Fairmont",
+    title: "Exclusive 3 bedroom Residence Mid Floor 5",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/4284_230227_Fairmont-scaled.jpg",
     preview: "",
     type: "912",
@@ -320,7 +312,7 @@ export const ASSETS = [
   },
   {
     id: 38,
-    title: "4293_230227_Fairmont-scaled",
+    title: "Exclusive 3 bedroom Residence Mid Floor 6",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/4293_230227_Fairmont-scaled.jpg",
     preview: "",
     type: "912",
@@ -328,7 +320,7 @@ export const ASSETS = [
   },
   {
     id: 39,
-    title: "4165_230227_Fairmont",
+    title: "Penthouse, 3 bedrooms Residence 1",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/4165_230227_Fairmont-scaled.jpg",
     preview: "",
     type: "931",
@@ -336,7 +328,7 @@ export const ASSETS = [
   },
   {
     id: 40,
-    title: "4293_230227_Fairmont-scaled",
+    title: "Penthouse, 3 bedrooms Residence 2",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/4173_230227_Fairmont-scaled.jpg",
     preview: "",
     type: "931",
@@ -344,7 +336,7 @@ export const ASSETS = [
   },
   {
     id: 41,
-    title: "4293_230227_Fairmont-scaled",
+    title: "Penthouse, 3 bedrooms Residence 3",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/4188_230227_Fairmont-scaled.jpg",
     preview: "",
     type: "931",
@@ -352,7 +344,7 @@ export const ASSETS = [
   },
   {
     id: 42,
-    title: "4293_230227_Fairmont-scaled",
+    title: "Penthouse, 3 bedrooms Residence 4",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/4197_230227_Fairmont-scaled.jpg",
     preview: "",
     type: "931",
@@ -360,7 +352,7 @@ export const ASSETS = [
   },
   {
     id: 43,
-    title: "4293_230227_Fairmont-scaled",
+    title: "Penthouse, 3 bedrooms Residence 5",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/4203_230227_Fairmont-scaled.jpg",
     preview: "",
     type: "931",
@@ -368,7 +360,7 @@ export const ASSETS = [
   },
   {
     id: 44,
-    title: "4293_230227_Fairmont-scaled",
+    title: "Penthouse, 3 bedrooms Residence 6",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/4211_230227_Fairmont-scaled.jpg",
     preview: "",
     type: "931",
@@ -376,7 +368,7 @@ export const ASSETS = [
   },
   {
     id: 45,
-    title: "Steam-Room-MYK20-scaled",
+    title: "Steam-Room-MYK20",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Steam-Room-MYK20-scaled.jpg",
     preview: "",
     type: "spa",
@@ -384,7 +376,7 @@ export const ASSETS = [
   },
   {
     id: 46,
-    title: "Fitness-Room-MYK14V2-scaled",
+    title: "Fitness-Room-MYK14V2",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Fitness-Room-MYK14V2-scaled.jpg",
     preview: "",
     type: "spa",
@@ -392,7 +384,7 @@ export const ASSETS = [
   },
   {
     id: 47,
-    title: "Fitness-Room-MYK18-scaled",
+    title: "Fitness-Room-MYK18",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Fitness-Room-MYK18-scaled.jpg",
     preview: "",
     type: "spa",
@@ -400,7 +392,7 @@ export const ASSETS = [
   },
   {
     id: 48,
-    title: "Fitness-Room-Peloton-Bikes-MYK19-scaled",
+    title: "Fitness-Room-Peloton-Bikes-MYK19",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Fitness-Room-Peloton-Bikes-MYK19-scaled.jpg",
     preview: "",
     type: "spa",
@@ -408,7 +400,7 @@ export const ASSETS = [
   },
   {
     id: 49,
-    title: "MYK24-scaled",
+    title: "MYK24",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/MYK24-scaled.jpg",
     preview: "",
     type: "spa",
@@ -416,7 +408,7 @@ export const ASSETS = [
   },
   {
     id: 50,
-    title: "4293_230227_Fairmont-scaled",
+    title: "MYK25V2",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/MYK25V2-scaled.jpg",
     preview: "",
     type: "spa",
@@ -424,7 +416,7 @@ export const ASSETS = [
   },
   {
     id: 51,
-    title: "4293_230227_Fairmont-scaled",
+    title: "MYK27V2",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/MYK27V2-scaled.jpg",
     preview: "",
     type: "spa",
@@ -432,7 +424,7 @@ export const ASSETS = [
   },
   {
     id: 52,
-    title: "Sauna-MYK22-scaled",
+    title: "Sauna-MYK22",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Sauna-MYK22-scaled.jpg",
     preview: "",
     type: "spa",
@@ -448,7 +440,7 @@ export const ASSETS = [
   },
   {
     id: 54,
-    title: "SPA-Cold-plunge-MYK12-scaled",
+    title: "SPA-Cold-plunge-MYK12",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/SPA-Cold-plunge-MYK12-scaled.jpg",
     preview: "",
     type: "spa",
@@ -456,7 +448,7 @@ export const ASSETS = [
   },
   {
     id: 55,
-    title: "Spa-Entrance-MYK02-scaled",
+    title: "Spa-Entrance-MYK02",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Spa-Entrance-MYK02-scaled.jpg",
     preview: "",
     type: "spa",
@@ -464,7 +456,7 @@ export const ASSETS = [
   },
   {
     id: 56,
-    title: "SPA-Garden-Pathway-MYK11V2-scaled",
+    title: "SPA-Garden-Pathway-MYK11V2",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/SPA-Garden-Pathway-MYK11V2-scaled.jpg",
     preview: "",
     type: "spa",
@@ -472,7 +464,7 @@ export const ASSETS = [
   },
   {
     id: 57,
-    title: "SPA-Indoor-Couples-treatment-room-MYK05-scaled",
+    title: "SPA-Indoor-Couples-treatment-room-MYK05",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/SPA-Indoor-Couples-treatment-room-MYK05-scaled.jpg",
     preview: "",
     type: "spa",
@@ -480,7 +472,7 @@ export const ASSETS = [
   },
   {
     id: 58,
-    title: "SPA-Juice-Bar-MYK15-scaled",
+    title: "SPA-Juice-Bar-MYK15",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/SPA-Juice-Bar-MYK15-scaled.jpg",
     preview: "",
     type: "spa",
@@ -488,7 +480,7 @@ export const ASSETS = [
   },
   {
     id: 59,
-    title: "SPA-Lobby-MYK10_associatesV2-scaled",
+    title: "SPA-Lobby-MYK10_associatesV2",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/SPA-Lobby-MYK10_associatesV2-scaled.jpg",
     preview: "",
     type: "spa",
@@ -496,7 +488,7 @@ export const ASSETS = [
   },
   {
     id: 60,
-    title: "4293_230227_Fairmont-scaled",
+    title: "SPA-Lobby-MYK16",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/SPA-Lobby-MYK16-scaled.jpg",
     preview: "",
     type: "spa",
@@ -504,7 +496,7 @@ export const ASSETS = [
   },
   {
     id: 61,
-    title: "Spa-MYK23-scaled",
+    title: "Spa-MYK23",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Spa-MYK23-scaled.jpg",
     preview: "",
     type: "spa",
@@ -512,7 +504,7 @@ export const ASSETS = [
   },
   {
     id: 62,
-    title: "Spa-Outdoor-Couples-Treatment-Rm-MYK03-scaled",
+    title: "Spa-Outdoor-Couples-Treatment-Rm-MYK03",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Spa-Outdoor-Couples-Treatment-Rm-MYK03-scaled.jpg",
     preview: "",
     type: "spa",
@@ -520,7 +512,7 @@ export const ASSETS = [
   },
   {
     id: 63,
-    title: "SPA-Reception-MYK10V2-scaled",
+    title: "SPA-Reception-MYK10V2",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/SPA-Reception-MYK10V2-scaled.jpg",
     preview: "",
     type: "spa",
@@ -528,7 +520,7 @@ export const ASSETS = [
   },
   {
     id: 64,
-    title: "SPA-Salon-MYK13-scaled",
+    title: "SPA-Salon-MYK13",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/SPA-Salon-MYK13-scaled.jpg",
     preview: "",
     type: "spa",
@@ -536,7 +528,7 @@ export const ASSETS = [
   },
   {
     id: 65,
-    title: "SPA-Serenity-Room-MYK08V2-scaled",
+    title: "SPA-Serenity-Room-MYK08V2",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/SPA-Serenity-Room-MYK08V2-scaled.jpg",
     preview: "",
     type: "spa",
@@ -544,7 +536,7 @@ export const ASSETS = [
   },
   {
     id: 66,
-    title: "SPA-Serenity-Room-MYK09-scaled",
+    title: "SPA-Serenity-Room-MYK09",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/SPA-Serenity-Room-MYK09-scaled.jpg",
     preview: "",
     type: "spa",
@@ -552,7 +544,7 @@ export const ASSETS = [
   },
   {
     id: 67,
-    title: "SPA-Temazcal-MYK04-scaled",
+    title: "SPA-Temazcal-MYK04",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/SPA-Temazcal-MYK04-scaled.jpg",
     preview: "",
     type: "spa",
@@ -560,7 +552,7 @@ export const ASSETS = [
   },
   {
     id: 68,
-    title: "SPA-Vichy-Shower-MYK07-scaled",
+    title: "SPA-Vichy-Shower-MYK07",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/SPA-Vichy-Shower-MYK07-scaled.jpg",
     preview: "",
     type: "spa",
@@ -568,7 +560,7 @@ export const ASSETS = [
   },
   {
     id: 69,
-    title: "SPA-Yoga-Area-MYK21-scaled",
+    title: "SPA Vapor Area MYK21",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/SPA-Yoga-Area-MYK21-scaled.jpg",
     preview: "",
     type: "spa",
@@ -576,7 +568,7 @@ export const ASSETS = [
   },
   {
     id: 70,
-    title: "Bamboo-Vanity-MYK_239-scaled",
+    title: "Bamboo-Vanity-MYK_239",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Bamboo-Vanity-MYK_239-scaled.jpg",
     preview: "",
     type: "rooms",
@@ -584,7 +576,7 @@ export const ASSETS = [
   },
   {
     id: 71,
-    title: "Bamboo-Living-Room-MYK_211-scaled",
+    title: "Bamboo-Living-Room-MYK_211",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Bamboo-Living-Room-MYK_211-scaled.jpg",
     preview: "",
     type: "rooms",
@@ -592,7 +584,7 @@ export const ASSETS = [
   },
   {
     id: 72,
-    title: "Bamboo-Masterbedroom-MYK_238-scaled",
+    title: "Bamboo-Masterbedroom-MYK_238",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Bamboo-Masterbedroom-MYK_238-scaled.jpg",
     preview: "",
     type: "rooms",
@@ -600,7 +592,7 @@ export const ASSETS = [
   },
   {
     id: 73,
-    title: "Bamboo-Suite-Pool-MYK_240-scaled",
+    title: "Bamboo-Suite-Pool-MYK_240",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Bamboo-Suite-Pool-MYK_240-scaled.jpg",
     preview: "",
     type: "rooms",
@@ -608,7 +600,7 @@ export const ASSETS = [
   },
   {
     id: 74,
-    title: "Beach-Area-Double-Bathroom-MYK_214-scaled",
+    title: "Beach-Area-Double-Bathroom-MYK_214",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Beach-Area-Double-Bathroom-MYK_214-scaled.jpg",
     preview: "",
     type: "rooms",
@@ -616,7 +608,7 @@ export const ASSETS = [
   },
   {
     id: 75,
-    title: "Beach-Area-King-Bathroom-MYK_213-scaled",
+    title: "Beach-Area-King-Bathroom-MYK_213",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Beach-Area-King-Bathroom-MYK_213-scaled.jpg",
     preview: "",
     type: "rooms",
@@ -624,7 +616,7 @@ export const ASSETS = [
   },
   {
     id: 76,
-    title: "Beach-Area-King-MYK_223-scaled",
+    title: "Beach-Area-King-MYK_223",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Beach-Area-King-MYK_223-scaled.jpg",
     preview: "",
     type: "rooms",
@@ -632,7 +624,7 @@ export const ASSETS = [
   },
   {
     id: 77,
-    title: "Beach-Area-Masterbedroom-MYK_226-scaled",
+    title: "Beach-Area-Masterbedroom-MYK_226",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Beach-Area-Masterbedroom-MYK_226-scaled.jpg",
     preview: "",
     type: "rooms",
@@ -640,7 +632,7 @@ export const ASSETS = [
   },
   {
     id: 78,
-    title: "Beach-Area-Suite-Master-Bedroom-Front-MYK_227-scaled",
+    title: "Beach-Area-Suite-Master-Bedroom-Front-MYK_227",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Beach-Area-Suite-Master-Bedroom-Front-MYK_227-scaled.jpg",
     preview: "",
     type: "rooms",
@@ -648,7 +640,7 @@ export const ASSETS = [
   },
   {
     id: 79,
-    title: "Beach-Front-Bathroom-MYK-229-scaled",
+    title: "Beach-Front-Bathroom-MYK-229",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Beach-Front-Bathroom-MYK-229-scaled.jpg",
     preview: "",
     type: "rooms",
@@ -656,7 +648,7 @@ export const ASSETS = [
   },
   {
     id: 80,
-    title: "Beach-Front-Double-MYK_228-scaled",
+    title: "Beach-Front-Double-MYK_228",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Beach-Front-Double-MYK_228-scaled.jpg",
     preview: "",
     type: "rooms",
@@ -664,7 +656,7 @@ export const ASSETS = [
   },
   {
     id: 81,
-    title: "Beach-Front-Premium-King-MYK_251-scaled",
+    title: "Beach-Front-Premium-King-MYK_251",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Beach-Front-Premium-King-MYK_251-scaled.jpg",
     preview: "",
     type: "rooms",
@@ -672,7 +664,7 @@ export const ASSETS = [
   },
   {
     id: 82,
-    title: "Beach-Front-Premium-Master-Bedroom-MYK_256-scaled",
+    title: "Beach-Front-Premium-Master-Bedroom-MYK_256",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Beach-Front-Premium-Master-Bedroom-MYK_256-scaled.jpg",
     preview: "",
     type: "rooms",
@@ -680,7 +672,7 @@ export const ASSETS = [
   },
   {
     id: 83,
-    title: "Beach-Front-Premium-Outdoor-shower-MYK_254-scaled",
+    title: "Beach-Front-Premium-Outdoor-shower-MYK_254",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Beach-Front-Premium-Outdoor-shower-MYK_254-scaled.jpg",
     preview: "",
     type: "rooms",
@@ -688,7 +680,7 @@ export const ASSETS = [
   },
   {
     id: 84,
-    title: "Beach-Front-Premium-Poll-MYK_258-scaled",
+    title: "Beach-Front-Premium-Poll-MYK_258",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Beach-Front-Premium-Poll-MYK_258-scaled.jpg",
     preview: "",
     type: "rooms",
@@ -696,7 +688,7 @@ export const ASSETS = [
   },
   {
     id: 85,
-    title: "Beach-Front-Suite-Living-room-MYK_255-scaled",
+    title: "Beach-Front-Suite-Living-room-MYK_255",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Beach-Front-Suite-Living-room-MYK_255-scaled.jpg",
     preview: "",
     type: "rooms",
@@ -704,23 +696,15 @@ export const ASSETS = [
   },
   {
     id: 86,
-    title: "Coral-Bathroom-MYK_243-scaled",
+    title: "Coral-Bathroom-MYK_243",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Coral-Bathroom-MYK_243-scaled.jpg",
     preview: "",
     type: "rooms",
     filetype: "img",
   },
   {
-    id: 87,
-    title: "Coral-Outdoor-shower-MYK_241-scaled",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Coral-Outdoor-shower-MYK_241-scaled.jpg",
-    preview: "",
-    type: "rooms",
-    filetype: "img",
-  },
-  {
     id: 88,
-    title: "Coral-Outdoor-Shower-MYK_242-scaled",
+    title: "Coral-Outdoor-Shower-MYK_242",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Coral-Outdoor-Shower-MYK_242-scaled.jpg",
     preview: "",
     type: "rooms",
@@ -728,7 +712,7 @@ export const ASSETS = [
   },
   {
     id: 89,
-    title: "Coral-Suite-Living-Room-MYK_248-scaled",
+    title: "Coral-Suite-Living-Room-MYK_248",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Coral-Suite-Living-Room-MYK_248-scaled.jpg",
     preview: "",
     type: "rooms",
@@ -736,7 +720,7 @@ export const ASSETS = [
   },
   {
     id: 90,
-    title: "Coral-Suite-Masterbedroom-MYK_245-scaled",
+    title: "Coral-Suite-Masterbedroom-MYK_245",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Coral-Suite-Masterbedroom-MYK_245-scaled.jpg",
     preview: "",
     type: "rooms",
@@ -744,7 +728,7 @@ export const ASSETS = [
   },
   {
     id: 91,
-    title: "Deluxe-Bathroom-MYK_196-scaled",
+    title: "Deluxe-Bathroom-MYK_196",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Deluxe-Bathroom-MYK_196-scaled.jpg",
     preview: "",
     type: "rooms",
@@ -752,7 +736,7 @@ export const ASSETS = [
   },
   {
     id: 92,
-    title: "Deluxe-Double-MYK_195-scaled",
+    title: "Deluxe-Double-MYK_195",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Deluxe-Double-MYK_195-scaled.jpg",
     preview: "",
     type: "rooms",
@@ -760,7 +744,7 @@ export const ASSETS = [
   },
   {
     id: 93,
-    title: "Deluxe-King-MYK_193-scaled",
+    title: "Deluxe-King-MYK_193",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Deluxe-King-MYK_193-scaled.jpg",
     preview: "",
     type: "rooms",
@@ -768,7 +752,7 @@ export const ASSETS = [
   },
   {
     id: 94,
-    title: "Fairmont-Bathroom-MYK_193-scaled",
+    title: "Fairmont-Bathroom-MYK_193",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Fairmont-Bathroom-MYK_193-scaled.jpg",
     preview: "",
     type: "rooms",
@@ -776,7 +760,7 @@ export const ASSETS = [
   },
   {
     id: 95,
-    title: "Fairmont-Double-MYK_192-scaled",
+    title: "Fairmont-Double-MYK_192",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Fairmont-Double-MYK_192-scaled.jpg",
     preview: "",
     type: "rooms",
@@ -784,7 +768,7 @@ export const ASSETS = [
   },
   {
     id: 96,
-    title: "Deluxe-Bathroom-MYK_196-scaled",
+    title: "Deluxe-Bathroom-MYK_196",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Fairmont-King-MYK_190--scaled.jpg",
     preview: "",
     type: "rooms",
@@ -792,7 +776,7 @@ export const ASSETS = [
   },
   {
     id: 97,
-    title: "Farimont-Bathroom-MYK_191-scaled",
+    title: "Farimont-Bathroom-MYK_191",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Farimont-Bathroom-MYK_191-scaled.jpg",
     preview: "",
     type: "rooms",
@@ -800,7 +784,7 @@ export const ASSETS = [
   },
   {
     id: 98,
-    title: "MYK_194_Deluxe-Bathroom-scaled",
+    title: "MYK_194_Deluxe-Bathroom",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/MYK_194_Deluxe-Bathroom-scaled.jpg",
     preview: "",
     type: "rooms",
@@ -808,7 +792,7 @@ export const ASSETS = [
   },
   {
     id: 99,
-    title: "Signature-Bathroom-MYK_200-scaled",
+    title: "Signature-Bathroom-MYK_200",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Signature-Bathroom-MYK_200-scaled.jpg",
     preview: "",
     type: "rooms",
@@ -816,7 +800,7 @@ export const ASSETS = [
   },
   {
     id: 100,
-    title: "Signature-Casita-MYK_206-scaled",
+    title: "Signature-Casita-MYK_206",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Signature-Casita-MYK_206-scaled.jpg",
     preview: "",
     type: "rooms",
@@ -824,7 +808,7 @@ export const ASSETS = [
   },
   {
     id: 101,
-    title: "Signature-Double-MYK_201-scaled",
+    title: "Signature-Double-MYK_201",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Signature-Double-MYK_201-scaled.jpg",
     preview: "",
     type: "rooms",
@@ -832,7 +816,7 @@ export const ASSETS = [
   },
   {
     id: 102,
-    title: "Signature-Double-MYK_202-scaled",
+    title: "Signature-Double-MYK_202",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Signature-Double-MYK_202-scaled.jpg",
     preview: "",
     type: "rooms",
@@ -840,7 +824,7 @@ export const ASSETS = [
   },
   {
     id: 103,
-    title: "Signature-King-MYK_198-scaled",
+    title: "Signature-King-MYK_198",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Signature-King-MYK_198-scaled.jpg",
     preview: "",
     type: "rooms",
@@ -848,7 +832,7 @@ export const ASSETS = [
   },
   {
     id: 104,
-    title: "Signature-King-Suite-MYK_215-scaled",
+    title: "Signature-King-Suite-MYK_215",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Signature-King-Suite-MYK_215-scaled.jpg",
     preview: "",
     type: "rooms",
@@ -856,7 +840,7 @@ export const ASSETS = [
   },
   {
     id: 105,
-    title: "Signature-King-View-MYK_197-scaled",
+    title: "Signature-King-View-MYK_197",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Signature-King-View-MYK_197-scaled.jpg",
     preview: "",
     type: "rooms",
@@ -864,7 +848,7 @@ export const ASSETS = [
   },
   {
     id: 106,
-    title: "Signature-Suite-Double-MYK_203-scaled",
+    title: "Signature-Suite-Double-MYK_203",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Signature-Suite-Double-MYK_203-scaled.jpg",
     preview: "",
     type: "rooms",
@@ -872,7 +856,7 @@ export const ASSETS = [
   },
   {
     id: 107,
-    title: "Signature-Suite-King-Front-MYK__204-scaled",
+    title: "Signature-Suite-King-Front-MYK__204",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Signature-Suite-King-Front-MYK__204-scaled.jpg",
     preview: "",
     type: "rooms",
@@ -880,7 +864,7 @@ export const ASSETS = [
   },
   {
     id: 108,
-    title: "Signature-SuIte-Living-Room-MYK_208-scaled",
+    title: "Signature-SuIte-Living-Room-MYK_208",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Signature-SuIte-Living-Room-MYK_208-scaled.jpg",
     preview: "",
     type: "rooms",
@@ -888,7 +872,7 @@ export const ASSETS = [
   },
   {
     id: 109,
-    title: "Signature-Suite-Vanity-MYK_212-scaled",
+    title: "Signature-Suite-Vanity-MYK_212",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Signature-Suite-Vanity-MYK_212-scaled.jpg",
     preview: "",
     type: "rooms",
@@ -896,7 +880,7 @@ export const ASSETS = [
   },
   {
     id: 110,
-    title: "Tortuga-Bathroom-MYK_234-scaled",
+    title: "Tortuga-Bathroom-MYK_234",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Tortuga-Bathroom-MYK_234-scaled.jpg",
     preview: "",
     type: "rooms",
@@ -904,7 +888,7 @@ export const ASSETS = [
   },
   {
     id: 111,
-    title: "Tortuga-Bathroom-MYK_235-scaled",
+    title: "Tortuga-Bathroom-MYK_235",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Tortuga-Bathroom-MYK_235-scaled.jpg",
     preview: "",
     type: "rooms",
@@ -912,7 +896,7 @@ export const ASSETS = [
   },
   {
     id: 112,
-    title: "Tortuga-Masterbedroom-MYK_236-scaled",
+    title: "Tortuga-Masterbedroom-MYK_236",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Tortuga-Masterbedroom-MYK_236-scaled.jpg",
     preview: "",
     type: "rooms",
@@ -920,7 +904,7 @@ export const ASSETS = [
   },
   {
     id: 113,
-    title: "Tortuga-Pool-MYK_231-scaled",
+    title: "Tortuga-Pool-MYK_231",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Tortuga-Pool-MYK_231-scaled.jpg",
     preview: "",
     type: "rooms",
@@ -928,7 +912,7 @@ export const ASSETS = [
   },
   {
     id: 114,
-    title: "Tortuga-Pool-MYK_232-scaled",
+    title: "Tortuga-Pool-MYK_232",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Tortuga-Pool-MYK_232-scaled.jpg",
     preview: "",
     type: "rooms",
@@ -936,7 +920,7 @@ export const ASSETS = [
   },
   {
     id: 115,
-    title: "Chaka-Boutique-Beach-club-area-MYK-380-scaled",
+    title: "Chaka-Boutique-Beach-club-area-MYK-380",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Chaka-Boutique-Beach-club-area-MYK-380-scaled.jpg",
     preview: "",
     type: "public",
@@ -944,7 +928,7 @@ export const ASSETS = [
   },
   {
     id: 116,
-    title: "Cielo-Roo-Top-MYK-422-scaled",
+    title: "Cielo-Roof-Top-MYK-422",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Cielo-Roo-Top-MYK-422-scaled.jpg",
     preview: "",
     type: "public",
@@ -952,7 +936,7 @@ export const ASSETS = [
   },
   {
     id: 117,
-    title: "Cielo-Roof-Top-Area-MYK-306-scaled",
+    title: "Cielo-Roof-Top-Area-MYK-306",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Cielo-Roof-Top-Area-MYK-306-scaled.jpg",
     preview: "",
     type: "public",
@@ -960,7 +944,7 @@ export const ASSETS = [
   },
   {
     id: 118,
-    title: "Cielo-Roof-Top-Area-MYK-307-scaled",
+    title: "Cielo-Roof-Top-Area-MYK-307",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Cielo-Roof-Top-Area-MYK-307-scaled.jpg",
     preview: "",
     type: "public",
@@ -968,7 +952,7 @@ export const ASSETS = [
   },
   {
     id: 119,
-    title: "Cielo-Roof-Top-Area-MYK-308-scaled",
+    title: "Cielo-Roof-Top-Area-MYK-308",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Cielo-Roof-Top-Area-MYK-308-scaled.jpg",
     preview: "",
     type: "public",
@@ -976,7 +960,7 @@ export const ASSETS = [
   },
   {
     id: 120,
-    title: "Cielo-Roof-Top-Area-MYK-309-scaled",
+    title: "Cielo-Roof-Top-Area-MYK-309",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Cielo-Roof-Top-Area-MYK-309-scaled.jpg",
     preview: "",
     type: "public",
@@ -984,7 +968,7 @@ export const ASSETS = [
   },
   {
     id: 121,
-    title: "Cielo-Roof-Top-Area-MYK-310-scaled",
+    title: "Cielo-Roof-Top-Area-MYK-310",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Cielo-Roof-Top-Area-MYK-310-scaled.jpg",
     preview: "",
     type: "public",
@@ -992,7 +976,7 @@ export const ASSETS = [
   },
   {
     id: 122,
-    title: "Cielo-Roof-Top-Area-MYK-311-scaled",
+    title: "Cielo-Roof-Top-Area-MYK-311",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Cielo-Roof-Top-Area-MYK-311-scaled.jpg",
     preview: "",
     type: "public",
@@ -1000,7 +984,7 @@ export const ASSETS = [
   },
   {
     id: 123,
-    title: "Cielo-Roof-Top-MYK-397-scaled",
+    title: "Cielo-Roof-Top-MYK-397",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Cielo-Roof-Top-MYK-397-scaled.jpg",
     preview: "",
     type: "public",
@@ -1008,7 +992,7 @@ export const ASSETS = [
   },
   {
     id: 124,
-    title: "Cielo-Roof-top-MYK-398-scaled",
+    title: "Cielo-Roof-top-MYK-398",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Cielo-Roof-top-MYK-398-scaled.jpg",
     preview: "",
     type: "public",
@@ -1016,7 +1000,7 @@ export const ASSETS = [
   },
   {
     id: 125,
-    title: "Cielo-Roof-top-MYK-399-scaled",
+    title: "Cielo-Roof-top-MYK-399",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Cielo-Roof-top-MYK-399-scaled.jpg",
     preview: "",
     type: "public",
@@ -1024,7 +1008,7 @@ export const ASSETS = [
   },
   {
     id: 126,
-    title: "Cielo-Roof-top-MYK-401-scaled",
+    title: "Cielo-Roof-top-MYK-401",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Cielo-Roof-top-MYK-401-scaled.jpg",
     preview: "",
     type: "public",
@@ -1032,7 +1016,7 @@ export const ASSETS = [
   },
   {
     id: 127,
-    title: "Cielo-Roof-top-MYK-402-scaled",
+    title: "Cielo-Roof-top-MYK-402",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Cielo-Roof-top-MYK-402-scaled.jpg",
     preview: "",
     type: "public",
@@ -1040,7 +1024,7 @@ export const ASSETS = [
   },
   {
     id: 128,
-    title: "Cielo-Roof-top-MYK-403-scaled",
+    title: "Cielo-Roof-top-MYK-403",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Cielo-Roof-top-MYK-403-scaled.jpg",
     preview: "",
     type: "public",
@@ -1048,7 +1032,7 @@ export const ASSETS = [
   },
   {
     id: 129,
-    title: "Cielo-Roof-top-MYK-404-scaled",
+    title: "Cielo-Roof-top-MYK-404",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Cielo-Roof-top-MYK-404-scaled.jpg",
     preview: "",
     type: "public",
@@ -1056,7 +1040,7 @@ export const ASSETS = [
   },
   {
     id: 130,
-    title: "Cielo-Roof-top-MYK-405-scaled",
+    title: "Cielo-Roof-top-MYK-405",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Cielo-Roof-top-MYK-405-scaled.jpg",
     preview: "",
     type: "public",
@@ -1064,7 +1048,7 @@ export const ASSETS = [
   },
   {
     id: 131,
-    title: "Cielo-Roof-Top-MYK-419-scaled",
+    title: "Cielo-Roof-Top-MYK-419",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Cielo-Roof-Top-MYK-419-scaled.jpg",
     preview: "",
     type: "public",
@@ -1072,7 +1056,7 @@ export const ASSETS = [
   },
   {
     id: 132,
-    title: "Cielo-Roof-Top-MYK-421-scaled",
+    title: "Cielo-Roof-Top-MYK-421",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Cielo-Roof-Top-MYK-421-scaled.jpg",
     preview: "",
     type: "public",
@@ -1080,7 +1064,7 @@ export const ASSETS = [
   },
   {
     id: 133,
-    title: "Fairmont-Mayakoba-Motor-Lobby-MYK-312-scaled",
+    title: "Fairmont-Mayakoba-Motor-Lobby-MYK-312",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Fairmont-Mayakoba-Motor-Lobby-MYK-312-scaled.jpg",
     preview: "",
     type: "public",
@@ -1088,7 +1072,7 @@ export const ASSETS = [
   },
   {
     id: 134,
-    title: "Fuego-Restaurant-MYK-322-scaled",
+    title: "Fuego-Restaurant-MYK-322",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Fuego-Restaurant-MYK-322-scaled.jpg",
     preview: "",
     type: "public",
@@ -1096,7 +1080,7 @@ export const ASSETS = [
   },
   {
     id: 135,
-    title: "Fuego-Restaurant-MYK-323-scaled",
+    title: "Fuego-Restaurant-MYK-323",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Fuego-Restaurant-MYK-323-scaled.jpg",
     preview: "",
     type: "public",
@@ -1104,7 +1088,7 @@ export const ASSETS = [
   },
   {
     id: 134,
-    title: "Fuego-Restaurant-MYK-322-scaled",
+    title: "Fuego-Restaurant-MYK-322",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Fuego-Restaurant-MYK-322-scaled.jpg",
     preview: "",
     type: "public",
@@ -1112,7 +1096,7 @@ export const ASSETS = [
   },
   {
     id: 135,
-    title: "Fuego-Restaurant-Sunset-MYK-392-scaled",
+    title: "Fuego-Restaurant-Sunset-MYK-392",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Fuego-Restaurant-Sunset-MYK-392-scaled.jpg",
     preview: "",
     type: "public",
@@ -1120,7 +1104,7 @@ export const ASSETS = [
   },
   {
     id: 136,
-    title: "Hix-Bar-Lounge-Terrace-MYK-317-scaled",
+    title: "Hix-Bar-Lounge-Terrace-MYK-317",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Hix-Bar-Lounge-Terrace-MYK-317-scaled.jpg",
     preview: "",
     type: "public",
@@ -1128,7 +1112,7 @@ export const ASSETS = [
   },
   {
     id: 137,
-    title: "Ki-Bar-MYK-321-scaled",
+    title: "Ki-Bar-MYK-321",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Ki-Bar-MYK-321-scaled.jpg",
     preview: "",
     type: "public",
@@ -1136,7 +1120,7 @@ export const ASSETS = [
   },
   {
     id: 138,
-    title: "Kids-Club-Balam-at-La-Laguna-area-MYK-350-scaled",
+    title: "Kids-Club-Balam-at-La-Laguna-area-MYK-350",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Kids-Club-Balam-at-La-Laguna-area-MYK-350-scaled.jpg",
     preview: "",
     type: "public",
@@ -1144,7 +1128,7 @@ export const ASSETS = [
   },
   {
     id: 139,
-    title: "Kids-Club-Balam-at-La-Laguna-areaMYK-351-scaled",
+    title: "Kids-Club-Balam-at-La-Laguna-areaMYK-351",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Kids-Club-Balam-at-La-Laguna-areaMYK-351-scaled.jpg",
     preview: "",
     type: "public",
@@ -1152,23 +1136,15 @@ export const ASSETS = [
   },
   {
     id: 140,
-    title: "Kids-Club-MYK-318-scaled",
+    title: "Coatí Kids Club MYK-318",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Kids-Club-MYK-318-scaled.jpg",
     preview: "",
     type: "public",
     filetype: "img",
   },
   {
-    id: 141,
-    title: "Kids-Club-MYK-319-scaled",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Kids-Club-MYK-319-scaled.jpg",
-    preview: "",
-    type: "public",
-    filetype: "img",
-  },
-  {
     id: 142,
-    title: "La-Lagtuna-Aerial-MYK-301-scaled.jpg",
+    title: "La-Laguna-Aerial-MYK-301-scaled.jpg",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/La-Lagtuna-Aerial-MYK-301-scaled.jpg",
     preview: "",
     type: "public",
@@ -1176,23 +1152,15 @@ export const ASSETS = [
   },
   {
     id: 143,
-    title: "La-Laguna-Aerial-MYK-302-scaled",
+    title: "La-Laguna-Aerial-MYK-302",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/La-Laguna-Aerial-MYK-302-scaled.jpg",
     preview: "",
     type: "public",
     filetype: "img",
   },
   {
-    id: 144,
-    title: "La-Laguna-Exterior-MYK-375-scaled",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/La-Laguna-Exterior-MYK-375-scaled.jpg",
-    preview: "",
-    type: "public",
-    filetype: "img",
-  },
-  {
     id: 145,
-    title: "La-Laguna-Exterior-MYK-376-scaled",
+    title: "La-Laguna-Exterior-MYK-376",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/La-Laguna-Exterior-MYK-376-scaled.jpg",
     preview: "",
     type: "public",
@@ -1200,7 +1168,7 @@ export const ASSETS = [
   },
   {
     id: 146,
-    title: "La-Laguna-Exterior-MYK-377-scaled",
+    title: "La-Laguna-Exterior-MYK-377",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/La-Laguna-Exterior-MYK-377-scaled.jpg",
     preview: "",
     type: "public",
@@ -1208,23 +1176,15 @@ export const ASSETS = [
   },
   {
     id: 147,
-    title: "La-Laguna-Exterior-MYK-378-scaled",
+    title: "La-Laguna-Exterior-MYK-378",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/La-Laguna-Exterior-MYK-378-scaled.jpg",
     preview: "",
     type: "public",
     filetype: "img",
   },
   {
-    id: 148,
-    title: "La-Laguna-Pool-MYK-339-scaled",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/La-Laguna-Pool-MYK-339-scaled.jpg",
-    preview: "",
-    type: "public",
-    filetype: "img",
-  },
-  {
     id: 149,
-    title: "La-Laguna-Pool-MYK-347-scaled",
+    title: "La-Laguna-Pool-MYK-347",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/La-Laguna-Pool-MYK-347-scaled.jpg",
     preview: "",
     type: "public",
@@ -1232,7 +1192,7 @@ export const ASSETS = [
   },
   {
     id: 150,
-    title: "La-Laguna-private-dining-area-MYK-354-scaled",
+    title: "La-Laguna-private-dining-area-MYK-354",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/La-Laguna-private-dining-area-MYK-354-scaled.jpg",
     preview: "",
     type: "public",
@@ -1240,7 +1200,7 @@ export const ASSETS = [
   },
   {
     id: 151,
-    title: "La-Laguna-Private-Dining-area-MYK-355-scaled",
+    title: "La-Laguna-Private-Dining-area-MYK-355",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/La-Laguna-Private-Dining-area-MYK-355-scaled.jpg",
     preview: "",
     type: "public",
@@ -1248,7 +1208,7 @@ export const ASSETS = [
   },
   {
     id: 152,
-    title: "La-Laguna-Private-Dining-area-MYK-357-scaled",
+    title: "La-Laguna-Private-Dining-area-MYK-357",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/La-Laguna-Private-Dining-area-MYK-357-scaled.jpg",
     preview: "",
     type: "public",
@@ -1256,7 +1216,7 @@ export const ASSETS = [
   },
   {
     id: 153,
-    title: "La-Laguna-Restaurant-MYK-424-scaled",
+    title: "La-Laguna-Restaurant-MYK-424",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/La-Laguna-Restaurant-MYK-424-scaled.jpg",
     preview: "",
     type: "public",
@@ -1264,7 +1224,7 @@ export const ASSETS = [
   },
   {
     id: 154,
-    title: "La-laguna-terrace-MYK-300-scaled",
+    title: "La-laguna-terrace-MYK-300",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/La-laguna-terrace-MYK-300-scaled.jpg",
     preview: "",
     type: "public",
@@ -1272,7 +1232,7 @@ export const ASSETS = [
   },
   {
     id: 155,
-    title: "Maykana-Beach-Club-Aerial-MYK-304-scaled",
+    title: "Maykana-Beach-Club-Aerial-MYK-304",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Maykana-Beach-Club-Aerial-MYK-304-scaled.jpg",
     preview: "",
     type: "public",
@@ -1280,7 +1240,7 @@ export const ASSETS = [
   },
   {
     id: 156,
-    title: "Maykana-Beach-Club-Front-MYK-305-scaled",
+    title: "Maykana-Beach-Club-Front-MYK-305",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Maykana-Beach-Club-Front-MYK-305-scaled.jpg",
     preview: "",
     type: "public",
@@ -1288,7 +1248,7 @@ export const ASSETS = [
   },
   {
     id: 157,
-    title: "Maykana-Beach-Club-MYK-388-scaled",
+    title: "Maykana-Beach-Club-MYK-388",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Maykana-Beach-Club-MYK-388-scaled.jpg",
     preview: "",
     type: "public",
@@ -1296,7 +1256,7 @@ export const ASSETS = [
   },
   {
     id: 158,
-    title: "Maykana-Beach-Club-MYK-389-scaled",
+    title: "Maykana-Beach-Club-MYK-389",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Maykana-Beach-Club-MYK-389-scaled.jpg",
     preview: "",
     type: "public",
@@ -1304,7 +1264,7 @@ export const ASSETS = [
   },
   {
     id: 159,
-    title: "Maykana-Beach-Club-Sunset-MYK-426-scaled",
+    title: "Maykana-Beach-Club-Sunset-MYK-426",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Maykana-Beach-Club-Sunset-MYK-426-scaled.jpg",
     preview: "",
     type: "public",
@@ -1312,7 +1272,7 @@ export const ASSETS = [
   },
   {
     id: 160,
-    title: "Maykana-Terrace-MYK-434-scaled",
+    title: "Maykana-Terrace-MYK-434",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Maykana-Terrace-MYK-434-scaled.jpg",
     preview: "",
     type: "public",
@@ -1320,7 +1280,7 @@ export const ASSETS = [
   },
   {
     id: 161,
-    title: "Motor-Lobby-MYK-437-scaled",
+    title: "Motor-Lobby-MYK-437",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Motor-Lobby-MYK-437-scaled.jpg",
     preview: "",
     type: "public",

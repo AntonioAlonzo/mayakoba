@@ -31,17 +31,18 @@ export default function Filter({ onApplyFilterClick }) {
   ];
 
   const OTHER = [
-    { label: "Logos", value: "logos" },
-    { label: "Brochure", value: "brochure" },
     { label: "Factsheet", value: "factsheet" },
     { label: "Offers", value: "offers" },
-    { label: "Experiences", value: "experiences-other" },
-    { label: "Weddings", value: "weddings" },
-    { label: "Banquet Kit", value: "banquet" },
-    { label: "Virtual Tour", value: "virtual" },
+    { label: "Brochure", value: "brochure" },
     { label: "Resort Map", value: "resort" },
     { label: "Daily Program", value: "daily" },
-    { label: "Special Events", value: "special" },
+    { label: "Events Calendar", value: "events" },
+    { label: "Video", value: "video" },
+    { label: "Virtual Tour", value: "virtual" },
+    { label: "Photos", value: "photos" },
+    { label: "Logo", value: "logo" },
+    { label: "Weddings", value: "weddings" },
+    { label: "Banquet Kit", value: "banquet" },
     { label: "Reservations", value: "reservations" },
   ];
 
