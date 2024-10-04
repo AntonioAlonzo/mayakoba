@@ -62,8 +62,6 @@ export default function Home() {
         <h2 className="font-silk-serif text-center text-[2rem] mx-auto">
           <span className="italic">Welcome</span>
           <br /> to <span className="font-semibold">FAIRMONT MAYAKOBA</span>
-          <br />
-          <span className="italic">brand asset</span> <br /> MANAGEMENT SITE
         </h2>
 
         {/* Social media and website icons */}
@@ -107,7 +105,7 @@ export default function Home() {
       </div>
 
       <FileTypeFilter
-        onApplyFilterClick={handleApplyFileTypeFilterClick}
+        onApplyFilterClick={handleApplyFilterClick}
       ></FileTypeFilter>
 
       <h2 className="uppercase text-center text-[2rem] mt-16 font-silk-serif">
@@ -115,11 +113,12 @@ export default function Home() {
       </h2>
 
       <main className="flex md:gap-40 md:px-32 md:mt-16 px-2 gap-2 md:flex-row flex-col">
+        {/** 
         <div className="w-full md:w-1/6">
           <Filter onApplyFilterClick={handleApplyFilterClick}></Filter>
         </div>
-
-        <div className="w-full md:w-5/6 grid grid-cols-2 md:grid-cols-3 gap-x-2 gap-y-7 ">
+        */}
+        <div className="w-full  grid grid-cols-2 md:grid-cols-3 gap-x-2 gap-y-7 ">
           {loading ? (
             <div className="col-span-2 md:col-span-3 text-center">
               <p>Loading...</p>
