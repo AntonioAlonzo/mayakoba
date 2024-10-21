@@ -112,6 +112,14 @@ export default function FileTypeFilter({ onApplyFilterClick }) {
         ></div>
         <p className="uppercase text-black mt-2 text-center">Reservations</p>
       </div>
+
+      <div className="flex flex-col items-center max-w-[8rem] m-4">
+        <div
+          onClick={() => handleTypeClick("menus")}
+          className="cursor-pointer bg-[url('./assets/menus.png')] h-[8rem] w-[8rem] md:h-[10rem] md:w-[10rem] bg-cover flex items-center justify-center rounded-full"
+        ></div>
+        <p className="uppercase text-black mt-2 text-center">Menus</p>
+      </div>
     </div>
   );
 }

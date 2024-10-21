@@ -45,6 +45,7 @@ export default function Filter({ onApplyFilterClick }) {
     { label: "Weddings", value: "weddings" },
     { label: "Banquet Kit", value: "banquet" },
     { label: "Reservations", value: "reservations" },
+    { label: "Menus", value: "menus" },
   ];
 
   const [expandedSubcategories, setExpandedSubcategories] = useState({});
