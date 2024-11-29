@@ -1569,7 +1569,7 @@ export const ASSETS = [
   {
     id: 189,
     title: "HixBar Menu Niños Esp",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/HixBar_Menu-Ninos-Esp.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/11/HixBar_Menu-Ninos-espanol-web.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/hix-kids.png",
     type: "menus",
@@ -1578,7 +1578,7 @@ export const ASSETS = [
   {
     id: 190,
     title: "HixBar Menu Niños ING",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/HixBar_Menu-Ninos-ING.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/11/HixBar_Menu-Ninos-ingles-web.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/hix-kids.png",
     type: "menus",
