@@ -1286,6 +1286,7 @@ export const ASSETS = [
     type: "public",
     filetype: "img",
   },
+  /*
   {
     id: 162,
     title: "Menú Aqua Español",
@@ -1778,7 +1779,7 @@ export const ASSETS = [
     type: "menus",
     filetype: "other",
   },
-
+ 
   {
     id: 216,
     title: "Menu Tauro Postres-Desserts 2024",
@@ -1788,4 +1789,5 @@ export const ASSETS = [
     type: "menus",
     filetype: "other",
   },
+  */
 ];
