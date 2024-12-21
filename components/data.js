@@ -1286,11 +1286,10 @@ export const ASSETS = [
     type: "public",
     filetype: "img",
   },
-  /*
   {
     id: 162,
     title: "Menú Aqua Español",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Menu-Aqua-Espanol.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/ESPANOL-CARTA-DIGITAL_aj.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/aqua-espanol.png",
     type: "menus",
@@ -1299,12 +1298,50 @@ export const ASSETS = [
   {
     id: 163,
     title: "Menú Aqua Inglés",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Menu-Aqua-Ingles.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/INGLES-CARTA-DIGITAL.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/aqua-espanol.png",
     type: "menus",
     filetype: "other",
   },
+  {
+    id: 172,
+    title: "Menú Brisas Breakfast Español",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Menu-Brisas_ESP_Oficio_Desayuno.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/brisas-breakfast.png",
+    type: "menus",
+    filetype: "other",
+  },
+  {
+    id: 173,
+    title: "Menú Brisas Desayunos Inglés",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Menu-Brisas_ENG_Oficio_Desayunos.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/brisas-breakfast.png",
+    type: "menus",
+    filetype: "other",
+  },
+  {
+    id: 174,
+    title: "Menú Brisas Lunch Español",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Menu-Brisas_ESP_Oficio_Lunch.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/brisas-lunch.png",
+    type: "menus",
+    filetype: "other",
+  },
+  {
+    id: 175,
+    title: "Menú Brisas Lunch Inglés",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Menu-Brisas_ENG_Oficio_Lunch.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/brisas-lunch.png",
+    type: "menus",
+    filetype: "other",
+  },
+  /*
+  
   {
     id: 164,
     title: "Menú Bassano Español",
@@ -1377,42 +1414,7 @@ export const ASSETS = [
     type: "menus",
     filetype: "other",
   },
-  {
-    id: 172,
-    title: "Menú Brisas Breakfast Español",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Menu-Brisas_Breakfast_ESP.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/brisas-breakfast.png",
-    type: "menus",
-    filetype: "other",
-  },
-  {
-    id: 173,
-    title: "Menú Brisas Desayunos Inglés",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Menu-Brisas_Desayunos_ENG.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/brisas-breakfast.png",
-    type: "menus",
-    filetype: "other",
-  },
-  {
-    id: 174,
-    title: "Menú Brisas Lunch Español",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Menu-Brisas_Lunch_ESP.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/brisas-lunch.png",
-    type: "menus",
-    filetype: "other",
-  },
-  {
-    id: 175,
-    title: "Menú Brisas Lunch Inglés",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Menu-Brisas_Lunch_ENG.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/brisas-lunch.png",
-    type: "menus",
-    filetype: "other",
-  },
+  
   {
     id: 176,
     title: "Menú Brisas Bebidas Inglés",
