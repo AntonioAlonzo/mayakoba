@@ -1644,60 +1644,7 @@ export const ASSETS = [
     filetype: "other",
   },
 
-  {
-    id: 198,
-    title: "LAGUNA POSTRES ESP",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/POSTRES-ESP.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/laguna-desserts.png",
-    type: "menus",
-    filetype: "other",
-  },
-  {
-    id: 199,
-    title: "DESSERTS LAGUNA ENG",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/DESSERTS-LAGUNA-ENG.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/laguna-desserts.png",
-    type: "menus",
-    filetype: "other",
-  },
-  {
-    id: 200,
-    title: "Laguna KIDS MENU ENG",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/KIDS-MENU-ENG.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/laguna-kids.png",
-    type: "menus",
-    filetype: "other",
-  },
-  {
-    id: 201,
-    title: "Laguna MENU NIÑOS ESP",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/MENU-NINOS-ESP.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/laguna-kids.png",
-    type: "menus",
-    filetype: "other",
-  },
-  {
-    id: 202,
-    title: "Menu Laguna ENG",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Menu_Laguna-ENG.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/laguna.png",
-    type: "menus",
-    filetype: "other",
-  },
-  {
-    id: 203,
-    title: "Menu Laguna ESP",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Menu_Laguna-ESP.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/laguna.png",
-    type: "menus",
-    filetype: "other",
-  },
+  
 
   {
     id: 206,
@@ -1754,15 +1701,7 @@ export const ASSETS = [
     type: "menus",
     filetype: "other",
   },
-  {
-    id: 215,
-    title: "Menu Tauro ESP 2024",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Menu-Tauro-ESP-2024.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/tauro.png",
-    type: "menus",
-    filetype: "other",
-  },
+  
   {
     id: 213,
     title: "Kids Menu Tauro EN",
@@ -1773,23 +1712,112 @@ export const ASSETS = [
     filetype: "other",
   },
   {
+    id: 200,
+    title: "Laguna KIDS MENU ENG",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/KIDS-MENU-ENG.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/laguna-kids.png",
+    type: "menus",
+    filetype: "other",
+  },
+  {
+    id: 201,
+    title: "Laguna MENU NIÑOS ESP",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/MENU-NINOS-ESP.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/laguna-kids.png",
+    type: "menus",
+    filetype: "other",
+  },
+  */
+  {
+    id: 198,
+    title: "LAGUNA POSTRES ESP",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Menu_Laguna-postre_esp.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/laguna-desserts.png",
+    type: "menus",
+    filetype: "other",
+  },
+  {
+    id: 199,
+    title: "DESSERTS LAGUNA ENG",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Menu_Laguna-postre_ing.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/laguna-desserts.png",
+    type: "menus",
+    filetype: "other",
+  },
+  {
+    id: 202,
+    title: "Menu Laguna Dinner ENG",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Menu_Laguna_dinner_ING.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/laguna.png",
+    type: "menus",
+    filetype: "other",
+  },
+  {
+    id: 203,
+    title: "Menu Laguna Dinner ESP",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Menu_Laguna_dinner_ESP.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/laguna.png",
+    type: "menus",
+    filetype: "other",
+  },
+  {
+    id: 217,
+    title: "Menu Laguna Lunch ESP",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Menu_Laguna_Lunch-ESP.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/laguna.png",
+    type: "menus",
+    filetype: "other",
+  },
+  {
+    id: 215,
+    title: "Menu Tauro ESP 2024",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Menu-Tauro-ESP-2024-2.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/tauro.png",
+    type: "menus",
+    filetype: "other",
+  },
+  {
     id: 214,
     title: "Menú Kids Tauro ESP",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Menu-Kids_-Tauro-ESP.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/KIDS-MENU_TAURO_ESP_2024-3.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/tauro-kids.png",
     type: "menus",
     filetype: "other",
   },
- 
   {
     id: 216,
-    title: "Menu Tauro Postres-Desserts 2024",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Menu-Tauro-Postres-Desserts-2024.pdf",
+    title: "Menu Tauro Postres Español 2024",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/POSTRES-TAURO_ESP_2024-3.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/tauro-desserts.png",
     type: "menus",
     filetype: "other",
   },
-  */
+  {
+    id: 217,
+    title: "23 - 29 Diciembre Coati ING",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/23-29-DICIEMBRE-COATI-ING-5.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/12/23-29-DICIEMBRE-COATI-ING.png",
+    type: "daily",
+    filetype: "other",
+  },
+  {
+    id: 218,
+    title: "23 - 29 Diciembre Balam ING",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/23-29-DICIEMBRE-BALAM-ING-1.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/12/23-29-DICIEMBRE-BALAM-ING.png",
+    type: "daily",
+    filetype: "other",
+  },
 ];
