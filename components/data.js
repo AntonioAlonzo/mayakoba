@@ -1342,42 +1342,7 @@ export const ASSETS = [
   },
   /*
   
-  {
-    id: 164,
-    title: "Menú Bassano Español",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/menu-bassano-14x22_ESP-1.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/bassano.png",
-    type: "menus",
-    filetype: "other",
-  },
-  {
-    id: 165,
-    title: "Menú Bassano Inglés",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Menu-bassano-14x22_ENG.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/bassano.png",
-    type: "menus",
-    filetype: "other",
-  },
-  {
-    id: 166,
-    title: "Menú Bassano Kids Español",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/menu-bassano_Kids_14x22_ESP.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/bassano-kids.png",
-    type: "menus",
-    filetype: "other",
-  },
-  {
-    id: 167,
-    title: "Menú Bassano Kids Inglés",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Menu-bassano-Menu-Kids_14x22_ENG.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/bassano-kids.png",
-    type: "menus",
-    filetype: "other",
-  },
+  
   {
     id: 168,
     title: "Menú Brisas Tapas Español",
@@ -1424,33 +1389,9 @@ export const ASSETS = [
     type: "menus",
     filetype: "other",
   },
-  {
-    id: 177,
-    title: "Menú Cielo",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Menu-Cielo.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/cielo.png",
-    type: "menus",
-    filetype: "other",
-  },
-  {
-    id: 178,
-    title: "Menu Fuego Starters Kids ENG",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Menu-Fuego-Starters_Kids-ENG.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/fuego-kids.png",
-    type: "menus",
-    filetype: "other",
-  },
-  {
-    id: 183,
-    title: "Menu Fuego Entradas Kids ESP",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Menu-Fuego-Entradas_Kids-ESP.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/fuego-kids.png",
-    type: "menus",
-    filetype: "other",
-  },
+  
+  
+  
   {
     id: 179,
     title: "43x28 CM - Fuego Menu Impreso",
@@ -1460,43 +1401,7 @@ export const ASSETS = [
     type: "menus",
     filetype: "other",
   },
-  {
-    id: 180,
-    title: "Menu Fuego BEBIDAS ESP",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Menu-Fuego-BEBIDAS_ESP.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/fuego-bebidas.png",
-    type: "menus",
-    filetype: "other",
-  },
-  {
-    id: 181,
-    title: "Menu Fuego DRINKS ENG",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Menu-Fuego-DRINKS_ENG.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/fuego-bebidas.png",
-    type: "menus",
-    filetype: "other",
-  },
-  {
-    id: 182,
-    title: "Menu Fuego ENG",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Menu-Fuego-ENG.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/fuego-impresso.png",
-    type: "menus",
-    filetype: "other",
-  },
-
-  {
-    id: 184,
-    title: "Menú Fuego ESP",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Menu-Fuego-ESP.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/fuego-impresso.png",
-    type: "menus",
-    filetype: "other",
-  },
+  
   {
     id: 185,
     title: "Menú Gaia Kids ESP",
@@ -1512,116 +1417,6 @@ export const ASSETS = [
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Menu-Gaia-Kids_Nuevo-ENG.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/gaia-kids.png",
-    type: "menus",
-    filetype: "other",
-  },
-  {
-    id: 187,
-    title: "Español Menu Bebidas con alcohol HIX2024",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Espanol-Menu-Bebidas-con-alcohol-HIX2024.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/hix-con-alcohol.png",
-    type: "menus",
-    filetype: "other",
-  },
-  {
-    id: 191,
-    title: "Ingles Menu Bebidas con alcohol HIX2024",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Ingles-Menu-Bebidas-con-alcohol-HIX2024.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/hix-con-alcohol.png",
-    type: "menus",
-    filetype: "other",
-  },
-  {
-    id: 188,
-    title: "Español Print Menu Bebidas sin alcohol HIX2024",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Espanol-Print-Menu-Bebidas-sin-alcohol-HIX2024.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/hix-sin-alcohol.png",
-    type: "menus",
-    filetype: "other",
-  },
-  {
-    id: 192,
-    title: "Ingles Print Menu Bebidas sin alcohol HIX2024",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Ingles-Print-Menu-Bebidas-sin-alcohol-HIX2024.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/hix-sin-alcohol.png",
-    type: "menus",
-    filetype: "other",
-  },
-  {
-    id: 205,
-    title: "Digital Menu Bebidas sin alcohol HIX2024 Español",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Digital-Menu-Bebidas-sin-alcohol-HIX2024-Espanol2.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/hix-sin-alcohol.png",
-    type: "menus",
-    filetype: "other",
-  },
-  {
-    id: 207,
-    title: "Digital Menu Bebidas sin alcohol HIX2024 Ingles",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Digital-Menu-Bebidas-sin-alcohol-HIX2024-Ingles2.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/hix-sin-alcohol.png",
-    type: "menus",
-    filetype: "other",
-  },
-  {
-    id: 189,
-    title: "HixBar Menu Niños Esp",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/11/HixBar_Menu-Ninos-espanol-web.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/hix-kids.png",
-    type: "menus",
-    filetype: "other",
-  },
-  {
-    id: 190,
-    title: "HixBar Menu Niños ING",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/11/HixBar_Menu-Ninos-ingles-web.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/hix-kids.png",
-    type: "menus",
-    filetype: "other",
-  },
-
-  {
-    id: 193,
-    title: "Menu HIX 2024ESP SEP",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Menu-HIX-2024ESP_SEP.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/hix.png",
-    type: "menus",
-    filetype: "other",
-  },
-  {
-    id: 204,
-    title: "Menu HIX 2024ING SEP",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Menu-HIX-2024ING_SEP.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/hix.png",
-    type: "menus",
-    filetype: "other",
-  },
-
-  {
-    id: 194,
-    title: "MenúGaia 2024 ESP",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/MenuGaia_2024_ESP.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/gaia.png",
-    type: "menus",
-    filetype: "other",
-  },
-  {
-    id: 197,
-    title: "MenuGaia 2024 ING",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/MenuGaia_2024_ING.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/gaia.png",
     type: "menus",
     filetype: "other",
   },
@@ -1692,25 +1487,7 @@ export const ASSETS = [
     type: "menus",
     filetype: "other",
   },
-  {
-    id: 212,
-    title: "Menu Tauro ENG Agosto",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Menu-Tauro_ENG_Agosto.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/tauro.png",
-    type: "menus",
-    filetype: "other",
-  },
   
-  {
-    id: 213,
-    title: "Kids Menu Tauro EN",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Kids-Menu-Tauro_EN.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/tauro-kids.png",
-    type: "menus",
-    filetype: "other",
-  },
   {
     id: 200,
     title: "Laguna KIDS MENU ENG",
@@ -1730,6 +1507,24 @@ export const ASSETS = [
     filetype: "other",
   },
   */
+  {
+    id: 219,
+    title: "23 - 29 Diciembre Coati ING",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/23-29-DICIEMBRE-COATI-ING-5.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/12/23-29-DICIEMBRE-COATI-ING.png",
+    type: "daily",
+    filetype: "other",
+  },
+  {
+    id: 218,
+    title: "23 - 29 Diciembre Balam ING",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/23-29-DICIEMBRE-BALAM-ING-1.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/12/23-29-DICIEMBRE-BALAM-ING.png",
+    type: "daily",
+    filetype: "other",
+  },
   {
     id: 198,
     title: "LAGUNA POSTRES ESP",
@@ -1775,6 +1570,7 @@ export const ASSETS = [
     type: "menus",
     filetype: "other",
   },
+  /* TAURO */
   {
     id: 215,
     title: "Menu Tauro ESP 2024",
@@ -1794,8 +1590,8 @@ export const ASSETS = [
     filetype: "other",
   },
   {
-    id: 216,
-    title: "Menu Tauro Postres Español 2024",
+    id: 220,
+    title: "Menu Tauro Postres Español Inglés 2024",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/POSTRES-TAURO_ESP_2024-3.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/tauro-desserts.png",
@@ -1803,21 +1599,244 @@ export const ASSETS = [
     filetype: "other",
   },
   {
-    id: 217,
-    title: "23 - 29 Diciembre Coati ING",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/23-29-DICIEMBRE-COATI-ING-5.pdf",
+    id: 212,
+    title: "Menu Tauro ENG",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Menu-Tauro-ENG-2024.pdf",
     preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/12/23-29-DICIEMBRE-COATI-ING.png",
-    type: "daily",
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/tauro.png",
+    type: "menus",
+    filetype: "other",
+  },
+
+  {
+    id: 213,
+    title: "Kids Menu Tauro EN",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/KIDS-MENU_TAURO_ENG_2024.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/tauro-kids.png",
+    type: "menus",
+    filetype: "other",
+  },
+
+  /* FUEGO */
+  {
+    id: 178,
+    title: "Menu Fuego Kids ENG",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Digital_Fuego-Menu_Ninos_ENG.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/fuego-kids.png",
+    type: "menus",
     filetype: "other",
   },
   {
-    id: 218,
-    title: "23 - 29 Diciembre Balam ING",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/23-29-DICIEMBRE-BALAM-ING-1.pdf",
+    id: 181,
+    title: "Menu Fuego DRINKS ENG",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Digital_Fuego-Menu_Bebidas_ENG.pdf",
     preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/12/23-29-DICIEMBRE-BALAM-ING.png",
-    type: "daily",
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/fuego-bebidas.png",
+    type: "menus",
+    filetype: "other",
+  },
+  {
+    id: 182,
+    title: "Menu Fuego ENG",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Digital_Fuego-Menu_ENG.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/fuego-impresso.png",
+    type: "menus",
+    filetype: "other",
+  },
+  {
+    id: 183,
+    title: "Menu Fuego Kids ESP",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Digital_Fuego-Menu_Ninos_ESP.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/fuego-kids.png",
+    type: "menus",
+    filetype: "other",
+  },
+  {
+    id: 180,
+    title: "Menu Fuego BEBIDAS ESP",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Digital_Fuego-Menu_Bebidas_ESP.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/fuego-bebidas.png",
+    type: "menus",
+    filetype: "other",
+  },
+  {
+    id: 184,
+    title: "Menú Fuego ESP",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Digital_Fuego-Menu_ESP.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/fuego-impresso.png",
+    type: "menus",
+    filetype: "other",
+  },
+  /* GAIA */
+  {
+    id: 194,
+    title: "MenúGaia 2024 ESP",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/MenuGaia_2024_ESP_28x40cm.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/gaia.png",
+    type: "menus",
+    filetype: "other",
+  },
+  {
+    id: 197,
+    title: "MenuGaia 2024 ING",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/MenuGaia_2024_ING_28x40cm.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/gaia.png",
+    type: "menus",
+    filetype: "other",
+  },
+  /* HIX */
+  {
+    id: 187,
+    title: "Español Menu Bebidas con alcohol HIX2024",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Digital-Menu-Bebidas-con-alcohol-HIX2024-carta_ESP-1-1.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/hix-con-alcohol.png",
+    type: "menus",
+    filetype: "other",
+  },
+  {
+    id: 191,
+    title: "Ingles Menu Bebidas con alcohol HIX2024",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Digital-Menu-Bebidas-con-alcohol-HIX2024-carta_ENG-1-1.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/hix-con-alcohol.png",
+    type: "menus",
+    filetype: "other",
+  },
+  {
+    id: 188,
+    title: "Español Menu Bebidas sin alcohol HIX2024",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Digital-Menu-Bebidas-sin-alcohol-HIX2024-carta_ESP-1.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/hix-sin-alcohol.png",
+    type: "menus",
+    filetype: "other",
+  },
+  {
+    id: 192,
+    title: "Ingles Menu Bebidas sin alcohol HIX2024",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Digital-Menu-Bebidas-sin-alcohol-HIX2024-carta_ENG-1-1.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/hix-sin-alcohol.png",
+    type: "menus",
+    filetype: "other",
+  },
+
+  {
+    id: 189,
+    title: "HixBar Menu Niños Esp",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/HixBar_Menu-Ninos-ESP.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/hix-kids.png",
+    type: "menus",
+    filetype: "other",
+  },
+  {
+    id: 190,
+    title: "HixBar Menu Niños ING",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/HixBar_Kids-Menu-ENG.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/hix-kids.png",
+    type: "menus",
+    filetype: "other",
+  },
+
+  {
+    id: 193,
+    title: "Menu HIX 2024ESP",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Menu-HIX-2024-digital-ESP.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/hix.png",
+    type: "menus",
+    filetype: "other",
+  },
+  {
+    id: 204,
+    title: "Menu HIX 2024ING",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Menu-HIX-2024-digital-ENG.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/hix.png",
+    type: "menus",
+    filetype: "other",
+  },
+  {
+    id: 177,
+    title: "Menú Cielo ESP",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/CIELO-ESP-DIGITAL-.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/cielo.png",
+    type: "menus",
+    filetype: "other",
+  },
+  {
+    id: 201,
+    title: "Menú Cielo ING",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/CIELO-ENG-DIGITAL.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/cielo.png",
+    type: "menus",
+    filetype: "other",
+  },
+  {
+    id: 164,
+    title: "Menú Bassano Español",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Bassano_Carta_ESP.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/bassano.png",
+    type: "menus",
+    filetype: "other",
+  },
+  {
+    id: 165,
+    title: "Menú Bassano Inglés",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Bassano_Carta_EN.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/bassano.png",
+    type: "menus",
+    filetype: "other",
+  },
+  {
+    id: 166,
+    title: "Menú Bassano Kids Español",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Bassano_MC_Kids_ESP.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/bassano-kids.png",
+    type: "menus",
+    filetype: "other",
+  },
+  {
+    id: 167,
+    title: "Menú Bassano Kids Inglés",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Bassano_MC_Kids_EN.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/bassano-kids.png",
+    type: "menus",
+    filetype: "other",
+  },
+  {
+    id: 202,
+    title: "Menú Bassano Postres Español",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Bassano_MC_Postres_ESP.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/bassano-kids.png",
+    type: "menus",
+    filetype: "other",
+  },
+  {
+    id: 203,
+    title: "Menú Bassano Postres Inglés",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Bassano_MC_Postres_EN.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/bassano-kids.png",
+    type: "menus",
     filetype: "other",
   },
 ];
