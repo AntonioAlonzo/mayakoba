@@ -1,10 +1,10 @@
 export const ASSETS = [
   {
     id: 0,
-    title: "Factsheet-Individual-ESP-1",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/05/Factsheet-Individual-ESP-1.pdf",
+    title: "Factsheet Individual ESP",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Factsheet_esp_individual.pdf",
     preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Factsheet-Individual-ESP-1.png",
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/12/factsheet-individual-prev.png",
     type: "factsheet",
     filetype: "other",
   },
@@ -13,7 +13,7 @@ export const ASSETS = [
     title: "MYK_Aerial01",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/MYK_Aerial01-scaled.jpg",
     preview: "",
-    type: "aerial",
+    type: "img",
     filetype: "img",
   },
   {
@@ -21,7 +21,7 @@ export const ASSETS = [
     title: "MYK_Aerial02V2",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/MYK_Aerial02V2-scaled.jpg",
     preview: "",
-    type: "aerial",
+    type: "img",
     filetype: "img",
   },
   {
@@ -29,7 +29,7 @@ export const ASSETS = [
     title: "MYK_Aerial03V2",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/MYK_Aerial03V2-scaled.jpg",
     preview: "",
-    type: "aerial",
+    type: "img",
     filetype: "img",
   },
   {
@@ -37,7 +37,7 @@ export const ASSETS = [
     title: "MYK_Aerial04V2",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/MYK_Aerial04V2-scaled.jpg",
     preview: "",
-    type: "aerial",
+    type: "img",
     filetype: "img",
   },
   {
@@ -45,7 +45,7 @@ export const ASSETS = [
     title: "MYK_Aerial05",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/MYK_Aerial05-scaled.jpg",
     preview: "",
-    type: "aerial",
+    type: "img",
     filetype: "img",
   },
   {
@@ -53,7 +53,7 @@ export const ASSETS = [
     title: "MYK_Aerial06",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/MYK_Aerial06-scaled.jpg",
     preview: "",
-    type: "aerial",
+    type: "img",
     filetype: "img",
   },
   {
@@ -61,7 +61,7 @@ export const ASSETS = [
     title: "Riviera MYK_351",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Riviera-MYK_351-scaled.jpg",
     preview: "",
-    type: "meeting",
+    type: "img",
     filetype: "img",
   },
   {
@@ -69,7 +69,7 @@ export const ASSETS = [
     title: "Riviera MYK_353",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Riviera-MYK_353-scaled.jpg",
     preview: "",
-    type: "meeting",
+    type: "img",
     filetype: "img",
   },
   {
@@ -77,27 +77,37 @@ export const ASSETS = [
     title: "Terraza Lawn MYK_350",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Terraza-Lawn-MYK_350-scaled.jpg",
     preview: "",
-    type: "meeting",
+    type: "img",
     filetype: "img",
   },
   {
     id: 11,
     title: "Factsheet Individual ING",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/05/Factsheet-Individual-ING-1.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Factsheet_ing_individual.pdf",
     preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Factsheet-Individual-ING-1.png",
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/12/factsheet-individual-prev.png",
     type: "factsheet",
     filetype: "other",
   },
   {
     id: 12,
     title: "Factsheet Individual Extendido ING",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/05/Factsheet-Fairmont-ENG-2024.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Factsheet-Fairmont-ENG-5-dic-.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Factsheet-Fairmont-ENG-2024.png",
     type: "factsheet",
     filetype: "other",
   },
+  {
+    id: 13,
+    title: "Factsheet Individual Extendido ESP",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Factsheet-Fairmont-Esp-19-nov-2024.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Factsheet-Fairmont-ENG-2024.png",
+    type: "factsheet",
+    filetype: "other",
+  },
+  /*
   {
     id: 13,
     title: "Leisure 2024",
@@ -125,6 +135,7 @@ export const ASSETS = [
     type: "factsheet",
     filetype: "other",
   },
+  */
   {
     id: 16,
     title: "Presentación de bodas 2024 inglés",
@@ -176,7 +187,7 @@ export const ASSETS = [
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/05/FactSheet-Spa-2024_ING.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/08/FactSheet-Spa-2024_ING.png",
-    type: "factsheet",
+    type: "spa",
     filetype: "other",
   },
   {
@@ -185,7 +196,7 @@ export const ASSETS = [
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/05/FactSheet-Spa-2024-ESP.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/08/FactSheet-Spa-2024_ING.png",
-    type: "factsheet",
+    type: "spa",
     filetype: "other",
   },
   {
@@ -194,7 +205,7 @@ export const ASSETS = [
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/05/FactSheet-Kids-2024-ING-1.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/08/FactSheet-Kids-2024-ING-1.png",
-    type: "factsheet",
+    type: "spa",
     filetype: "other",
   },
   {
@@ -203,7 +214,7 @@ export const ASSETS = [
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/05/FactSheet-Kids-2024-ESP-1.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/08/FactSheet-Kids-2024-ING-1.png",
-    type: "factsheet",
+    type: "spa",
     filetype: "other",
   },
   {
@@ -211,7 +222,7 @@ export const ASSETS = [
     title: "Penthouse, 4 bedrooms Residence 1",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/4673_230228_Fairmont-scaled.jpg",
     preview: "",
-    type: "2ph",
+    type: "img",
     filetype: "img",
   },
   {
@@ -219,7 +230,7 @@ export const ASSETS = [
     title: "Penthouse, 4 bedrooms Residence 2",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/4583_230228_Fairmont-scaled.jpg",
     preview: "",
-    type: "2ph",
+    type: "img",
     filetype: "img",
   },
   {
@@ -227,7 +238,7 @@ export const ASSETS = [
     title: "Penthouse, 4 bedrooms Residence 3",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/4607_230228_Fairmont-scaled.jpg",
     preview: "",
-    type: "2ph",
+    type: "img",
     filetype: "img",
   },
   {
@@ -235,7 +246,7 @@ export const ASSETS = [
     title: "Penthouse, 4 bedrooms Residence 4",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/4616_230228_Fairmont-scaled.jpg",
     preview: "",
-    type: "2ph",
+    type: "img",
     filetype: "img",
   },
   {
@@ -243,7 +254,7 @@ export const ASSETS = [
     title: "Penthouse, 4 bedrooms Residence 5",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/4626_230228_Fairmont-scaled.jpg",
     preview: "",
-    type: "2ph",
+    type: "img",
     filetype: "img",
   },
   {
@@ -251,7 +262,7 @@ export const ASSETS = [
     title: "Penthouse, 4 bedrooms Residence 6",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/4656_230228_Fairmont-scaled.jpg",
     preview: "",
-    type: "2ph",
+    type: "img",
     filetype: "img",
   },
   {
@@ -259,7 +270,7 @@ export const ASSETS = [
     title: "Exclusive 3 bedroom Residence Ground Floor 1",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/4689_230228_Fairmont-scaled.jpg",
     preview: "",
-    type: "802",
+    type: "img",
     filetype: "img",
   },
   {
@@ -267,7 +278,7 @@ export const ASSETS = [
     title: "Exclusive 3 bedroom Residence Ground Floor 2",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/4696_230228_Fairmont-scaled.jpg",
     preview: "",
-    type: "802",
+    type: "img",
     filetype: "img",
   },
   {
@@ -275,7 +286,7 @@ export const ASSETS = [
     title: "Exclusive 3 bedroom Residence Mid Floor 1",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/4234_230227_Fairmont-scaled.jpg",
     preview: "",
-    type: "912",
+    type: "img",
     filetype: "img",
   },
   {
@@ -283,7 +294,7 @@ export const ASSETS = [
     title: "Exclusive 3 bedroom Residence Mid Floor 2",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/4246_230227_Fairmont-scaled.jpg",
     preview: "",
-    type: "912",
+    type: "img",
     filetype: "img",
   },
   {
@@ -291,7 +302,7 @@ export const ASSETS = [
     title: "Exclusive 3 bedroom Residence Mid Floor 3",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/4263_230227_Fairmont-scaled.jpg",
     preview: "",
-    type: "912",
+    type: "img",
     filetype: "img",
   },
   {
@@ -299,7 +310,7 @@ export const ASSETS = [
     title: "Exclusive 3 bedroom Residence Mid Floor 4",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/4272_230227_Fairmont-scaled.jpg",
     preview: "",
-    type: "912",
+    type: "img",
     filetype: "img",
   },
   {
@@ -307,7 +318,7 @@ export const ASSETS = [
     title: "Exclusive 3 bedroom Residence Mid Floor 5",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/4284_230227_Fairmont-scaled.jpg",
     preview: "",
-    type: "912",
+    type: "img",
     filetype: "img",
   },
   {
@@ -315,7 +326,7 @@ export const ASSETS = [
     title: "Exclusive 3 bedroom Residence Mid Floor 6",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/4293_230227_Fairmont-scaled.jpg",
     preview: "",
-    type: "912",
+    type: "img",
     filetype: "img",
   },
   {
@@ -323,7 +334,7 @@ export const ASSETS = [
     title: "Penthouse, 3 bedrooms Residence 1",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/4165_230227_Fairmont-scaled.jpg",
     preview: "",
-    type: "931",
+    type: "img",
     filetype: "img",
   },
   {
@@ -331,7 +342,7 @@ export const ASSETS = [
     title: "Penthouse, 3 bedrooms Residence 2",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/4173_230227_Fairmont-scaled.jpg",
     preview: "",
-    type: "931",
+    type: "img",
     filetype: "img",
   },
   {
@@ -339,7 +350,7 @@ export const ASSETS = [
     title: "Penthouse, 3 bedrooms Residence 3",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/4188_230227_Fairmont-scaled.jpg",
     preview: "",
-    type: "931",
+    type: "img",
     filetype: "img",
   },
   {
@@ -347,7 +358,7 @@ export const ASSETS = [
     title: "Penthouse, 3 bedrooms Residence 4",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/4197_230227_Fairmont-scaled.jpg",
     preview: "",
-    type: "931",
+    type: "img",
     filetype: "img",
   },
   {
@@ -355,7 +366,7 @@ export const ASSETS = [
     title: "Penthouse, 3 bedrooms Residence 5",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/4203_230227_Fairmont-scaled.jpg",
     preview: "",
-    type: "931",
+    type: "img",
     filetype: "img",
   },
   {
@@ -363,7 +374,7 @@ export const ASSETS = [
     title: "Penthouse, 3 bedrooms Residence 6",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/4211_230227_Fairmont-scaled.jpg",
     preview: "",
-    type: "931",
+    type: "img",
     filetype: "img",
   },
   {
@@ -371,7 +382,7 @@ export const ASSETS = [
     title: "Steam-Room-MYK20",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Steam-Room-MYK20-scaled.jpg",
     preview: "",
-    type: "spa",
+    type: "img",
     filetype: "img",
   },
   {
@@ -379,7 +390,7 @@ export const ASSETS = [
     title: "Fitness-Room-MYK14V2",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Fitness-Room-MYK14V2-scaled.jpg",
     preview: "",
-    type: "spa",
+    type: "img",
     filetype: "img",
   },
   {
@@ -387,7 +398,7 @@ export const ASSETS = [
     title: "Fitness-Room-MYK18",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Fitness-Room-MYK18-scaled.jpg",
     preview: "",
-    type: "spa",
+    type: "img",
     filetype: "img",
   },
   {
@@ -395,7 +406,7 @@ export const ASSETS = [
     title: "Fitness-Room-Peloton-Bikes-MYK19",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Fitness-Room-Peloton-Bikes-MYK19-scaled.jpg",
     preview: "",
-    type: "spa",
+    type: "img",
     filetype: "img",
   },
   {
@@ -403,7 +414,7 @@ export const ASSETS = [
     title: "MYK24",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/MYK24-scaled.jpg",
     preview: "",
-    type: "spa",
+    type: "img",
     filetype: "img",
   },
   {
@@ -411,7 +422,7 @@ export const ASSETS = [
     title: "MYK25V2",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/MYK25V2-scaled.jpg",
     preview: "",
-    type: "spa",
+    type: "img",
     filetype: "img",
   },
   {
@@ -419,7 +430,7 @@ export const ASSETS = [
     title: "MYK27V2",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/MYK27V2-scaled.jpg",
     preview: "",
-    type: "spa",
+    type: "img",
     filetype: "img",
   },
   {
@@ -427,7 +438,7 @@ export const ASSETS = [
     title: "Sauna-MYK22",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Sauna-MYK22-scaled.jpg",
     preview: "",
-    type: "spa",
+    type: "img",
     filetype: "img",
   },
   {
@@ -435,7 +446,7 @@ export const ASSETS = [
     title: "SPA-Cabin-MYK06-scaled.",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/SPA-Cabin-MYK06-scaled.jpg",
     preview: "",
-    type: "spa",
+    type: "img",
     filetype: "img",
   },
   {
@@ -443,7 +454,7 @@ export const ASSETS = [
     title: "SPA-Cold-plunge-MYK12",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/SPA-Cold-plunge-MYK12-scaled.jpg",
     preview: "",
-    type: "spa",
+    type: "img",
     filetype: "img",
   },
   {
@@ -451,7 +462,7 @@ export const ASSETS = [
     title: "Spa-Entrance-MYK02",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Spa-Entrance-MYK02-scaled.jpg",
     preview: "",
-    type: "spa",
+    type: "img",
     filetype: "img",
   },
   {
@@ -459,7 +470,7 @@ export const ASSETS = [
     title: "SPA-Garden-Pathway-MYK11V2",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/SPA-Garden-Pathway-MYK11V2-scaled.jpg",
     preview: "",
-    type: "spa",
+    type: "img",
     filetype: "img",
   },
   {
@@ -467,7 +478,7 @@ export const ASSETS = [
     title: "SPA-Indoor-Couples-treatment-room-MYK05",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/SPA-Indoor-Couples-treatment-room-MYK05-scaled.jpg",
     preview: "",
-    type: "spa",
+    type: "img",
     filetype: "img",
   },
   {
@@ -475,7 +486,7 @@ export const ASSETS = [
     title: "SPA-Juice-Bar-MYK15",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/SPA-Juice-Bar-MYK15-scaled.jpg",
     preview: "",
-    type: "spa",
+    type: "img",
     filetype: "img",
   },
   {
@@ -483,7 +494,7 @@ export const ASSETS = [
     title: "SPA-Lobby-MYK10_associatesV2",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/SPA-Lobby-MYK10_associatesV2-scaled.jpg",
     preview: "",
-    type: "spa",
+    type: "img",
     filetype: "img",
   },
   {
@@ -491,7 +502,7 @@ export const ASSETS = [
     title: "SPA-Lobby-MYK16",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/SPA-Lobby-MYK16-scaled.jpg",
     preview: "",
-    type: "spa",
+    type: "img",
     filetype: "img",
   },
   {
@@ -499,7 +510,7 @@ export const ASSETS = [
     title: "Spa-MYK23",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Spa-MYK23-scaled.jpg",
     preview: "",
-    type: "spa",
+    type: "img",
     filetype: "img",
   },
   {
@@ -507,7 +518,7 @@ export const ASSETS = [
     title: "Spa-Outdoor-Couples-Treatment-Rm-MYK03",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Spa-Outdoor-Couples-Treatment-Rm-MYK03-scaled.jpg",
     preview: "",
-    type: "spa",
+    type: "img",
     filetype: "img",
   },
   {
@@ -515,7 +526,7 @@ export const ASSETS = [
     title: "SPA-Reception-MYK10V2",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/SPA-Reception-MYK10V2-scaled.jpg",
     preview: "",
-    type: "spa",
+    type: "img",
     filetype: "img",
   },
   {
@@ -523,7 +534,7 @@ export const ASSETS = [
     title: "SPA-Salon-MYK13",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/SPA-Salon-MYK13-scaled.jpg",
     preview: "",
-    type: "spa",
+    type: "img",
     filetype: "img",
   },
   {
@@ -531,7 +542,7 @@ export const ASSETS = [
     title: "SPA-Serenity-Room-MYK08V2",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/SPA-Serenity-Room-MYK08V2-scaled.jpg",
     preview: "",
-    type: "spa",
+    type: "img",
     filetype: "img",
   },
   {
@@ -539,7 +550,7 @@ export const ASSETS = [
     title: "SPA-Serenity-Room-MYK09",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/SPA-Serenity-Room-MYK09-scaled.jpg",
     preview: "",
-    type: "spa",
+    type: "img",
     filetype: "img",
   },
   {
@@ -547,7 +558,7 @@ export const ASSETS = [
     title: "SPA-Temazcal-MYK04",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/SPA-Temazcal-MYK04-scaled.jpg",
     preview: "",
-    type: "spa",
+    type: "img",
     filetype: "img",
   },
   {
@@ -555,7 +566,7 @@ export const ASSETS = [
     title: "SPA-Vichy-Shower-MYK07",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/SPA-Vichy-Shower-MYK07-scaled.jpg",
     preview: "",
-    type: "spa",
+    type: "img",
     filetype: "img",
   },
   {
@@ -563,7 +574,7 @@ export const ASSETS = [
     title: "SPA Vapor Area MYK21",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/SPA-Yoga-Area-MYK21-scaled.jpg",
     preview: "",
-    type: "spa",
+    type: "img",
     filetype: "img",
   },
   {
@@ -571,7 +582,7 @@ export const ASSETS = [
     title: "Bamboo-Vanity-MYK_239",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Bamboo-Vanity-MYK_239-scaled.jpg",
     preview: "",
-    type: "rooms",
+    type: "img",
     filetype: "img",
   },
   {
@@ -579,7 +590,7 @@ export const ASSETS = [
     title: "Bamboo-Living-Room-MYK_211",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Bamboo-Living-Room-MYK_211-scaled.jpg",
     preview: "",
-    type: "rooms",
+    type: "img",
     filetype: "img",
   },
   {
@@ -587,7 +598,7 @@ export const ASSETS = [
     title: "Bamboo-Masterbedroom-MYK_238",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Bamboo-Masterbedroom-MYK_238-scaled.jpg",
     preview: "",
-    type: "rooms",
+    type: "img",
     filetype: "img",
   },
   {
@@ -595,7 +606,7 @@ export const ASSETS = [
     title: "Bamboo-Suite-Pool-MYK_240",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Bamboo-Suite-Pool-MYK_240-scaled.jpg",
     preview: "",
-    type: "rooms",
+    type: "img",
     filetype: "img",
   },
   {
@@ -603,7 +614,7 @@ export const ASSETS = [
     title: "Beach-Area-Double-Bathroom-MYK_214",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Beach-Area-Double-Bathroom-MYK_214-scaled.jpg",
     preview: "",
-    type: "rooms",
+    type: "img",
     filetype: "img",
   },
   {
@@ -611,7 +622,7 @@ export const ASSETS = [
     title: "Beach-Area-King-Bathroom-MYK_213",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Beach-Area-King-Bathroom-MYK_213-scaled.jpg",
     preview: "",
-    type: "rooms",
+    type: "img",
     filetype: "img",
   },
   {
@@ -619,7 +630,7 @@ export const ASSETS = [
     title: "Beach-Area-King-MYK_223",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Beach-Area-King-MYK_223-scaled.jpg",
     preview: "",
-    type: "rooms",
+    type: "img",
     filetype: "img",
   },
   {
@@ -627,7 +638,7 @@ export const ASSETS = [
     title: "Beach-Area-Masterbedroom-MYK_226",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Beach-Area-Masterbedroom-MYK_226-scaled.jpg",
     preview: "",
-    type: "rooms",
+    type: "img",
     filetype: "img",
   },
   {
@@ -635,7 +646,7 @@ export const ASSETS = [
     title: "Beach-Area-Suite-Master-Bedroom-Front-MYK_227",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Beach-Area-Suite-Master-Bedroom-Front-MYK_227-scaled.jpg",
     preview: "",
-    type: "rooms",
+    type: "img",
     filetype: "img",
   },
   {
@@ -643,7 +654,7 @@ export const ASSETS = [
     title: "Beach-Front-Bathroom-MYK-229",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Beach-Front-Bathroom-MYK-229-scaled.jpg",
     preview: "",
-    type: "rooms",
+    type: "img",
     filetype: "img",
   },
   {
@@ -651,7 +662,7 @@ export const ASSETS = [
     title: "Beach-Front-Double-MYK_228",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Beach-Front-Double-MYK_228-scaled.jpg",
     preview: "",
-    type: "rooms",
+    type: "img",
     filetype: "img",
   },
   {
@@ -659,7 +670,7 @@ export const ASSETS = [
     title: "Beach-Front-Premium-King-MYK_251",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Beach-Front-Premium-King-MYK_251-scaled.jpg",
     preview: "",
-    type: "rooms",
+    type: "img",
     filetype: "img",
   },
   {
@@ -667,7 +678,7 @@ export const ASSETS = [
     title: "Beach-Front-Premium-Master-Bedroom-MYK_256",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Beach-Front-Premium-Master-Bedroom-MYK_256-scaled.jpg",
     preview: "",
-    type: "rooms",
+    type: "img",
     filetype: "img",
   },
   {
@@ -675,7 +686,7 @@ export const ASSETS = [
     title: "Beach-Front-Premium-Outdoor-shower-MYK_254",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Beach-Front-Premium-Outdoor-shower-MYK_254-scaled.jpg",
     preview: "",
-    type: "rooms",
+    type: "img",
     filetype: "img",
   },
   {
@@ -683,7 +694,7 @@ export const ASSETS = [
     title: "Beach-Front-Premium-Poll-MYK_258",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Beach-Front-Premium-Poll-MYK_258-scaled.jpg",
     preview: "",
-    type: "rooms",
+    type: "img",
     filetype: "img",
   },
   {
@@ -691,7 +702,7 @@ export const ASSETS = [
     title: "Beach-Front-Suite-Living-room-MYK_255",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Beach-Front-Suite-Living-room-MYK_255-scaled.jpg",
     preview: "",
-    type: "rooms",
+    type: "img",
     filetype: "img",
   },
   {
@@ -699,7 +710,7 @@ export const ASSETS = [
     title: "Coral-Bathroom-MYK_243",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Coral-Bathroom-MYK_243-scaled.jpg",
     preview: "",
-    type: "rooms",
+    type: "img",
     filetype: "img",
   },
   {
@@ -707,7 +718,7 @@ export const ASSETS = [
     title: "Coral-Outdoor-Shower-MYK_242",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Coral-Outdoor-Shower-MYK_242-scaled.jpg",
     preview: "",
-    type: "rooms",
+    type: "img",
     filetype: "img",
   },
   {
@@ -715,7 +726,7 @@ export const ASSETS = [
     title: "Coral-Suite-Living-Room-MYK_248",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Coral-Suite-Living-Room-MYK_248-scaled.jpg",
     preview: "",
-    type: "rooms",
+    type: "img",
     filetype: "img",
   },
   {
@@ -723,7 +734,7 @@ export const ASSETS = [
     title: "Coral-Suite-Masterbedroom-MYK_245",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Coral-Suite-Masterbedroom-MYK_245-scaled.jpg",
     preview: "",
-    type: "rooms",
+    type: "img",
     filetype: "img",
   },
   {
@@ -731,7 +742,7 @@ export const ASSETS = [
     title: "Deluxe-Bathroom-MYK_196",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Deluxe-Bathroom-MYK_196-scaled.jpg",
     preview: "",
-    type: "rooms",
+    type: "img",
     filetype: "img",
   },
   {
@@ -739,7 +750,7 @@ export const ASSETS = [
     title: "Deluxe-Double-MYK_195",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Deluxe-Double-MYK_195-scaled.jpg",
     preview: "",
-    type: "rooms",
+    type: "img",
     filetype: "img",
   },
   {
@@ -747,7 +758,7 @@ export const ASSETS = [
     title: "Deluxe-King-MYK_193",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Deluxe-King-MYK_193-scaled.jpg",
     preview: "",
-    type: "rooms",
+    type: "img",
     filetype: "img",
   },
   {
@@ -755,7 +766,7 @@ export const ASSETS = [
     title: "Fairmont-Bathroom-MYK_193",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Fairmont-Bathroom-MYK_193-scaled.jpg",
     preview: "",
-    type: "rooms",
+    type: "img",
     filetype: "img",
   },
   {
@@ -763,7 +774,7 @@ export const ASSETS = [
     title: "Fairmont-Double-MYK_192",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Fairmont-Double-MYK_192-scaled.jpg",
     preview: "",
-    type: "rooms",
+    type: "img",
     filetype: "img",
   },
   {
@@ -771,7 +782,7 @@ export const ASSETS = [
     title: "Deluxe-Bathroom-MYK_196",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Fairmont-King-MYK_190--scaled.jpg",
     preview: "",
-    type: "rooms",
+    type: "img",
     filetype: "img",
   },
   {
@@ -779,7 +790,7 @@ export const ASSETS = [
     title: "Farimont-Bathroom-MYK_191",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Farimont-Bathroom-MYK_191-scaled.jpg",
     preview: "",
-    type: "rooms",
+    type: "img",
     filetype: "img",
   },
   {
@@ -787,7 +798,7 @@ export const ASSETS = [
     title: "MYK_194_Deluxe-Bathroom",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/MYK_194_Deluxe-Bathroom-scaled.jpg",
     preview: "",
-    type: "rooms",
+    type: "img",
     filetype: "img",
   },
   {
@@ -795,7 +806,7 @@ export const ASSETS = [
     title: "Signature-Bathroom-MYK_200",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Signature-Bathroom-MYK_200-scaled.jpg",
     preview: "",
-    type: "rooms",
+    type: "img",
     filetype: "img",
   },
   {
@@ -803,7 +814,7 @@ export const ASSETS = [
     title: "Signature-Casita-MYK_206",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Signature-Casita-MYK_206-scaled.jpg",
     preview: "",
-    type: "rooms",
+    type: "img",
     filetype: "img",
   },
   {
@@ -811,7 +822,7 @@ export const ASSETS = [
     title: "Signature-Double-MYK_201",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Signature-Double-MYK_201-scaled.jpg",
     preview: "",
-    type: "rooms",
+    type: "img",
     filetype: "img",
   },
   {
@@ -819,7 +830,7 @@ export const ASSETS = [
     title: "Signature-Double-MYK_202",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Signature-Double-MYK_202-scaled.jpg",
     preview: "",
-    type: "rooms",
+    type: "img",
     filetype: "img",
   },
   {
@@ -827,7 +838,7 @@ export const ASSETS = [
     title: "Signature-King-MYK_198",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Signature-King-MYK_198-scaled.jpg",
     preview: "",
-    type: "rooms",
+    type: "img",
     filetype: "img",
   },
   {
@@ -835,7 +846,7 @@ export const ASSETS = [
     title: "Signature-King-Suite-MYK_215",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Signature-King-Suite-MYK_215-scaled.jpg",
     preview: "",
-    type: "rooms",
+    type: "img",
     filetype: "img",
   },
   {
@@ -843,7 +854,7 @@ export const ASSETS = [
     title: "Signature-King-View-MYK_197",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Signature-King-View-MYK_197-scaled.jpg",
     preview: "",
-    type: "rooms",
+    type: "img",
     filetype: "img",
   },
   {
@@ -851,7 +862,7 @@ export const ASSETS = [
     title: "Signature-Suite-Double-MYK_203",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Signature-Suite-Double-MYK_203-scaled.jpg",
     preview: "",
-    type: "rooms",
+    type: "img",
     filetype: "img",
   },
   {
@@ -859,7 +870,7 @@ export const ASSETS = [
     title: "Signature-Suite-King-Front-MYK__204",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Signature-Suite-King-Front-MYK__204-scaled.jpg",
     preview: "",
-    type: "rooms",
+    type: "img",
     filetype: "img",
   },
   {
@@ -867,7 +878,7 @@ export const ASSETS = [
     title: "Signature-SuIte-Living-Room-MYK_208",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Signature-SuIte-Living-Room-MYK_208-scaled.jpg",
     preview: "",
-    type: "rooms",
+    type: "img",
     filetype: "img",
   },
   {
@@ -875,7 +886,7 @@ export const ASSETS = [
     title: "Signature-Suite-Vanity-MYK_212",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Signature-Suite-Vanity-MYK_212-scaled.jpg",
     preview: "",
-    type: "rooms",
+    type: "img",
     filetype: "img",
   },
   {
@@ -883,7 +894,7 @@ export const ASSETS = [
     title: "Tortuga-Bathroom-MYK_234",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Tortuga-Bathroom-MYK_234-scaled.jpg",
     preview: "",
-    type: "rooms",
+    type: "img",
     filetype: "img",
   },
   {
@@ -891,7 +902,7 @@ export const ASSETS = [
     title: "Tortuga-Bathroom-MYK_235",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Tortuga-Bathroom-MYK_235-scaled.jpg",
     preview: "",
-    type: "rooms",
+    type: "img",
     filetype: "img",
   },
   {
@@ -899,7 +910,7 @@ export const ASSETS = [
     title: "Tortuga-Masterbedroom-MYK_236",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Tortuga-Masterbedroom-MYK_236-scaled.jpg",
     preview: "",
-    type: "rooms",
+    type: "img",
     filetype: "img",
   },
   {
@@ -907,7 +918,7 @@ export const ASSETS = [
     title: "Tortuga-Pool-MYK_231",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Tortuga-Pool-MYK_231-scaled.jpg",
     preview: "",
-    type: "rooms",
+    type: "img",
     filetype: "img",
   },
   {
@@ -915,7 +926,7 @@ export const ASSETS = [
     title: "Tortuga-Pool-MYK_232",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Tortuga-Pool-MYK_232-scaled.jpg",
     preview: "",
-    type: "rooms",
+    type: "img",
     filetype: "img",
   },
   {
@@ -923,7 +934,7 @@ export const ASSETS = [
     title: "Chaka-Boutique-Beach-club-area-MYK-380",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Chaka-Boutique-Beach-club-area-MYK-380-scaled.jpg",
     preview: "",
-    type: "public",
+    type: "img",
     filetype: "img",
   },
   {
@@ -931,7 +942,7 @@ export const ASSETS = [
     title: "Cielo-Roof-Top-MYK-422",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Cielo-Roo-Top-MYK-422-scaled.jpg",
     preview: "",
-    type: "public",
+    type: "img",
     filetype: "img",
   },
   {
@@ -939,7 +950,7 @@ export const ASSETS = [
     title: "Cielo-Roof-Top-Area-MYK-306",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Cielo-Roof-Top-Area-MYK-306-scaled.jpg",
     preview: "",
-    type: "public",
+    type: "img",
     filetype: "img",
   },
   {
@@ -947,7 +958,7 @@ export const ASSETS = [
     title: "Cielo-Roof-Top-Area-MYK-307",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Cielo-Roof-Top-Area-MYK-307-scaled.jpg",
     preview: "",
-    type: "public",
+    type: "img",
     filetype: "img",
   },
   {
@@ -955,7 +966,7 @@ export const ASSETS = [
     title: "Cielo-Roof-Top-Area-MYK-308",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Cielo-Roof-Top-Area-MYK-308-scaled.jpg",
     preview: "",
-    type: "public",
+    type: "img",
     filetype: "img",
   },
   {
@@ -963,7 +974,7 @@ export const ASSETS = [
     title: "Cielo-Roof-Top-Area-MYK-309",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Cielo-Roof-Top-Area-MYK-309-scaled.jpg",
     preview: "",
-    type: "public",
+    type: "img",
     filetype: "img",
   },
   {
@@ -971,7 +982,7 @@ export const ASSETS = [
     title: "Cielo-Roof-Top-Area-MYK-310",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Cielo-Roof-Top-Area-MYK-310-scaled.jpg",
     preview: "",
-    type: "public",
+    type: "img",
     filetype: "img",
   },
   {
@@ -979,7 +990,7 @@ export const ASSETS = [
     title: "Cielo-Roof-Top-Area-MYK-311",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Cielo-Roof-Top-Area-MYK-311-scaled.jpg",
     preview: "",
-    type: "public",
+    type: "img",
     filetype: "img",
   },
   {
@@ -987,7 +998,7 @@ export const ASSETS = [
     title: "Cielo-Roof-Top-MYK-397",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Cielo-Roof-Top-MYK-397-scaled.jpg",
     preview: "",
-    type: "public",
+    type: "img",
     filetype: "img",
   },
   {
@@ -995,7 +1006,7 @@ export const ASSETS = [
     title: "Cielo-Roof-top-MYK-398",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Cielo-Roof-top-MYK-398-scaled.jpg",
     preview: "",
-    type: "public",
+    type: "img",
     filetype: "img",
   },
   {
@@ -1003,7 +1014,7 @@ export const ASSETS = [
     title: "Cielo-Roof-top-MYK-399",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Cielo-Roof-top-MYK-399-scaled.jpg",
     preview: "",
-    type: "public",
+    type: "img",
     filetype: "img",
   },
   {
@@ -1011,7 +1022,7 @@ export const ASSETS = [
     title: "Cielo-Roof-top-MYK-401",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Cielo-Roof-top-MYK-401-scaled.jpg",
     preview: "",
-    type: "public",
+    type: "img",
     filetype: "img",
   },
   {
@@ -1019,7 +1030,7 @@ export const ASSETS = [
     title: "Cielo-Roof-top-MYK-402",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Cielo-Roof-top-MYK-402-scaled.jpg",
     preview: "",
-    type: "public",
+    type: "img",
     filetype: "img",
   },
   {
@@ -1027,7 +1038,7 @@ export const ASSETS = [
     title: "Cielo-Roof-top-MYK-403",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Cielo-Roof-top-MYK-403-scaled.jpg",
     preview: "",
-    type: "public",
+    type: "img",
     filetype: "img",
   },
   {
@@ -1035,7 +1046,7 @@ export const ASSETS = [
     title: "Cielo-Roof-top-MYK-404",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Cielo-Roof-top-MYK-404-scaled.jpg",
     preview: "",
-    type: "public",
+    type: "img",
     filetype: "img",
   },
   {
@@ -1043,7 +1054,7 @@ export const ASSETS = [
     title: "Cielo-Roof-top-MYK-405",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Cielo-Roof-top-MYK-405-scaled.jpg",
     preview: "",
-    type: "public",
+    type: "img",
     filetype: "img",
   },
   {
@@ -1051,7 +1062,7 @@ export const ASSETS = [
     title: "Cielo-Roof-Top-MYK-419",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Cielo-Roof-Top-MYK-419-scaled.jpg",
     preview: "",
-    type: "public",
+    type: "img",
     filetype: "img",
   },
   {
@@ -1059,7 +1070,7 @@ export const ASSETS = [
     title: "Cielo-Roof-Top-MYK-421",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Cielo-Roof-Top-MYK-421-scaled.jpg",
     preview: "",
-    type: "public",
+    type: "img",
     filetype: "img",
   },
   {
@@ -1067,7 +1078,7 @@ export const ASSETS = [
     title: "Fairmont-Mayakoba-Motor-Lobby-MYK-312",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Fairmont-Mayakoba-Motor-Lobby-MYK-312-scaled.jpg",
     preview: "",
-    type: "public",
+    type: "img",
     filetype: "img",
   },
   {
@@ -1075,7 +1086,7 @@ export const ASSETS = [
     title: "Fuego-Restaurant-MYK-322",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Fuego-Restaurant-MYK-322-scaled.jpg",
     preview: "",
-    type: "public",
+    type: "img",
     filetype: "img",
   },
   {
@@ -1083,79 +1094,79 @@ export const ASSETS = [
     title: "Fuego-Restaurant-MYK-323",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Fuego-Restaurant-MYK-323-scaled.jpg",
     preview: "",
-    type: "public",
-    filetype: "img",
-  },
-  {
-    id: 134,
-    title: "Fuego-Restaurant-MYK-322",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Fuego-Restaurant-MYK-322-scaled.jpg",
-    preview: "",
-    type: "public",
-    filetype: "img",
-  },
-  {
-    id: 135,
-    title: "Fuego-Restaurant-Sunset-MYK-392",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Fuego-Restaurant-Sunset-MYK-392-scaled.jpg",
-    preview: "",
-    type: "public",
+    type: "img",
     filetype: "img",
   },
   {
     id: 136,
-    title: "Hix-Bar-Lounge-Terrace-MYK-317",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Hix-Bar-Lounge-Terrace-MYK-317-scaled.jpg",
+    title: "Fuego-Restaurant-MYK-322",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Fuego-Restaurant-MYK-322-scaled.jpg",
     preview: "",
-    type: "public",
+    type: "img",
     filetype: "img",
   },
   {
     id: 137,
-    title: "Ki-Bar-MYK-321",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Ki-Bar-MYK-321-scaled.jpg",
+    title: "Fuego-Restaurant-Sunset-MYK-392",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Fuego-Restaurant-Sunset-MYK-392-scaled.jpg",
     preview: "",
-    type: "public",
+    type: "img",
     filetype: "img",
   },
   {
     id: 138,
-    title: "Kids-Club-Balam-at-La-Laguna-area-MYK-350",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Kids-Club-Balam-at-La-Laguna-area-MYK-350-scaled.jpg",
+    title: "Hix-Bar-Lounge-Terrace-MYK-317",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Hix-Bar-Lounge-Terrace-MYK-317-scaled.jpg",
     preview: "",
-    type: "public",
+    type: "img",
     filetype: "img",
   },
   {
     id: 139,
-    title: "Kids-Club-Balam-at-La-Laguna-areaMYK-351",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Kids-Club-Balam-at-La-Laguna-areaMYK-351-scaled.jpg",
+    title: "Ki-Bar-MYK-321",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Ki-Bar-MYK-321-scaled.jpg",
     preview: "",
-    type: "public",
+    type: "img",
     filetype: "img",
   },
   {
     id: 140,
-    title: "Coatí Kids Club MYK-318",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Kids-Club-MYK-318-scaled.jpg",
+    title: "Kids-Club-Balam-at-La-Laguna-area-MYK-350",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Kids-Club-Balam-at-La-Laguna-area-MYK-350-scaled.jpg",
     preview: "",
-    type: "public",
+    type: "img",
+    filetype: "img",
+  },
+  {
+    id: 141,
+    title: "Kids-Club-Balam-at-La-Laguna-areaMYK-351",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Kids-Club-Balam-at-La-Laguna-areaMYK-351-scaled.jpg",
+    preview: "",
+    type: "img",
     filetype: "img",
   },
   {
     id: 142,
-    title: "La-Laguna-Aerial-MYK-301-scaled.jpg",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/La-Lagtuna-Aerial-MYK-301-scaled.jpg",
+    title: "Coatí Kids Club MYK-318",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Kids-Club-MYK-318-scaled.jpg",
     preview: "",
-    type: "public",
+    type: "img",
     filetype: "img",
   },
   {
     id: 143,
+    title: "La-Laguna-Aerial-MYK-301-scaled.jpg",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/La-Lagtuna-Aerial-MYK-301-scaled.jpg",
+    preview: "",
+    type: "img",
+    filetype: "img",
+  },
+  {
+    id: 144,
     title: "La-Laguna-Aerial-MYK-302",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/La-Laguna-Aerial-MYK-302-scaled.jpg",
     preview: "",
-    type: "public",
+    type: "img",
     filetype: "img",
   },
   {
@@ -1163,7 +1174,7 @@ export const ASSETS = [
     title: "La-Laguna-Exterior-MYK-376",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/La-Laguna-Exterior-MYK-376-scaled.jpg",
     preview: "",
-    type: "public",
+    type: "img",
     filetype: "img",
   },
   {
@@ -1171,7 +1182,7 @@ export const ASSETS = [
     title: "La-Laguna-Exterior-MYK-377",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/La-Laguna-Exterior-MYK-377-scaled.jpg",
     preview: "",
-    type: "public",
+    type: "img",
     filetype: "img",
   },
   {
@@ -1179,7 +1190,7 @@ export const ASSETS = [
     title: "La-Laguna-Exterior-MYK-378",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/La-Laguna-Exterior-MYK-378-scaled.jpg",
     preview: "",
-    type: "public",
+    type: "img",
     filetype: "img",
   },
   {
@@ -1187,7 +1198,7 @@ export const ASSETS = [
     title: "La-Laguna-Pool-MYK-347",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/La-Laguna-Pool-MYK-347-scaled.jpg",
     preview: "",
-    type: "public",
+    type: "img",
     filetype: "img",
   },
   {
@@ -1195,7 +1206,7 @@ export const ASSETS = [
     title: "La-Laguna-private-dining-area-MYK-354",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/La-Laguna-private-dining-area-MYK-354-scaled.jpg",
     preview: "",
-    type: "public",
+    type: "img",
     filetype: "img",
   },
   {
@@ -1203,7 +1214,7 @@ export const ASSETS = [
     title: "La-Laguna-Private-Dining-area-MYK-355",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/La-Laguna-Private-Dining-area-MYK-355-scaled.jpg",
     preview: "",
-    type: "public",
+    type: "img",
     filetype: "img",
   },
   {
@@ -1211,7 +1222,7 @@ export const ASSETS = [
     title: "La-Laguna-Private-Dining-area-MYK-357",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/La-Laguna-Private-Dining-area-MYK-357-scaled.jpg",
     preview: "",
-    type: "public",
+    type: "img",
     filetype: "img",
   },
   {
@@ -1219,7 +1230,7 @@ export const ASSETS = [
     title: "La-Laguna-Restaurant-MYK-424",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/La-Laguna-Restaurant-MYK-424-scaled.jpg",
     preview: "",
-    type: "public",
+    type: "img",
     filetype: "img",
   },
   {
@@ -1227,7 +1238,7 @@ export const ASSETS = [
     title: "La-laguna-terrace-MYK-300",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/La-laguna-terrace-MYK-300-scaled.jpg",
     preview: "",
-    type: "public",
+    type: "img",
     filetype: "img",
   },
   {
@@ -1235,7 +1246,7 @@ export const ASSETS = [
     title: "Maykana-Beach-Club-Aerial-MYK-304",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Maykana-Beach-Club-Aerial-MYK-304-scaled.jpg",
     preview: "",
-    type: "public",
+    type: "img",
     filetype: "img",
   },
   {
@@ -1243,7 +1254,7 @@ export const ASSETS = [
     title: "Maykana-Beach-Club-Front-MYK-305",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Maykana-Beach-Club-Front-MYK-305-scaled.jpg",
     preview: "",
-    type: "public",
+    type: "img",
     filetype: "img",
   },
   {
@@ -1251,7 +1262,7 @@ export const ASSETS = [
     title: "Maykana-Beach-Club-MYK-388",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Maykana-Beach-Club-MYK-388-scaled.jpg",
     preview: "",
-    type: "public",
+    type: "img",
     filetype: "img",
   },
   {
@@ -1259,7 +1270,7 @@ export const ASSETS = [
     title: "Maykana-Beach-Club-MYK-389",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Maykana-Beach-Club-MYK-389-scaled.jpg",
     preview: "",
-    type: "public",
+    type: "img",
     filetype: "img",
   },
   {
@@ -1267,7 +1278,7 @@ export const ASSETS = [
     title: "Maykana-Beach-Club-Sunset-MYK-426",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Maykana-Beach-Club-Sunset-MYK-426-scaled.jpg",
     preview: "",
-    type: "public",
+    type: "img",
     filetype: "img",
   },
   {
@@ -1275,7 +1286,7 @@ export const ASSETS = [
     title: "Maykana-Terrace-MYK-434",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Maykana-Terrace-MYK-434-scaled.jpg",
     preview: "",
-    type: "public",
+    type: "img",
     filetype: "img",
   },
   {
@@ -1283,7 +1294,7 @@ export const ASSETS = [
     title: "Motor-Lobby-MYK-437",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Motor-Lobby-MYK-437-scaled.jpg",
     preview: "",
-    type: "public",
+    type: "img",
     filetype: "img",
   },
   {
@@ -1340,191 +1351,6 @@ export const ASSETS = [
     type: "menus",
     filetype: "other",
   },
-  /*
-  
-  
-  {
-    id: 168,
-    title: "Menú Brisas Tapas Español",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Menu-Brisas_Tapas_ESP.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/brisas-tapas.png",
-    type: "menus",
-    filetype: "other",
-  },
-  {
-    id: 169,
-    title: "Menú Brisas Tapas Inglés",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Menu-Brisas_Tapas_ENG.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/brisas-tapas.png",
-    type: "menus",
-    filetype: "other",
-  },
-  {
-    id: 170,
-    title: "Menú Brisas Kids Español",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Menu-Brisas-Kids-Menu-ESP.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/brisas-kids.png",
-    type: "menus",
-    filetype: "other",
-  },
-  {
-    id: 171,
-    title: "Menú Brisas Kids Inglés",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Menu-Brisas_Kids_ENG.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/brisas-kids.png",
-    type: "menus",
-    filetype: "other",
-  },
-  
-  {
-    id: 176,
-    title: "Menú Brisas Bebidas Inglés",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Menu-Brisas-Bebidas-ING.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/brisas-bebidas.png",
-    type: "menus",
-    filetype: "other",
-  },
-  
-  
-  
-  {
-    id: 179,
-    title: "43x28 CM - Fuego Menu Impreso",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/43x28-CM-Fuego-Menu_Impreso.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/fuego-impresso.png",
-    type: "menus",
-    filetype: "other",
-  },
-  
-  {
-    id: 185,
-    title: "Menú Gaia Kids ESP",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Menu-Gaia-Kids_ESP.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/gaia-kids.png",
-    type: "menus",
-    filetype: "other",
-  },
-  {
-    id: 186,
-    title: "Menú Gaia Kids Nuevo ENG",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Menu-Gaia-Kids_Nuevo-ENG.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/gaia-kids.png",
-    type: "menus",
-    filetype: "other",
-  },
-  {
-    id: 195,
-    title: "IRD Menu ESP 16x23 CM DIGITAL 270924",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/IRD-Menu-ESP-16x23-CM-DIGITAL-270924.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/ird.png",
-    type: "menus",
-    filetype: "other",
-  },
-  {
-    id: 196,
-    title: "IRD Menu ENG 16x23 CM DIGITAL 270924",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/IRD-Menu-ENG-16x23-CM-DIGITAL-270924.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/ird.png",
-    type: "menus",
-    filetype: "other",
-  },
-
-  
-
-  {
-    id: 206,
-    title: "Menu Minibar",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Menu-Minibar.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/minibar.png",
-    type: "menus",
-    filetype: "other",
-  },
-
-  {
-    id: 208,
-    title: "Menu Olas ING oficio",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Menu-Olas-ING_oficio.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/olas-carta.png",
-    type: "menus",
-    filetype: "other",
-  },
-  {
-    id: 209,
-    title: "Menu Olas ESP Carta",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Menu-Olas-ESP-Carta.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/olas-carta.png",
-    type: "menus",
-    filetype: "other",
-  },
-  {
-    id: 210,
-    title: "Menu Olas ESP oficio",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Menu-Olas-ESP_oficio.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/olas-carta.png",
-    type: "menus",
-    filetype: "other",
-  },
-  {
-    id: 211,
-    title: "Menu Olas ING Carta",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Menu-Olas-ING-Carta.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/olas-carta.png",
-    type: "menus",
-    filetype: "other",
-  },
-  
-  {
-    id: 200,
-    title: "Laguna KIDS MENU ENG",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/KIDS-MENU-ENG.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/laguna-kids.png",
-    type: "menus",
-    filetype: "other",
-  },
-  {
-    id: 201,
-    title: "Laguna MENU NIÑOS ESP",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/MENU-NINOS-ESP.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/laguna-kids.png",
-    type: "menus",
-    filetype: "other",
-  },
-  */
-  {
-    id: 219,
-    title: "23 - 29 Diciembre Coati ING",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/23-29-DICIEMBRE-COATI-ING-5.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/12/23-29-DICIEMBRE-COATI-ING.png",
-    type: "daily",
-    filetype: "other",
-  },
-  {
-    id: 218,
-    title: "23 - 29 Diciembre Balam ING",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/23-29-DICIEMBRE-BALAM-ING-1.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/12/23-29-DICIEMBRE-BALAM-ING.png",
-    type: "daily",
-    filetype: "other",
-  },
   {
     id: 198,
     title: "LAGUNA POSTRES ESP",
@@ -1561,15 +1387,6 @@ export const ASSETS = [
     type: "menus",
     filetype: "other",
   },
-  {
-    id: 217,
-    title: "Menu Laguna Lunch ESP",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Menu_Laguna_Lunch-ESP.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/laguna.png",
-    type: "menus",
-    filetype: "other",
-  },
   /* TAURO */
   {
     id: 215,
@@ -1581,7 +1398,7 @@ export const ASSETS = [
     filetype: "other",
   },
   {
-    id: 214,
+    id: 216,
     title: "Menú Kids Tauro ESP",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/KIDS-MENU_TAURO_ESP_2024-3.pdf",
     preview:
@@ -1599,7 +1416,7 @@ export const ASSETS = [
     filetype: "other",
   },
   {
-    id: 212,
+    id: 221,
     title: "Menu Tauro ENG",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Menu-Tauro-ENG-2024.pdf",
     preview:
@@ -1607,9 +1424,8 @@ export const ASSETS = [
     type: "menus",
     filetype: "other",
   },
-
   {
-    id: 213,
+    id: 222,
     title: "Kids Menu Tauro EN",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/KIDS-MENU_TAURO_ENG_2024.pdf",
     preview:
@@ -1617,10 +1433,9 @@ export const ASSETS = [
     type: "menus",
     filetype: "other",
   },
-
   /* FUEGO */
   {
-    id: 178,
+    id: 223,
     title: "Menu Fuego Kids ENG",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Digital_Fuego-Menu_Ninos_ENG.pdf",
     preview:
@@ -1629,7 +1444,7 @@ export const ASSETS = [
     filetype: "other",
   },
   {
-    id: 181,
+    id: 224,
     title: "Menu Fuego DRINKS ENG",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Digital_Fuego-Menu_Bebidas_ENG.pdf",
     preview:
@@ -1638,7 +1453,7 @@ export const ASSETS = [
     filetype: "other",
   },
   {
-    id: 182,
+    id: 225,
     title: "Menu Fuego ENG",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Digital_Fuego-Menu_ENG.pdf",
     preview:
@@ -1647,7 +1462,7 @@ export const ASSETS = [
     filetype: "other",
   },
   {
-    id: 183,
+    id: 226,
     title: "Menu Fuego Kids ESP",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Digital_Fuego-Menu_Ninos_ESP.pdf",
     preview:
@@ -1656,7 +1471,7 @@ export const ASSETS = [
     filetype: "other",
   },
   {
-    id: 180,
+    id: 227,
     title: "Menu Fuego BEBIDAS ESP",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Digital_Fuego-Menu_Bebidas_ESP.pdf",
     preview:
@@ -1665,7 +1480,7 @@ export const ASSETS = [
     filetype: "other",
   },
   {
-    id: 184,
+    id: 228,
     title: "Menú Fuego ESP",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Digital_Fuego-Menu_ESP.pdf",
     preview:
@@ -1675,7 +1490,7 @@ export const ASSETS = [
   },
   /* GAIA */
   {
-    id: 194,
+    id: 229,
     title: "MenúGaia 2024 ESP",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/MenuGaia_2024_ESP_28x40cm.pdf",
     preview:
@@ -1684,7 +1499,7 @@ export const ASSETS = [
     filetype: "other",
   },
   {
-    id: 197,
+    id: 230,
     title: "MenuGaia 2024 ING",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/MenuGaia_2024_ING_28x40cm.pdf",
     preview:
@@ -1694,7 +1509,7 @@ export const ASSETS = [
   },
   /* HIX */
   {
-    id: 187,
+    id: 231,
     title: "Español Menu Bebidas con alcohol HIX2024",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Digital-Menu-Bebidas-con-alcohol-HIX2024-carta_ESP-1-1.pdf",
     preview:
@@ -1703,7 +1518,7 @@ export const ASSETS = [
     filetype: "other",
   },
   {
-    id: 191,
+    id: 232,
     title: "Ingles Menu Bebidas con alcohol HIX2024",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Digital-Menu-Bebidas-con-alcohol-HIX2024-carta_ENG-1-1.pdf",
     preview:
@@ -1712,7 +1527,7 @@ export const ASSETS = [
     filetype: "other",
   },
   {
-    id: 188,
+    id: 233,
     title: "Español Menu Bebidas sin alcohol HIX2024",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Digital-Menu-Bebidas-sin-alcohol-HIX2024-carta_ESP-1.pdf",
     preview:
@@ -1721,7 +1536,7 @@ export const ASSETS = [
     filetype: "other",
   },
   {
-    id: 192,
+    id: 234,
     title: "Ingles Menu Bebidas sin alcohol HIX2024",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Digital-Menu-Bebidas-sin-alcohol-HIX2024-carta_ENG-1-1.pdf",
     preview:
@@ -1729,9 +1544,8 @@ export const ASSETS = [
     type: "menus",
     filetype: "other",
   },
-
   {
-    id: 189,
+    id: 235,
     title: "HixBar Menu Niños Esp",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/HixBar_Menu-Ninos-ESP.pdf",
     preview:
@@ -1740,7 +1554,7 @@ export const ASSETS = [
     filetype: "other",
   },
   {
-    id: 190,
+    id: 236,
     title: "HixBar Menu Niños ING",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/HixBar_Kids-Menu-ENG.pdf",
     preview:
@@ -1748,9 +1562,8 @@ export const ASSETS = [
     type: "menus",
     filetype: "other",
   },
-
   {
-    id: 193,
+    id: 237,
     title: "Menu HIX 2024ESP",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Menu-HIX-2024-digital-ESP.pdf",
     preview:
@@ -1759,16 +1572,7 @@ export const ASSETS = [
     filetype: "other",
   },
   {
-    id: 204,
-    title: "Menu HIX 2024ING",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Menu-HIX-2024-digital-ENG.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/hix.png",
-    type: "menus",
-    filetype: "other",
-  },
-  {
-    id: 177,
+    id: 238,
     title: "Menú Cielo ESP",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/CIELO-ESP-DIGITAL-.pdf",
     preview:
@@ -1777,16 +1581,7 @@ export const ASSETS = [
     filetype: "other",
   },
   {
-    id: 201,
-    title: "Menú Cielo ING",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/CIELO-ENG-DIGITAL.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/cielo.png",
-    type: "menus",
-    filetype: "other",
-  },
-  {
-    id: 164,
+    id: 239,
     title: "Menú Bassano Español",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Bassano_Carta_ESP.pdf",
     preview:
@@ -1795,7 +1590,7 @@ export const ASSETS = [
     filetype: "other",
   },
   {
-    id: 165,
+    id: 240,
     title: "Menú Bassano Inglés",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Bassano_Carta_EN.pdf",
     preview:
@@ -1804,7 +1599,7 @@ export const ASSETS = [
     filetype: "other",
   },
   {
-    id: 166,
+    id: 241,
     title: "Menú Bassano Kids Español",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Bassano_MC_Kids_ESP.pdf",
     preview:
@@ -1813,7 +1608,7 @@ export const ASSETS = [
     filetype: "other",
   },
   {
-    id: 167,
+    id: 242,
     title: "Menú Bassano Kids Inglés",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Bassano_MC_Kids_EN.pdf",
     preview:
@@ -1822,7 +1617,16 @@ export const ASSETS = [
     filetype: "other",
   },
   {
-    id: 202,
+    id: 243,
+    title: "Menú Cielo ING",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/CIELO-ENG-DIGITAL.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/cielo.png",
+    type: "menus",
+    filetype: "other",
+  },
+  {
+    id: 244,
     title: "Menú Bassano Postres Español",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Bassano_MC_Postres_ESP.pdf",
     preview:
@@ -1831,12 +1635,209 @@ export const ASSETS = [
     filetype: "other",
   },
   {
-    id: 203,
+    id: 245,
     title: "Menú Bassano Postres Inglés",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Bassano_MC_Postres_EN.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/bassano-kids.png",
     type: "menus",
+    filetype: "other",
+  },
+  {
+    id: 246,
+    title: "Menu HIX 2024ING",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Menu-HIX-2024-digital-ENG.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/hix.png",
+    type: "menus",
+    filetype: "other",
+  },
+  {
+    id: 247,
+    title: "Logo Mayakoba Blanco PNG",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Logo-MYK-W.png",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Logo-MYK-W-prev-scaled.jpg",
+    type: "logo",
+    filetype: "other",
+  },
+  {
+    id: 248,
+    title: "Logo Mayakoba Negro JPG",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Logo-MYK-B-scaled.jpg",
+    preview: "",
+    type: "logo",
+    filetype: "other",
+  },
+  {
+    id: 249,
+    title: "Logo Mayakoba Formatos en Curvas",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Logo-Formatos-Curvas-2.zip",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Logo-MYK-B-scaled.jpg",
+    type: "logo",
+    filetype: "other",
+  },
+  {
+    id: 250,
+    title: "Logo Mayakoba PDF",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Logo-MYK-1.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Logo-MYK-B-scaled.jpg",
+    type: "logo",
+    filetype: "other",
+  },
+  {
+    id: 251,
+    title: "Resort Map ESP",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/MapaFairmont_Espanol.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/12/MapaFairmont_Espanol_page-0001_resultado.webp",
+    type: "resort",
+    filetype: "other",
+  },
+  {
+    id: 252,
+    title: "Resort Map ENG",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/MapaFairmont_Ingles.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/12/MapaFairmont_Ingles_page-0001_resultado.webp",
+    type: "resort",
+    filetype: "other",
+  },
+  {
+    id: 253,
+    title: "Weddings Landing Microsite",
+    url: "https://www.fairmont-mayakoba.com/gather/weddings/",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/12/weddings-micrositio-prev.webp",
+    type: "weddings",
+    filetype: "other",
+  },
+  {
+    id: 254,
+    title: "23 - 29 Diciembre Coati ING",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/23-29-DICIEMBRE-COATI-ING-5.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/12/23-29-DICIEMBRE-COATI-ING.png",
+    type: "daily",
+    filetype: "other",
+  },
+  {
+    id: 255,
+    title: "23 - 29 Diciembre Balam ING",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/23-29-DICIEMBRE-BALAM-ING-1.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/12/23-29-DICIEMBRE-BALAM-ING.png",
+    type: "daily",
+    filetype: "other",
+  },
+  {
+    id: 256,
+    title: "Menu Laguna Lunch ESP",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Menu_Laguna_Lunch-ESP.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/laguna.png",
+    type: "menus",
+    filetype: "other",
+  },
+  {
+    id: 257,
+    title: "Golf Landing Microsite",
+    url: "https://www.fairmont-mayakoba.com/explore/golf/",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/12/golf-micrositio-prev.png",
+    type: "golf",
+    filetype: "other",
+  },
+  {
+    id: 258,
+    title: "Mayakoba Guests 2025",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/MAYAKOBA-GUESTS-2025.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/12/MAYAKOBA-GUESTS-2025_prev-scaled.jpg",
+    type: "golf",
+    filetype: "other",
+  },
+  {
+    id: 259,
+    title: "Spa Landing Microsite",
+    url: "https://www.fairmont-mayakoba.com/wellness/spa/",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/12/spa-preview-1.png",
+    type: "spa",
+    filetype: "other",
+  },
+  {
+    id: 260,
+    title: "Spa Experiences Menu ESP",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Menu-ESP-Experiencias-Fairmont-Spa.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/12/spa-menu-preview.png",
+    type: "spa",
+    filetype: "other",
+  },
+  {
+    id: 261,
+    title: "Spa Experiences Menu ENG",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Menu-ING-Experiences-Fairmont-Spa.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/12/spa-menu-preview.png",
+    type: "spa",
+    filetype: "other",
+  },
+  {
+    id: 262,
+    title: "Spa Price List ESP",
+    url: "https://www.fairmont.com/mayakoba-riviera-maya/pdfs/price-list-spa-2024-esp-ago2024/",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/12/spa-pricelist-preview.png",
+    type: "spa",
+    filetype: "other",
+  },
+  {
+    id: 263,
+    title: "Spa Price List ENG",
+    url: "https://www.fairmont.com/mayakoba-riviera-maya/pdfs/price-list-spa-2024-eng/",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/12/spa-pricelist-preview.png",
+    type: "spa",
+    filetype: "other",
+  },
+  {
+    id: 264,
+    title: "Factsheet Individual ESP",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Factsheet_esp_individual.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/12/factsheet-individual-prev.png",
+    type: "brochure",
+    filetype: "other",
+  },
+  {
+    id: 265,
+    title: "Factsheet Individual ING",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Factsheet_ing_individual.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/12/factsheet-individual-prev.png",
+    type: "brochure",
+    filetype: "other",
+  },
+  {
+    id: 266,
+    title: "Factsheet Individual Extendido ING",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Factsheet-Fairmont-ENG-5-dic-.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Factsheet-Fairmont-ENG-2024.png",
+    type: "brochure",
+    filetype: "other",
+  },
+  {
+    id: 267,
+    title: "Factsheet Individual Extendido ESP",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Factsheet-Fairmont-Esp-19-nov-2024.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Factsheet-Fairmont-ENG-2024.png",
+    type: "brochure",
     filetype: "other",
   },
 ];

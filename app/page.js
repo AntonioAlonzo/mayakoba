@@ -11,13 +11,49 @@ export default function Home() {
   const [itemList, setItemList] = useState([]);
   const [currentPage, setCurrentPage] = useState(1);
   const [loading, setLoading] = useState(false); // Add loading state
-  const itemsPerPage = 9; // Show 9 items per page
+  const itemsPerPage = 12; // Show 9 items per page
+  const [showReservationInfo, setShowReservationInfo] = useState(false);
 
   useEffect(() => {
     setItemList(ASSETS);
   }, []);
 
   function handleApplyFilterClick(types) {
+    if (types === "webapp") {
+      window.open(
+        "https://fairmontmayakoba.duve.co/g/RJSdbyW-t?id=home&isCompany=1",
+        "_blank"
+      );
+      return;
+    }
+
+    if (types === "events") {
+      window.open(
+        "https://www.fairmont-mayakoba.com/explore/events-calendar/",
+        "_blank"
+      );
+      return;
+    }
+
+    if (types === "offers") {
+      window.open("https://www.fairmont-mayakoba.com/offers/", "_blank");
+      return;
+    }
+
+    if (types === "virtual") {
+      window.open(
+        "https://visitingmedia.com/tt8/?ttid=fairmont-riviera-maya#/360?group=0&tour=0",
+        "_blank"
+      );
+      return;
+    }
+
+    if (types === "reservations") {
+      setShowReservationInfo(true);
+      return;
+    }
+
+    setShowReservationInfo(false);
     setLoading(true); // Start loading when filter is applied
     setTimeout(() => {
       const filteredItems = ASSETS.filter((item) =>
@@ -112,38 +148,61 @@ export default function Home() {
         Assets | Fairmont Mayakoba
       </h2>
 
-      <main className="flex md:gap-40 md:px-32 md:mt-16 px-2 gap-2 md:flex-row flex-col">
-        {/** 
+      {showReservationInfo ? (
+        <div className="flex flex-col items-center">
+          <a href="tel:+52 984 206 3000" className="mt-8">+52 984 206 3000</a>
+          <p className="mt-6">Correo de reservas:</p>
+          <a href="mailto:myk.reservations@fairmont.com">
+            myk.reservations@fairmont.com
+          </a>
+          <a
+            target="_blank"
+            href="https://www.fairmont.com/reservations/check-availability/?hc=MYK&partner_id=mykmayakoba&na=2&nc=0&ad=&dd=&pc="
+            className="mt-6 bg-black text-white uppercase py-4 px-8 hover:bg-white border-black border-solid border-2 hover:text-black "
+          >
+            Check rates
+          </a>
+        </div>
+      ) : (
+        <div>
+          <main className="flex md:gap-40 md:px-32 md:mt-16 px-2 gap-2 md:flex-row flex-col">
+            {/** 
         <div className="w-full md:w-1/6">
           <Filter onApplyFilterClick={handleApplyFilterClick}></Filter>
         </div>
         */}
-        <div className="w-full  grid grid-cols-2 md:grid-cols-3 gap-x-2 gap-y-7 ">
-          {loading ? (
-            <div className="col-span-2 md:col-span-3 text-center">
-              <p>Loading...</p>
+            <div className="w-full  grid grid-cols-2 md:grid-cols-6 gap-x-2 gap-y-7 ">
+              {loading ? (
+                <div className="col-span-2 md:col-span-3 text-center">
+                  <p>Loading...</p>
+                </div>
+              ) : (
+                currentItems.map((item) => (
+                  <Item
+                    key={item._ID}
+                    data={item}
+                    onItemClick={handleItemClick}
+                  />
+                ))
+              )}
             </div>
-          ) : (
-            currentItems.map((item) => (
-              <Item key={item._ID} data={item} onItemClick={handleItemClick} />
-            ))
-          )}
-        </div>
-      </main>
+          </main>
 
-      <div className="flex justify-center mt-8">
-        {Array.from({ length: totalPages }, (_, index) => (
-          <button
-            key={index}
-            onClick={() => paginate(index + 1)}
-            className={`px-4 py-2 mx-1 border ${
-              currentPage === index + 1 ? "bg-gray-300" : "bg-white"
-            }`}
-          >
-            {index + 1}
-          </button>
-        ))}
-      </div>
+          <div className="flex justify-center mt-8">
+            {Array.from({ length: totalPages }, (_, index) => (
+              <button
+                key={index}
+                onClick={() => paginate(index + 1)}
+                className={`px-4 py-2 mx-1 border ${
+                  currentPage === index + 1 ? "bg-gray-300" : "bg-white"
+                }`}
+              >
+                {index + 1}
+              </button>
+            ))}
+          </div>
+        </div>
+      )}
     </div>
   );
 }

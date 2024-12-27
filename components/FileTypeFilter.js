@@ -12,7 +12,7 @@ export default function FileTypeFilter({ onApplyFilterClick }) {
       <div className="flex flex-col items-center max-w-[8rem] m-4">
         <div
           onClick={() => handleTypeClick("factsheet")}
-          className="cursor-pointer bg-[url('./assets/factsheet.png')] h-[8rem] w-[8rem] md:h-[10rem] md:w-[10rem] bg-cover flex items-center justify-center rounded-full"
+          className="cursor-pointer bg-[url('./assets/factsheet.jpg')] h-[8rem] w-[8rem] md:h-[10rem]  md:w-[10rem] bg-cover flex items-center justify-center rounded-full"
         ></div>
         <p className="uppercase text-black mt-2 text-center">Fact Sheet</p>
       </div>
@@ -20,7 +20,7 @@ export default function FileTypeFilter({ onApplyFilterClick }) {
       <div className="flex flex-col items-center max-w-[8rem] m-4">
         <div
           onClick={() => handleTypeClick("offers")}
-          className="cursor-pointer bg-[url('./assets/offers.png')] h-[8rem] w-[8rem] md:h-[10rem] md:w-[10rem] bg-cover flex items-center justify-center rounded-full"
+          className="cursor-pointer bg-[url('./assets/offers.webp')] bg-center h-[8rem] w-[8rem] md:h-[10rem] md:w-[10rem] bg-cover flex items-center justify-center rounded-full"
         ></div>
         <p className="uppercase text-black mt-2 text-center">Offers</p>
       </div>
@@ -28,7 +28,7 @@ export default function FileTypeFilter({ onApplyFilterClick }) {
       <div className="flex flex-col items-center max-w-[8rem] m-4">
         <div
           onClick={() => handleTypeClick("brochure")}
-          className="cursor-pointer bg-[url('./assets/brochures.png')] h-[8rem] w-[8rem] md:h-[10rem] md:w-[10rem] bg-cover flex items-center justify-center rounded-full"
+          className="cursor-pointer bg-[url('./assets/brochures.webp')] h-[8rem] w-[8rem] md:h-[10rem] md:w-[10rem] bg-cover flex items-center justify-center rounded-full"
         ></div>
         <p className="uppercase text-black mt-2 text-center">Brochures</p>
       </div>
@@ -43,16 +43,16 @@ export default function FileTypeFilter({ onApplyFilterClick }) {
 
       <div className="flex flex-col items-center max-w-[8rem] m-4">
         <div
-          onClick={() => handleTypeClick("daily")}
-          className="cursor-pointer bg-[url('./assets/dailyprogram.png')] h-[8rem] w-[8rem] md:h-[10rem] md:w-[10rem] bg-cover flex items-center justify-center rounded-full"
+          onClick={() => handleTypeClick("webapp")}
+          className="cursor-pointer bg-[url('./assets/webapp.png')] bg-center h-[8rem] w-[8rem] md:h-[10rem] md:w-[10rem] bg-cover flex items-center justify-center rounded-full"
         ></div>
-        <p className="uppercase text-black mt-2 text-center">Daily Program</p>
+        <p className="uppercase text-black mt-2 text-center">Fairmont WebApp</p>
       </div>
 
       <div className="flex flex-col items-center max-w-[8rem] m-4">
         <div
           onClick={() => handleTypeClick("events")}
-          className="cursor-pointer bg-[url('./assets/eventscalendar.png')] h-[8rem] w-[8rem] md:h-[10rem] md:w-[10rem] bg-cover flex items-center justify-center rounded-full"
+          className="cursor-pointer bg-[url('./assets/eventscalendar.jpg')] h-[8rem] w-[8rem] md:h-[10rem] md:w-[10rem] bg-center bg-cover flex items-center justify-center rounded-full"
         ></div>
         <p className="uppercase text-black mt-2 text-center">Events Calendar</p>
       </div>
@@ -68,7 +68,7 @@ export default function FileTypeFilter({ onApplyFilterClick }) {
       <div className="flex flex-col items-center max-w-[8rem] m-4">
         <div
           onClick={() => handleTypeClick("virtual")}
-          className="cursor-pointer bg-[url('./assets/virtualtour.png')] h-[8rem] w-[8rem] md:h-[10rem] md:w-[10rem] bg-cover flex items-center justify-center rounded-full"
+          className="cursor-pointer bg-[url('./assets/virtual.png')] h-[8rem] w-[8rem] md:h-[10rem] md:w-[10rem] bg-cover flex items-center justify-center rounded-full"
         ></div>
         <p className="uppercase text-black mt-2 text-center">Virtual Tour</p>
       </div>
@@ -76,7 +76,7 @@ export default function FileTypeFilter({ onApplyFilterClick }) {
       <div className="flex flex-col items-center max-w-[8rem] m-4">
         <div
           onClick={() => handleTypeClick("img")}
-          className="cursor-pointer bg-[url('./assets/photos.jpg')] h-[8rem] w-[8rem] md:h-[10rem] md:w-[10rem] bg-cover flex items-center justify-center rounded-full"
+          className="cursor-pointer bg-[url('./assets/photos.webp')] bg-center h-[8rem] w-[8rem] md:h-[10rem] md:w-[10rem] bg-cover flex items-center justify-center rounded-full"
         ></div>
         <p className="uppercase text-black mt-2 text-center">Photos</p>
       </div>
@@ -84,7 +84,7 @@ export default function FileTypeFilter({ onApplyFilterClick }) {
       <div className="flex flex-col items-center max-w-[8rem] m-4">
         <div
           onClick={() => handleTypeClick("logo")}
-          className="cursor-pointer bg-[url('./assets/logo.png')] h-[8rem] w-[8rem] md:h-[10rem] md:w-[10rem] bg-cover flex items-center justify-center rounded-full"
+          className="cursor-pointer bg-[url('./assets/logo.png')] bg-center h-[8rem] w-[8rem] md:h-[10rem] md:w-[10rem] bg-contain bg-no-repeat bg-black flex items-center justify-center rounded-full"
         ></div>
         <p className="uppercase text-black mt-2 text-center">Logo</p>
       </div>
@@ -95,14 +95,6 @@ export default function FileTypeFilter({ onApplyFilterClick }) {
           className="cursor-pointer bg-[url('./assets/weddings.png')] h-[8rem] w-[8rem] md:h-[10rem] md:w-[10rem] bg-cover flex items-center justify-center rounded-full"
         ></div>
         <p className="uppercase text-black mt-2 text-center">Weddings</p>
-      </div>
-
-      <div className="flex flex-col items-center max-w-[8rem] m-4">
-        <div
-          onClick={() => handleTypeClick("banquet")}
-          className="cursor-pointer bg-[url('./assets/banquetkit.png')] h-[8rem] w-[8rem] md:h-[10rem] md:w-[10rem] bg-cover flex items-center justify-center rounded-full"
-        ></div>
-        <p className="uppercase text-black mt-2 text-center">Banquet Kit</p>
       </div>
 
       <div className="flex flex-col items-center max-w-[8rem] m-4">
@@ -119,6 +111,21 @@ export default function FileTypeFilter({ onApplyFilterClick }) {
           className="cursor-pointer bg-[url('./assets/menus.png')] h-[8rem] w-[8rem] md:h-[10rem] md:w-[10rem] bg-cover flex items-center justify-center rounded-full"
         ></div>
         <p className="uppercase text-black mt-2 text-center">Menus</p>
+      </div>
+
+      <div className="flex flex-col items-center max-w-[8rem] m-4">
+        <div
+          onClick={() => handleTypeClick("golf")}
+          className="cursor-pointer bg-[url('./assets/golf.webp')] bg-center h-[8rem] w-[8rem] md:h-[10rem] md:w-[10rem] bg-cover flex items-center justify-center rounded-full"
+        ></div>
+        <p className="uppercase text-black mt-2 text-center">Golf</p>
+      </div>
+      <div className="flex flex-col items-center max-w-[8rem] m-4">
+        <div
+          onClick={() => handleTypeClick("spa")}
+          className="cursor-pointer bg-[url('./assets/spa.webp')] bg-center h-[8rem] w-[8rem] md:h-[10rem] md:w-[10rem] bg-cover flex items-center justify-center rounded-full"
+        ></div>
+        <p className="uppercase text-black mt-2 text-center">Spa</p>
       </div>
     </div>
   );

@@ -13,13 +13,15 @@ function Item({ data }) {
 
   return (
     <div>
-      <div className="bg-gray-50 h-[8rem] md:h-[15rem]">
-        <img
-          className={`h-full w-full ${
-            data.filetype !== "image" && "object-cover"
-          }`}
-          src={preview}
-        ></img>
+      <div className="bg-gray-50 h-[8rem] md:h-[12rem]">
+        <a href={data.url} target="_blank">
+          <img
+            className={`h-full w-full ${
+              data.filetype !== "image" && "object-cover"
+            }`}
+            src={preview}
+          ></img>
+        </a>
       </div>
       <div className="flex justify-between p-4 md:pt-6 bg-[#F2F2F2]">
         <div className="flex items-center">
