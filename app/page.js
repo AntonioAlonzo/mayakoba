@@ -150,8 +150,9 @@ export default function Home() {
 
       {showReservationInfo ? (
         <div className="flex flex-col items-center">
-          <a href="tel:+52 984 206 3000" className="mt-8">+52 984 206 3000</a>
-          <p className="mt-6">Correo de reservas:</p>
+          <a href="tel:+52 984 206 3000" className="mt-8">
+            +52 984 206 3000
+          </a>
           <a href="mailto:myk.reservations@fairmont.com">
             myk.reservations@fairmont.com
           </a>
