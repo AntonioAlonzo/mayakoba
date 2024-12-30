@@ -48,6 +48,14 @@ export default function Home() {
       return;
     }
 
+    if (types === "video") {
+      window.open(
+        "https://www.youtube.com/@FairmontMayakobaOfficial",
+        "_blank"
+      );
+      return;
+    }
+
     if (types === "reservations") {
       setShowReservationInfo(true);
       return;
@@ -165,10 +173,14 @@ export default function Home() {
         </div>
       ) : (
         <div>
-          {currentItems.length ? (<h2 className="uppercase text-center text-[2rem] mt-16 font-silk-serif">
-            Content
-          </h2>) : ''}
-          
+          {currentItems.length ? (
+            <h2 className="uppercase text-center text-[2rem] mt-16 font-silk-serif">
+              Content
+            </h2>
+          ) : (
+            ""
+          )}
+
           <main className="flex md:gap-40 md:px-32 md:mt-16 px-2 gap-2 md:flex-row flex-col">
             {/** 
         <div className="w-full md:w-1/6">

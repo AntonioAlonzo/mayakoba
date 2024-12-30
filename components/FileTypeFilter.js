@@ -60,7 +60,7 @@ export default function FileTypeFilter({ onApplyFilterClick }) {
       <div className="flex flex-col items-center max-w-[8rem] m-4">
         <div
           onClick={() => handleTypeClick("video")}
-          className="cursor-pointer bg-[url('./assets/videos.jpg')] h-[8rem] w-[8rem] md:h-[10rem] md:w-[10rem] bg-cover flex items-center justify-center rounded-full"
+          className="cursor-pointer bg-[url('./assets/videos.jpg')] h-[8rem] border-[2px] bg-center w-[8rem] md:h-[10rem] md:w-[10rem] bg-cover flex items-center justify-center rounded-full"
         ></div>
         <p className="uppercase text-black mt-2 text-center">Videos</p>
       </div>
