@@ -15,7 +15,7 @@ export default function Home() {
   const [showReservationInfo, setShowReservationInfo] = useState(false);
 
   useEffect(() => {
-    setItemList(ASSETS);
+    // setItemList(ASSETS);
   }, []);
 
   function handleApplyFilterClick(types) {
@@ -144,12 +144,11 @@ export default function Home() {
         onApplyFilterClick={handleApplyFilterClick}
       ></FileTypeFilter>
 
-      <h2 className="uppercase text-center text-[2rem] mt-16 font-silk-serif">
-        Assets | Fairmont Mayakoba
-      </h2>
-
       {showReservationInfo ? (
         <div className="flex flex-col items-center">
+          <h2 className="uppercase text-center text-[2rem] mt-16 font-silk-serif">
+            Content
+          </h2>
           <a href="tel:+52 984 206 3000" className="mt-8">
             +52 984 206 3000
           </a>
@@ -166,16 +165,20 @@ export default function Home() {
         </div>
       ) : (
         <div>
+          {currentItems.length ? (<h2 className="uppercase text-center text-[2rem] mt-16 font-silk-serif">
+            Content
+          </h2>) : ''}
+          
           <main className="flex md:gap-40 md:px-32 md:mt-16 px-2 gap-2 md:flex-row flex-col">
             {/** 
         <div className="w-full md:w-1/6">
           <Filter onApplyFilterClick={handleApplyFilterClick}></Filter>
         </div>
         */}
-            <div className="w-full  grid grid-cols-2 md:grid-cols-6 gap-x-2 gap-y-7 ">
+            <div className="w-full grid grid-cols-2 md:grid-cols-6 gap-x-2 gap-y-7 ">
               {loading ? (
-                <div className="col-span-2 md:col-span-3 text-center">
-                  <p>Loading...</p>
+                <div className="justify-center">
+                  <p className="text-center">Loading...</p>
                 </div>
               ) : (
                 currentItems.map((item) => (

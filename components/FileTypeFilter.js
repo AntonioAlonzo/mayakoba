@@ -44,7 +44,7 @@ export default function FileTypeFilter({ onApplyFilterClick }) {
       <div className="flex flex-col items-center max-w-[8rem] m-4">
         <div
           onClick={() => handleTypeClick("webapp")}
-          className="cursor-pointer bg-[url('./assets/webapp.png')] bg-center h-[8rem] w-[8rem] md:h-[10rem] md:w-[10rem] bg-cover flex items-center justify-center rounded-full"
+          className="cursor-pointer bg-[url('./assets/webapp.png')] border-[2px] bg-center h-[8rem] w-[8rem] md:h-[10rem] md:w-[10rem] bg-cover flex items-center justify-center rounded-full"
         ></div>
         <p className="uppercase text-black mt-2 text-center">Fairmont WebApp</p>
       </div>
@@ -84,7 +84,7 @@ export default function FileTypeFilter({ onApplyFilterClick }) {
       <div className="flex flex-col items-center max-w-[8rem] m-4">
         <div
           onClick={() => handleTypeClick("logo")}
-          className="cursor-pointer bg-[url('./assets/logo.png')] bg-center h-[8rem] w-[8rem] md:h-[10rem] md:w-[10rem] bg-contain bg-no-repeat bg-black flex items-center justify-center rounded-full"
+          className="cursor-pointer bg-[url('./assets/logo.jpg')] border-[2px] bg-white bg-center h-[8rem] w-[8rem] md:h-[10rem] md:w-[10rem] bg-contain bg-no-repeat bg-black flex items-center justify-center rounded-full"
         ></div>
         <p className="uppercase text-black mt-2 text-center">Logo</p>
       </div>
