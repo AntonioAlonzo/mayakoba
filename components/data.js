@@ -2,7 +2,7 @@ export const ASSETS = [
   {
     id: 0,
     title: "Factsheet Individual ESP",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Factsheet_esp_individual.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Fairmont-Mayakoba-Factsheet-esp-short.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/12/factsheet-individual-prev.png",
     type: "factsheet",
@@ -83,7 +83,7 @@ export const ASSETS = [
   {
     id: 11,
     title: "Factsheet Individual ING",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Factsheet_ing_individual.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Fairmont-Mayakoba-Factsheet-ing-short.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/12/factsheet-individual-prev.png",
     type: "factsheet",
@@ -92,7 +92,7 @@ export const ASSETS = [
   {
     id: 12,
     title: "Factsheet Individual Extendido ING",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Factsheet-Fairmont-ENG-5-dic-.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Factsheet-Fairmont-EN-FINAL.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Factsheet-Fairmont-ENG-2024.png",
     type: "factsheet",
@@ -101,7 +101,7 @@ export const ASSETS = [
   {
     id: 13,
     title: "Factsheet Individual Extendido ESP",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Factsheet-Fairmont-Esp-19-nov-2024.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Factsheet-Fairmont-MYK-Esp-Final.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Factsheet-Fairmont-ENG-2024.png",
     type: "factsheet",
@@ -1807,7 +1807,7 @@ export const ASSETS = [
   {
     id: 264,
     title: "Factsheet Individual ESP",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Factsheet_esp_individual.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Fairmont-Mayakoba-Factsheet-esp-short.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/12/factsheet-individual-prev.png",
     type: "brochure",
@@ -1816,7 +1816,7 @@ export const ASSETS = [
   {
     id: 265,
     title: "Factsheet Individual ING",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Factsheet_ing_individual.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Fairmont-Mayakoba-Factsheet-ing-short.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/12/factsheet-individual-prev.png",
     type: "brochure",
@@ -1825,7 +1825,7 @@ export const ASSETS = [
   {
     id: 266,
     title: "Factsheet Individual Extendido ING",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Factsheet-Fairmont-ENG-5-dic-.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Factsheet-Fairmont-EN-FINAL.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Factsheet-Fairmont-ENG-2024.png",
     type: "brochure",
@@ -1834,7 +1834,7 @@ export const ASSETS = [
   {
     id: 267,
     title: "Factsheet Individual Extendido ESP",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Factsheet-Fairmont-Esp-19-nov-2024.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Factsheet-Fairmont-MYK-Esp-Final.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Factsheet-Fairmont-ENG-2024.png",
     type: "brochure",
