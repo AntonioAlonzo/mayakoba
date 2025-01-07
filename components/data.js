@@ -1511,7 +1511,7 @@ export const ASSETS = [
   {
     id: 231,
     title: "Español Menu Bebidas con alcohol HIX2024",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Digital-Menu-Bebidas-con-alcohol-HIX2024-carta_ESP-1-1.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Menu-Bebidas-con-alcohol-Espanol_6Enero_Digital.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/hix-con-alcohol.png",
     type: "menus",
@@ -1520,7 +1520,7 @@ export const ASSETS = [
   {
     id: 232,
     title: "Ingles Menu Bebidas con alcohol HIX2024",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Digital-Menu-Bebidas-con-alcohol-HIX2024-carta_ENG-1-1.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Menu-Bebidas-con-alcohol-Ingles_Digital.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/hix-con-alcohol.png",
     type: "menus",
@@ -1529,7 +1529,7 @@ export const ASSETS = [
   {
     id: 233,
     title: "Español Menu Bebidas sin alcohol HIX2024",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Digital-Menu-Bebidas-sin-alcohol-HIX2024-carta_ESP-1.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Espanol-Digital-Menu-Bebidas-sin-alcohol-HIX2024-31-de-dic.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/hix-sin-alcohol.png",
     type: "menus",
@@ -1538,7 +1538,7 @@ export const ASSETS = [
   {
     id: 234,
     title: "Ingles Menu Bebidas sin alcohol HIX2024",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Digital-Menu-Bebidas-sin-alcohol-HIX2024-carta_ENG-1-1.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Ingles-Digital-Menu-Bebidas-sin-alcohol-HIX2024-31-de-dic.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/hix-sin-alcohol.png",
     type: "menus",
