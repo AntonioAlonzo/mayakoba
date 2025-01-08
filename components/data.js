@@ -1529,7 +1529,7 @@ export const ASSETS = [
   {
     id: 233,
     title: "Español Menu Bebidas sin alcohol HIX2024",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Espanol-Digital-Menu-Bebidas-sin-alcohol-HIX2024-31-de-dic.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Espanol-Menu-Bebidas-sin-alcohol-HIX-2025_Print.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/hix-sin-alcohol.png",
     type: "menus",
@@ -1538,7 +1538,7 @@ export const ASSETS = [
   {
     id: 234,
     title: "Ingles Menu Bebidas sin alcohol HIX2024",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Ingles-Digital-Menu-Bebidas-sin-alcohol-HIX2024-31-de-dic.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Ingles-Menu-Bebidas-sin-alcohol-HIX-2025_Print.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/hix-sin-alcohol.png",
     type: "menus",
