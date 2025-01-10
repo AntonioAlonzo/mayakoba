@@ -1372,7 +1372,7 @@ export const ASSETS = [
   {
     id: 202,
     title: "Menu Laguna Dinner ENG",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Menu_Laguna_dinner_ING.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Menu_Laguna_dinner_ING.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/laguna.png",
     type: "menus",
@@ -1381,7 +1381,7 @@ export const ASSETS = [
   {
     id: 203,
     title: "Menu Laguna Dinner ESP",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Menu_Laguna_dinner_ESP.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Menu_Laguna_dinner_ESP.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/laguna.png",
     type: "menus",
