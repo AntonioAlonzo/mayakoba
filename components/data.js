@@ -1446,7 +1446,7 @@ export const ASSETS = [
   {
     id: 224,
     title: "Menu Fuego DRINKS ENG",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Digital_Fuego-Menu_Bebidas_ENG.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Digital_Fuego-Menu_Bebidas_ENG.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/fuego-bebidas.png",
     type: "menus",
@@ -1473,7 +1473,7 @@ export const ASSETS = [
   {
     id: 227,
     title: "Menu Fuego BEBIDAS ESP",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Digital_Fuego-Menu_Bebidas_ESP.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Digital_Fuego-Menu_Bebidas_ESP.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/fuego-bebidas.png",
     type: "menus",
