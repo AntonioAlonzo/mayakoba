@@ -1851,11 +1851,20 @@ export const ASSETS = [
   },
   {
     id: 269,
-    title: "IRD Menu ENG",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/IRD-Menu-ENG-16x23-CM-DIGITAL-1.pdf",
+    title: "Fairmont MYK MAP",
+    url: "https://marketingideasgroup-my.sharepoint.com/personal/mkt_marketingideasgroup_onmicrosoft_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmkt%5Fmarketingideasgroup%5Fonmicrosoft%5Fcom%2FDocuments%2FAgencia%2FMktIdeas%20WEB%2FFairmont%2FMap%2FFairmont%20MYK%20MAP1%2Epdf&parent=%2Fpersonal%2Fmkt%5Fmarketingideasgroup%5Fonmicrosoft%5Fcom%2FDocuments%2FAgencia%2FMktIdeas%20WEB%2FFairmont%2FMap&ga=1",
     preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/ird.png",
-    type: "menus",
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Fairmont-MYK-MAP1-prev.jpg",
+    type: "mice-map",
+    filetype: "other",
+  },
+  {
+    id: 270,
+    title: "Mayakoba Complex Map 2024",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Mayakoba-Complex-Map_2024.png",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Mayakoba-Complex-Map_2024.png",
+    type: "mice-map",
     filetype: "other",
   },
 ];

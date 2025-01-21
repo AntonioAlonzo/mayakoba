@@ -61,6 +61,14 @@ export default function Home() {
       return;
     }
 
+    if (types === "mice-tour") {
+      window.open(
+        "https://visitingmedia.com/tt8/?ttid=fairmont-riviera-maya#/360?group=6&tour=0",
+        "_blank"
+      );
+      return;
+    }
+
     setShowReservationInfo(false);
     setLoading(true); // Start loading when filter is applied
     setTimeout(() => {
@@ -102,13 +110,11 @@ export default function Home() {
       <div className="h-[40rem] bg-[url('./assets/header.webp')] bg-cover bg-center"></div>
 
       <div className="relative text-center pt-16 px-4">
-        {/* Flex container for title */}
         <h2 className="font-silk-serif text-center text-[2rem] mx-auto">
           <span className="italic">Welcome</span>
           <br /> to <span className="font-semibold">FAIRMONT MAYAKOBA</span>
         </h2>
 
-        {/* Social media and website icons */}
         <div className="absolute right-4 top-0 mt-4 flex space-x-6">
           <a
             href="https://www.facebook.com/FairmontMayakoba/"
