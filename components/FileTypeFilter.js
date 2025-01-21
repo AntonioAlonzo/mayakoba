@@ -6,12 +6,16 @@ export default function FileTypeFilter({ onApplyFilterClick }) {
   const [showMiceSubcategories, setShowMiceSubcategories] = useState(false);
 
   function handleTypeClick(type) {
-    onApplyFilterClick(type);
+    if (type !== "mice") {
+      setShowMiceSubcategories(false);
+      onApplyFilterClick(type);
+    } else {
+      setShowMiceSubcategories(true);
+    }
   }
 
-  function toggleMiceSubcategories() {
-    setShowMiceSubcategories(!showMiceSubcategories);
-  }
+  const className =
+    "cursor-pointer h-[8rem] w-[8rem] md:h-[10rem] md:w-[10rem] flex items-center justify-center rounded-full";
 
   return (
     <>
@@ -19,7 +23,7 @@ export default function FileTypeFilter({ onApplyFilterClick }) {
         <div className="flex flex-col items-center max-w-[8rem] m-4">
           <div
             onClick={() => handleTypeClick("factsheet")}
-            className="cursor-pointer bg-[url('./assets/factsheet.jpg')] h-[8rem] w-[8rem] md:h-[10rem]  md:w-[10rem] bg-cover flex items-center justify-center rounded-full"
+            className={`${className} bg-[url('./assets/factsheet.jpg')] bg-cover`}
           ></div>
           <p className="uppercase text-black mt-2 text-center">Fact Sheet</p>
         </div>
@@ -27,7 +31,7 @@ export default function FileTypeFilter({ onApplyFilterClick }) {
         <div className="flex flex-col items-center max-w-[8rem] m-4">
           <div
             onClick={() => handleTypeClick("offers")}
-            className="cursor-pointer bg-[url('./assets/offers.webp')] bg-center h-[8rem] w-[8rem] md:h-[10rem] md:w-[10rem] bg-cover flex items-center justify-center rounded-full"
+            className={`${className} bg-[url('./assets/offers.webp')] bg-center bg-cover`}
           ></div>
           <p className="uppercase text-black mt-2 text-center">Offers</p>
         </div>
@@ -101,8 +105,8 @@ export default function FileTypeFilter({ onApplyFilterClick }) {
         </div>
         <div className="flex flex-col items-center max-w-[8rem] m-4">
           <div
-            onClick={toggleMiceSubcategories}
-            className="cursor-pointer bg-[url('./assets/mice.jpg')] h-[8rem] w-[8rem] md:h-[10rem] md:w-[10rem] bg-cover flex items-center justify-center rounded-full"
+            onClick={() => handleTypeClick("mice")}
+            className="cursor-pointer bg-[url('./assets/mice.jpg')] h-[8rem] w-[8rem] md:h-[10rem] md:w-[10rem] bg-cover flex items-center justify-center rounded-full bg-center"
           ></div>
           <p className="uppercase text-black mt-2 text-center">Mice</p>
         </div>
@@ -153,7 +157,9 @@ export default function FileTypeFilter({ onApplyFilterClick }) {
                 <a onClick={() => handleTypeClick("mice-layout")}>
                   <img
                     className={`h-full w-full`}
-                    src={"./brochures.webp"}
+                    src={
+                      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/meeting-rooms-layout.png"
+                    }
                   ></img>
                 </a>
               </div>
@@ -173,7 +179,9 @@ export default function FileTypeFilter({ onApplyFilterClick }) {
                 <a onClick={() => handleTypeClick("mice-info")}>
                   <img
                     className={`h-full w-full`}
-                    src={"./brochures.webp"}
+                    src={
+                      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/mice-info-preview.jpg"
+                    }
                   ></img>
                 </a>
               </div>
@@ -215,7 +223,9 @@ export default function FileTypeFilter({ onApplyFilterClick }) {
                 <a onClick={() => handleTypeClick("mice-videos")}>
                   <img
                     className={`h-full w-full`}
-                    src={"./brochures.webp"}
+                    src={
+                      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/mice-video-preview.jpg"
+                    }
                   ></img>
                 </a>
               </div>
@@ -279,7 +289,9 @@ export default function FileTypeFilter({ onApplyFilterClick }) {
                 <a onClick={() => handleTypeClick("mice-presentation")}>
                   <img
                     className={`h-full w-full`}
-                    src={"./brochures.webp"}
+                    src={
+                      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/mice-presentation-preview-1.png"
+                    }
                   ></img>
                 </a>
               </div>

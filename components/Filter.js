@@ -12,43 +12,14 @@ import {
 
 export default function Filter({ onApplyFilterClick }) {
   const COMBINED = [
-    { label: "Factsheet", value: "factsheet" },
-    { label: "Offers", value: "offers" },
-    { label: "Brochure", value: "brochure" },
-    { label: "Resort Map", value: "resort" },
-    { label: "Daily Program", value: "daily" },
-    { label: "Events Calendar", value: "events" },
-    { label: "Video", value: "video" },
-    { label: "Virtual Tour", value: "virtual" },
     {
       label: "Photos",
-      value: "photos",
+      value: "mice-info",
       subcategories: [
-        { label: "Bassano", value: "aerial" },
-        { label: "Brisas", value: "meeting" },
-        { label: "Cielo Roof Top Bar", value: "public" },
-        { label: "Fuego Restaurant", value: "public" },
-        { label: "Gaia Restaurant", value: "public" },
-        { label: "HIX Sushi Bar", value: "public" },
-        { label: "El Pueblito", value: "public" },
-        { label: "La Cantina", value: "public" },
+        { label: "Tauro Restaurant", value: "mice-info-tauro" },
+        { label: "Bassano", value: "mice-info-bassano" },
       ],
     },
-    {
-      label: "MICE",
-      value: "mice",
-      subcategories: [
-        { label: "Conferences", value: "conferences" },
-        { label: "Meetings", value: "meetings" },
-        { label: "Incentives", value: "incentives" },
-        { label: "Exhibitions", value: "exhibitions" },
-      ],
-    },
-    { label: "Logo", value: "logo" },
-    { label: "Weddings", value: "weddings" },
-    { label: "Banquet Kit", value: "banquet" },
-    { label: "Reservations", value: "reservations" },
-    { label: "Menus", value: "menus" },
   ];
 
   const [expandedSubcategories, setExpandedSubcategories] = useState({});

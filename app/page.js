@@ -13,12 +13,17 @@ export default function Home() {
   const [loading, setLoading] = useState(false); // Add loading state
   const itemsPerPage = 12; // Show 9 items per page
   const [showReservationInfo, setShowReservationInfo] = useState(false);
+  const [showFilter, setShowFilter] = useState(false);
 
   useEffect(() => {
     // setItemList(ASSETS);
   }, []);
 
   function handleApplyFilterClick(types) {
+    if (!types.startsWith("mice-info")) {
+      setShowFilter(false);
+    }
+
     if (types === "webapp") {
       window.open(
         "https://fairmontmayakoba.duve.co/g/RJSdbyW-t?id=home&isCompany=1",
@@ -69,16 +74,23 @@ export default function Home() {
       return;
     }
 
+    if (types === "mice-info") {
+      setShowFilter(true);
+      return;
+    }
+
     setShowReservationInfo(false);
-    setLoading(true); // Start loading when filter is applied
+
+    setLoading(true);
+
     setTimeout(() => {
       const filteredItems = ASSETS.filter((item) =>
         types.length ? types.includes(item.type) : true
       );
       setItemList(filteredItems);
-      setCurrentPage(1); // Reset to the first page after filtering
-      setLoading(false); // End loading after filtering
-    }, 500); // Simulate a delay for loading (you can adjust this)
+      setCurrentPage(1);
+      setLoading(false);
+    }, 500);
   }
 
   function handleApplyFileTypeFilterClick(types) {
@@ -95,12 +107,10 @@ export default function Home() {
 
   function handleItemClick() {}
 
-  // Get the current items based on the current page
   const indexOfLastItem = currentPage * itemsPerPage;
   const indexOfFirstItem = indexOfLastItem - itemsPerPage;
   const currentItems = itemList.slice(indexOfFirstItem, indexOfLastItem);
 
-  // Change page
   const paginate = (pageNumber) => setCurrentPage(pageNumber);
 
   const totalPages = Math.ceil(itemList.length / itemsPerPage);
@@ -188,11 +198,11 @@ export default function Home() {
           )}
 
           <main className="flex md:gap-40 md:px-32 md:mt-16 px-2 gap-2 md:flex-row flex-col">
-            {/** 
-        <div className="w-full md:w-1/6">
-          <Filter onApplyFilterClick={handleApplyFilterClick}></Filter>
-        </div>
-        */}
+            {showFilter && (
+              <div className="w-full md:w-1/6">
+                <Filter onApplyFilterClick={handleApplyFilterClick}></Filter>
+              </div>
+            )}
             <div className="w-full grid grid-cols-2 md:grid-cols-6 gap-x-2 gap-y-7 ">
               {loading ? (
                 <div className="justify-center">

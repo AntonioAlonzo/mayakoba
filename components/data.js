@@ -1867,4 +1867,121 @@ export const ASSETS = [
     type: "mice-map",
     filetype: "other",
   },
+  {
+    id: 271,
+    title: "Fairmont Mayakoba Presentation",
+    url: "https://marketingideasgroup-my.sharepoint.com/:p:/g/personal/mkt_marketingideasgroup_onmicrosoft_com/EQcuu_xuz3pDvMduAZt1JZ8BOs01QLwiFtx82j9V2zUcnQ?e=vNX34C",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/mice-presentation-preview-1.png",
+    type: "mice-presentation",
+    filetype: "other",
+  },
+  {
+    id: 272,
+    title: "Fairmont MYK QVideo",
+    url: "https://marketingideasgroup-my.sharepoint.com/:v:/g/personal/mkt_marketingideasgroup_onmicrosoft_com/EbtMAFsbA8lJj0RTIECT_gIBVUVk_Hb0gU1GbWtev7UfVQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=eo0Vc6",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/mice-video-preview.jpg",
+    type: "mice-videos",
+    filetype: "other",
+  },
+  {
+    id: 273,
+    title: "Fairmont MYK M&E",
+    url: "https://marketingideasgroup-my.sharepoint.com/:v:/g/personal/mkt_marketingideasgroup_onmicrosoft_com/EcbSen9aKitJgoFB9wH-8SEB1mCwGqH98F-WHVEHNnK7Tg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=cH1lZm",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Fairmont-MYK_ME-preview.jpg",
+    type: "mice-videos",
+    filetype: "other",
+  },
+  {
+    id: 274,
+    title: "Video Riviera Maya",
+    url: "https://marketingideasgroup-my.sharepoint.com/:v:/g/personal/mkt_marketingideasgroup_onmicrosoft_com/EWGOvFp0BUpLmdqnHzEpJMoB2O3mKsPnUHkZiWB4P3Tb9A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=qrVIUf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Video-Riviera-Maya-preview.jpg",
+    type: "mice-videos",
+    filetype: "other",
+  },
+  {
+    id: 274,
+    title: "Fairmont Meeting Rooms Layout ESP",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Fairmont-Meeting-Rooms-Layout-ESP.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/meeting-rooms-layout.png",
+    type: "mice-layout",
+    filetype: "other",
+  },
+  {
+    id: 275,
+    title: "Fairmont Meeting Rooms Layout ENG",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Fairmont-Meeting-Rooms-Layout-ENG.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/meeting-rooms-layout.png",
+    type: "mice-layout",
+    filetype: "other",
+  },
+  {
+    id: 276,
+    title: "MARTINI BAR TAURO",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Fairmont-Meeting-Rooms-Layout-ENG.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/MARTINI-BAR-TAURO-scaled.jpg",
+    type: "mice-info-tauro",
+    filetype: "img",
+  },
+  {
+    id: 277,
+    title: "TAURO",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/TAURO-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/TAURO-scaled.jpg",
+    type: "mice-info-tauro",
+    filetype: "img",
+  },
+  {
+    id: 278,
+    title: "TAURO 1",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/TAURO1-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/TAURO1-scaled.jpg",
+    type: "mice-info-tauro",
+    filetype: "img",
+  },
+  {
+    id: 279,
+    title: "TAURO 2",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/TAURO2-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/TAURO2-scaled.jpg",
+    type: "mice-info-tauro",
+    filetype: "img",
+  },
+  {
+    id: 280,
+    title: "BASSANO 1",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/BASSANO1-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/BASSANO1-scaled.jpg",
+    type: "mice-info-bassano",
+    filetype: "img",
+  },
+  {
+    id: 281,
+    title: "BASSANO 2",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/BASSANO2-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/BASSANO2-scaled.jpg",
+    type: "mice-info-bassano",
+    filetype: "img",
+  },
+  {
+    id: 282,
+    title: "BASSANO 3",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/BASSANO3-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/BASSANO3-scaled.jpg",
+    type: "mice-info-bassano",
+    filetype: "img",
+  },
 ];
