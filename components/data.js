@@ -1984,4 +1984,257 @@ export const ASSETS = [
     type: "mice-info-bassano",
     filetype: "img",
   },
+
+  {
+    id: 283,
+    title: "GAIA 1",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/GAIA-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/GAIA-scaled.jpg",
+    type: "mice-info-gaia",
+    filetype: "img",
+  },
+  {
+    id: 284,
+    title: "GAIA 2",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/GAIA2-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/GAIA2-scaled.jpg",
+    type: "mice-info-gaia",
+    filetype: "img",
+  },
+  {
+    id: 285,
+    title: "Fuego",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Fuego-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Fuego-scaled.jpg",
+    type: "mice-info-fuego",
+    filetype: "img",
+  },
+  {
+    id: 286,
+    title: "FUEGO 1",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/FUEGO1-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/FUEGO1-scaled.jpg",
+    type: "mice-info-fuego",
+    filetype: "img",
+  },
+  {
+    id: 287,
+    title: "Fuego 2",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Fuego2-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Fuego2-scaled.jpg",
+    type: "mice-info-fuego",
+    filetype: "img",
+  },
+  {
+    id: 288,
+    title: "Fuego a",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/FUEGOa-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/FUEGOa-scaled.jpg",
+    type: "mice-info-fuego",
+    filetype: "img",
+  },
+  {
+    id: 289,
+    title: "Fuego b",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/FUEGOb-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/FUEGOb-scaled.jpg",
+    type: "mice-info-fuego",
+    filetype: "img",
+  },
+  {
+    id: 290,
+    title: "Maykana Beach",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Maykana-Beach-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Maykana-Beach-scaled.jpg",
+    type: "mice-info-fuego",
+    filetype: "img",
+  },
+  {
+    id: 291,
+    title: "BRISAS",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/BRISAS-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/BRISAS-scaled.jpg",
+    type: "mice-info-brisas",
+    filetype: "img",
+  },
+  {
+    id: 292,
+    title: "BRISAS 1",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/BRISAS1-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/BRISAS1-scaled.jpg",
+    type: "mice-info-brisas",
+    filetype: "img",
+  },
+  {
+    id: 293,
+    title: "BRISAS 2",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/BRISAS2-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/BRISAS2-scaled.jpg",
+    type: "mice-info-brisas",
+    filetype: "img",
+  },
+  {
+    id: 294,
+    title: "HIX",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/HIX-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/HIX-scaled.jpg",
+    type: "mice-info-hix",
+    filetype: "img",
+  },
+  {
+    id: 295,
+    title: "HIX 1",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/HIX1-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/HIX1-scaled.jpg",
+    type: "mice-info-hix",
+    filetype: "img",
+  },
+  {
+    id: 296,
+    title: "HIX 2",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/HIX2-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/HIX2-scaled.jpg",
+    type: "mice-info-hix",
+    filetype: "img",
+  },
+  {
+    id: 297,
+    title: "HIX 3",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/HIX3-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/HIX3-scaled.jpg",
+    type: "mice-info-hix",
+    filetype: "img",
+  },
+  {
+    id: 298,
+    title: "ADO 6035",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/ADO_6035-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/ADO_6035-scaled.jpg",
+    type: "mice-info-pueblito",
+    filetype: "img",
+  },
+  {
+    id: 299,
+    title: "ADO 6126",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/ADO_6126-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/ADO_6126-scaled.jpg",
+    type: "mice-info-pueblito",
+    filetype: "img",
+  },
+  {
+    id: 300,
+    title: "ADO 6181",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/ADO_6181-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/ADO_6181-scaled.jpg",
+    type: "mice-info-pueblito",
+    filetype: "img",
+  },
+  {
+    id: 301,
+    title: "DJI 0163",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/DJI_0163-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/DJI_0163-scaled.jpg",
+    type: "mice-info-pueblito",
+    filetype: "img",
+  },
+  {
+    id: 302,
+    title: "DJI 0182",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/DJI_0182-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/DJI_0182-scaled.jpg",
+    type: "mice-info-pueblito",
+    filetype: "img",
+  },
+  {
+    id: 303,
+    title: "DJI 0215",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/DJI_0215-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/DJI_0215-scaled.jpg",
+    type: "mice-info-pueblito",
+    filetype: "img",
+  },
+  {
+    id: 304,
+    title: "DJI 0219",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/DJI_0219-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/DJI_0219-scaled.jpg",
+    type: "mice-info-pueblito",
+    filetype: "img",
+  },
+  {
+    id: 305,
+    title: "PUEBLITO WELCOME 1",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/PUEBLITO-WELCOME-1-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/PUEBLITO-WELCOME-1-scaled.jpg",
+    type: "mice-info-pueblito",
+    filetype: "img",
+  },
+  {
+    id: 306,
+    title: "PUEBLITO WELCOME 2",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/PUEBLITO-WELCOME-2-1-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/PUEBLITO-WELCOME-2-1-scaled.jpg",
+    type: "mice-info-pueblito",
+    filetype: "img",
+  },
+  {
+    id: 307,
+    title: "PUEBLITO WELCOME 3",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/PUEBLITO-WELCOME-3-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/PUEBLITO-WELCOME-3-scaled.jpg",
+    type: "mice-info-pueblito",
+    filetype: "img",
+  },
+  {
+    id: 308,
+    title: "ADO 6023",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/ADO_6023-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/ADO_6023-scaled.jpg",
+    type: "mice-info-pueblito",
+    filetype: "img",
+  },
+  {
+    id: 309,
+    title: "LA CANTINA",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/LA-CANTINA-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/LA-CANTINA-scaled.jpg",
+    type: "mice-info-la-cantina",
+    filetype: "img",
+  },
+  {
+    id: 310,
+    title: "LA CANTINA 3",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/LA-CANTINA3-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/LA-CANTINA3-scaled.jpg",
+    type: "mice-info-la-cantina",
+    filetype: "img",
+  },
 ];

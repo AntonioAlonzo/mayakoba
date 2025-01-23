@@ -18,6 +18,12 @@ export default function Filter({ onApplyFilterClick }) {
       subcategories: [
         { label: "Tauro Restaurant", value: "mice-info-tauro" },
         { label: "Bassano", value: "mice-info-bassano" },
+        { label: "Gaia Restaurant", value: "mice-info-gaia" },
+        { label: "Fuego Restaurant", value: "mice-info-fuego" },
+        { label: "Brisas Restaurant", value: "mice-info-brisas" },
+        { label: "Hix Sushi Bar", value: "mice-info-hix" },
+        { label: "El Pueblito", value: "mice-info-pueblito" },
+        { label: "La Cantina", value: "mice-info-la-cantina" },
       ],
     },
   ];
