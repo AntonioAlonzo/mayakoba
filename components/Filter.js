@@ -24,6 +24,7 @@ export default function Filter({ onApplyFilterClick }) {
         { label: "Hix Sushi Bar", value: "mice-info-hix" },
         { label: "El Pueblito", value: "mice-info-pueblito" },
         { label: "La Cantina", value: "mice-info-la-cantina" },
+        { label: "Cielo", value: "mice-info-cielo" },
       ],
     },
   ];

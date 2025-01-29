@@ -1372,7 +1372,7 @@ export const ASSETS = [
   {
     id: 202,
     title: "Menu Laguna Dinner ENG",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Menu_Laguna_dinner_ING.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Menu_Laguna_dinner_ING-1.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/laguna.png",
     type: "menus",
@@ -1381,7 +1381,7 @@ export const ASSETS = [
   {
     id: 203,
     title: "Menu Laguna Dinner ESP",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Menu_Laguna_dinner_ESP.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Menu_Laguna_dinner_ESP-1.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/laguna.png",
     type: "menus",
@@ -1771,7 +1771,7 @@ export const ASSETS = [
   {
     id: 260,
     title: "Spa Experiences Menu ESP",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Menu-ESP-Experiencias-Fairmont-Spa.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/MENU-ESP-Experiencias-SPA_2025.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/12/spa-menu-preview.png",
     type: "spa",
@@ -1780,7 +1780,7 @@ export const ASSETS = [
   {
     id: 261,
     title: "Spa Experiences Menu ENG",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/10/Menu-ING-Experiences-Fairmont-Spa.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/MENU-ING-Experiencias-SPA_2025.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/12/spa-menu-preview.png",
     type: "spa",
@@ -1789,7 +1789,7 @@ export const ASSETS = [
   {
     id: 262,
     title: "Spa Price List ESP",
-    url: "https://www.fairmont.com/mayakoba-riviera-maya/pdfs/price-list-spa-2024-esp-ago2024/",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Price_List_Fairmont_Spa_ESP.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/12/spa-pricelist-preview.png",
     type: "spa",
@@ -1798,7 +1798,7 @@ export const ASSETS = [
   {
     id: 263,
     title: "Spa Price List ENG",
-    url: "https://www.fairmont.com/mayakoba-riviera-maya/pdfs/price-list-spa-2024-eng/",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Price_List_Fairmont_Spa_ENG.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/12/spa-pricelist-preview.png",
     type: "spa",
@@ -2235,6 +2235,78 @@ export const ASSETS = [
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2025/01/LA-CANTINA3-scaled.jpg",
     type: "mice-info-la-cantina",
+    filetype: "img",
+  },
+  {
+    id: 311,
+    title: "Cielo Roof Top1",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Cielo-Roof-Top1-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Cielo-Roof-Top1-scaled.jpg",
+    type: "mice-info-cielo",
+    filetype: "img",
+  },
+  {
+    id: 312,
+    title: "Cielo Roof Top2",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Cielo-Roof-Top2-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Cielo-Roof-Top2-scaled.jpg",
+    type: "mice-info-cielo",
+    filetype: "img",
+  },
+  {
+    id: 318,
+    title: "CIELO",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/CIELO-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/CIELO-scaled.jpg",
+    type: "mice-info-cielo",
+    filetype: "img",
+  },
+  {
+    id: 313,
+    title: "CIELO1",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/CIELO1-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/CIELO1-scaled.jpg",
+    type: "mice-info-cielo",
+    filetype: "img",
+  },
+  {
+    id: 314,
+    title: "CIELO2",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/CIELO2-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/CIELO2-scaled.jpg",
+    type: "mice-info-cielo",
+    filetype: "img",
+  },
+  {
+    id: 315,
+    title: "CIELO4",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/CIELO4-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/CIELO4-scaled.jpg",
+    type: "mice-info-cielo",
+    filetype: "img",
+  },
+  {
+    id: 316,
+    title: "Maykana Aqua Pool",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Maykana_Aqua-Pool-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Maykana_Aqua-Pool-scaled.jpg",
+    type: "mice-info-cielo",
+    filetype: "img",
+  },
+  {
+    id: 317,
+    title: "Cielo Roof Top",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Cielo-Roof-Top-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Cielo-Roof-Top-scaled.jpg",
+    type: "mice-info-cielo",
     filetype: "img",
   },
 ];
