@@ -1565,7 +1565,7 @@ export const ASSETS = [
   {
     id: 237,
     title: "Menu HIX 2024ESP",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Menu-HIX-2024-digital-ESP.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Menu-HIX-2024-digital-ESP.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/hix.png",
     type: "menus",
@@ -1646,7 +1646,7 @@ export const ASSETS = [
   {
     id: 246,
     title: "Menu HIX 2024ING",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Menu-HIX-2024-digital-ENG.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Menu-HIX-2024-digital-ENG.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/hix.png",
     type: "menus",
@@ -1780,7 +1780,7 @@ export const ASSETS = [
   {
     id: 261,
     title: "Spa Experiences Menu ENG",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/MENU-ING-Experiencias-SPA_2025.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/MENU-ING-Experiencias-SPA_2025-1.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/12/spa-menu-preview.png",
     type: "spa",
