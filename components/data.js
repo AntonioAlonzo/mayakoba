@@ -1909,7 +1909,7 @@ export const ASSETS = [
     url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Fairmont-Meeting-Rooms-Layout-ESP.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2025/01/meeting-rooms-layout.png",
-    type: "mice-layout",
+    type: "mice-info-layout",
     filetype: "other",
   },
   {
@@ -1918,7 +1918,7 @@ export const ASSETS = [
     url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Fairmont-Meeting-Rooms-Layout-ENG.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2025/01/meeting-rooms-layout.png",
-    type: "mice-layout",
+    type: "mice-info-layout",
     filetype: "other",
   },
   {
@@ -2307,6 +2307,159 @@ export const ASSETS = [
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Cielo-Roof-Top-scaled.jpg",
     type: "mice-info-cielo",
+    filetype: "img",
+  },
+  {
+    id: 318,
+    title: "Laguna Restaurant 2",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Laguna-Restaurant2-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Laguna-Restaurant2-scaled.jpg",
+    type: "mice-info-public",
+    filetype: "img",
+  },
+  {
+    id: 319,
+    title: "Beach Pools",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Beach-Pools-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Beach-Pools-scaled.jpg",
+    type: "mice-info-public",
+    filetype: "img",
+  },
+  {
+    id: 320,
+    title: "Beach Pools 1",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Beach-Pools1-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Beach-Pools1-scaled.jpg",
+    type: "mice-info-public",
+    filetype: "img",
+  },
+  {
+    id: 321,
+    title: "Beach",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Beach-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Beach-scaled.jpg",
+    type: "mice-info-public",
+    filetype: "img",
+  },
+  {
+    id: 322,
+    title: "Laguna Main Pool",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Laguna-Main-Pool-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Laguna-Main-Pool-scaled.jpg",
+    type: "mice-info-public",
+    filetype: "img",
+  },
+  {
+    id: 323,
+    title: "Laguna Main Pool 1",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Laguna-Main-Pool1-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Laguna-Main-Pool1-scaled.jpg",
+    type: "mice-info-public",
+    filetype: "img",
+  },
+  {
+    id: 324,
+    title: "Laguna Deck",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Laguna-Pool-Deck-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Laguna-Pool-Deck-scaled.jpg",
+    type: "mice-info-public",
+    filetype: "img",
+  },
+  {
+    id: 325,
+    title: "Laguna Deck 1",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Laguna-Pool-Deck1-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Laguna-Pool-Deck1-scaled.jpg",
+    type: "mice-info-public",
+    filetype: "img",
+  },
+  {
+    id: 326,
+    title: "Laguna Deck 2",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Laguna-Pool-Deck2-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Laguna-Pool-Deck2-scaled.jpg",
+    type: "mice-info-public",
+    filetype: "img",
+  },
+  {
+    id: 327,
+    title: "Laguna Deck 3",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Laguna-Pool-Deck3-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Laguna-Pool-Deck3-scaled.jpg",
+    type: "mice-info-public",
+    filetype: "img",
+  },
+  {
+    id: 328,
+    title: "Laguna Deck 4",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Laguna-Pool-Deck4-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Laguna-Pool-Deck4-scaled.jpg",
+    type: "mice-info-public",
+    filetype: "img",
+  },
+  {
+    id: 329,
+    title: "Laguna Deck 5",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Laguna-Pool-Deck5-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Laguna-Pool-Deck5-scaled.jpg",
+    type: "mice-info-public",
+    filetype: "img",
+  },
+  {
+    id: 330,
+    title: "Laguna Restaurant",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Laguna-Restaurant-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Laguna-Restaurant-scaled.jpg",
+    type: "mice-info-public",
+    filetype: "img",
+  },
+  {
+    id: 331,
+    title: "Laguna Restaurant 1",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Laguna-Restaurant1-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Laguna-Restaurant1-scaled.jpg",
+    type: "mice-info-public",
+    filetype: "img",
+  },
+  {
+    id: 332,
+    title: "Venus Eventos Fairmont 2024",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Venues-Eventos-Fairmont-2024.pptx",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Venues-Eventos-Fairmont-2024-prev.jpg",
+    type: "mice-map",
+    filetype: "img",
+  },
+  {
+    id: 333,
+    title: "Mapa capacidades salones Fairmont Mayakoba. Español",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Mapa-capacidades-salones-Fairmont-Mayakoba.-Espanol.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Mapa-capacidades-salones-prev.jpg",
+    type: "mice-map",
+    filetype: "img",
+  },
+  {
+    id: 334,
+    title: "2113 Mapa capacidades salones ingles",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/2113-Mapa-capacidades-salones-ingles-Copy.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Mapa-capacidades-salones-prev.jpg",
+    type: "mice-map",
     filetype: "img",
   },
 ];

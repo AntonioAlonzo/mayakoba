@@ -154,28 +154,6 @@ export default function FileTypeFilter({ onApplyFilterClick }) {
           <div className="w-full grid grid-cols-2 md:grid-cols-6 gap-x-2 gap-y-7 ">
             <div>
               <div className="bg-gray-50 h-[8rem] md:h-[12rem]">
-                <a onClick={() => handleTypeClick("mice-layout")}>
-                  <img
-                    className={`h-full w-full`}
-                    src={
-                      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/meeting-rooms-layout.png"
-                    }
-                  ></img>
-                </a>
-              </div>
-              <div className="flex justify-between p-4 md:pt-6 bg-[#F2F2F2] h-[6rem]">
-                <div className="flex items-center">
-                  <a
-                    onClick={() => handleTypeClick("mice-layout")}
-                    className="transition-all hover:tracking-wider font-itc-franklin"
-                  >
-                    Layout de salones
-                  </a>
-                </div>
-              </div>
-            </div>
-            <div>
-              <div className="bg-gray-50 h-[8rem] md:h-[12rem]">
                 <a onClick={() => handleTypeClick("mice-info")}>
                   <img
                     className={`h-full w-full`}

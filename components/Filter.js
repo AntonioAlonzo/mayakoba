@@ -12,6 +12,7 @@ import {
 
 export default function Filter({ onApplyFilterClick }) {
   const COMBINED = [
+    { label: "Layout de salones", value: "mice-info-layout" },
     {
       label: "Photos",
       value: "mice-info",
@@ -25,6 +26,7 @@ export default function Filter({ onApplyFilterClick }) {
         { label: "El Pueblito", value: "mice-info-pueblito" },
         { label: "La Cantina", value: "mice-info-la-cantina" },
         { label: "Cielo", value: "mice-info-cielo" },
+        { label: "Public Spaces", value: "mice-info-public" },
       ],
     },
   ];
