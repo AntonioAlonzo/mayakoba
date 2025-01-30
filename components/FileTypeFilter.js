@@ -108,7 +108,9 @@ export default function FileTypeFilter({ onApplyFilterClick }) {
             onClick={() => handleTypeClick("mice")}
             className="cursor-pointer bg-[url('./assets/mice.jpg')] h-[8rem] w-[8rem] md:h-[10rem] md:w-[10rem] bg-cover flex items-center justify-center rounded-full bg-center"
           ></div>
-          <p className="uppercase text-black mt-2 text-center">Mice</p>
+          <p className="uppercase text-black mt-2 text-center">
+            Meetings & Events
+          </p>
         </div>
         <div className="flex flex-col items-center max-w-[8rem] m-4">
           <div
@@ -169,7 +171,7 @@ export default function FileTypeFilter({ onApplyFilterClick }) {
                     onClick={() => handleTypeClick("mice-info")}
                     className="transition-all hover:tracking-wider font-itc-franklin"
                   >
-                    Información y fotos de venues para eventos
+                    Venue's Photogallery
                   </a>
                 </div>
               </div>
@@ -235,7 +237,7 @@ export default function FileTypeFilter({ onApplyFilterClick }) {
                     onClick={() => handleTypeClick("mice-tour")}
                     className="transition-all hover:tracking-wider font-itc-franklin"
                   >
-                    Tour virtual de los salones
+                    Virtual Tour
                   </a>
                 </div>
               </div>
@@ -257,7 +259,7 @@ export default function FileTypeFilter({ onApplyFilterClick }) {
                     onClick={() => handleTypeClick("mice-map")}
                     className="transition-all hover:tracking-wider font-itc-franklin"
                   >
-                    Mapa
+                    Resort Map
                   </a>
                 </div>
               </div>
@@ -279,7 +281,7 @@ export default function FileTypeFilter({ onApplyFilterClick }) {
                     onClick={() => handleTypeClick("mice-presentation")}
                     className="transition-all hover:tracking-wider font-itc-franklin"
                   >
-                    Presentación
+                    Presentation
                   </a>
                 </div>
               </div>

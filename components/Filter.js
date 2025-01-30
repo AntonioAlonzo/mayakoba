@@ -12,7 +12,7 @@ import {
 
 export default function Filter({ onApplyFilterClick }) {
   const COMBINED = [
-    { label: "Layout de salones", value: "mice-info-layout" },
+    { label: "Meetings Layout", value: "mice-info-layout" },
     {
       label: "Photos",
       value: "mice-info",
