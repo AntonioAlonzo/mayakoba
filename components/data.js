@@ -2462,4 +2462,164 @@ export const ASSETS = [
     type: "mice-map",
     filetype: "img",
   },
+  {
+    id: 335,
+    title: "Terraza Lawn1",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Terraza-Lawn1-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Terraza-Lawn1-scaled.jpg",
+    type: "mice-info-ballroom",
+    filetype: "img",
+  },
+  {
+    id: 336,
+    title: "Holman 2023 Circle of Excellence",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Breakfast2.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Breakfast2.jpg",
+    type: "mice-info-ballroom",
+    filetype: "img",
+  },
+  {
+    id: 337,
+    title: "CC Lobby",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/CC-Lobby-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/CC-Lobby-scaled.jpg",
+    type: "mice-info-ballroom",
+    filetype: "img",
+  },
+  {
+    id: 338,
+    title: "CC Lobby1",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/CC-Lobby1-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/CC-Lobby1-scaled.jpg",
+    type: "mice-info-ballroom",
+    filetype: "img",
+  },
+  {
+    id: 339,
+    title: "Copal - U - shape",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Copal-U-shape.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Copal-U-shape.jpg",
+    type: "mice-info-ballroom",
+    filetype: "img",
+  },
+  {
+    id: 340,
+    title: "Cordia",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Cordia-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Cordia-scaled.jpg",
+    type: "mice-info-ballroom",
+    filetype: "img",
+  },
+  {
+    id: 341,
+    title: "Flamboyan",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Flamboyan-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Flamboyan-scaled.jpg",
+    type: "mice-info-ballroom",
+    filetype: "img",
+  },
+  {
+    id: 342,
+    title: "Montaje fairmont CBRE 18",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Montaje-fairmont-CBRE-18-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Montaje-fairmont-CBRE-18-scaled.jpg",
+    type: "mice-info-ballroom",
+    filetype: "img",
+  },
+  {
+    id: 343,
+    title: "Palma",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Palma.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Palma.jpg",
+    type: "mice-info-ballroom",
+    filetype: "img",
+  },
+  {
+    id: 344,
+    title: "PHOTO-2022-07-22-09-07-05",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/PHOTO-2022-07-22-09-07-05.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/PHOTO-2022-07-22-09-07-05.jpg",
+    type: "mice-info-ballroom",
+    filetype: "img",
+  },
+  {
+    id: 345,
+    title: "Riviera B",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Riviera-B.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Riviera-B.jpg",
+    type: "mice-info-ballroom",
+    filetype: "img",
+  },
+  {
+    id: 346,
+    title: "Riviera LED projection",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Riviera-LED-projection-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Riviera-LED-projection-scaled.jpg",
+    type: "mice-info-ballroom",
+    filetype: "img",
+  },
+  {
+    id: 347,
+    title: "Riviera MYK_351",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Riviera-MYK_351-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Riviera-MYK_351-scaled.jpg",
+    type: "mice-info-ballroom",
+    filetype: "img",
+  },
+  {
+    id: 349,
+    title: "Riviera MYK_353",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Riviera-MYK_353-scaled.jpg",
+    preview: "",
+    type: "mice-info-ballroom",
+    filetype: "img",
+  },
+  {
+    id: 350,
+    title: "Riviera1",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Riviera1-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Riviera1-scaled.jpg",
+    type: "mice-info-ballroom",
+    filetype: "img",
+  },
+  {
+    id: 351,
+    title: "Riviera1b",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Riviera1b-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Riviera1b-scaled.jpg",
+    type: "mice-info-ballroom",
+    filetype: "img",
+  },
+  {
+    id: 352,
+    title: "Terraza Lawn MY_300",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Terraza-Lawn-MY_300-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Terraza-Lawn-MY_300-scaled.jpg",
+    type: "mice-info-ballroom",
+    filetype: "img",
+  },
+  {
+    id: 353,
+    title: "Terraza Lawn MYK_350",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Terraza-Lawn-MYK_350-scaled.jpg",
+    preview: "",
+    type: "mice-info-ballroom",
+    filetype: "img",
+  },
 ];

@@ -27,6 +27,10 @@ export default function Filter({ onApplyFilterClick }) {
         { label: "La Cantina", value: "mice-info-la-cantina" },
         { label: "Cielo", value: "mice-info-cielo" },
         { label: "Public Spaces", value: "mice-info-public" },
+        {
+          label: "Riviera Ballroom, Hallway & Terraza Lawn",
+          value: "mice-info-ballroom",
+        },
       ],
     },
   ];
