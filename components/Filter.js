@@ -31,6 +31,7 @@ export default function Filter({ onApplyFilterClick }) {
           label: "Riviera Ballroom, Hallway & Terraza Lawn",
           value: "mice-info-ballroom",
         },
+        { label: "Aerial Beach & Maykana", value: "mice-info-aerial" },
       ],
     },
   ];
