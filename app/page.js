@@ -14,13 +14,14 @@ export default function Home() {
   const itemsPerPage = 12; // Show 9 items per page
   const [showReservationInfo, setShowReservationInfo] = useState(false);
   const [showFilter, setShowFilter] = useState(false);
+  const [filterType, setFilterType] = useState("");
 
   useEffect(() => {
     // setItemList(ASSETS);
   }, []);
 
   function handleApplyFilterClick(types) {
-    if (!types.startsWith("mice-info")) {
+    if (!types.startsWith("mice-info") && !types.startsWith("photos-")) {
       setShowFilter(false);
     }
 
@@ -76,6 +77,13 @@ export default function Home() {
 
     if (types === "mice-info") {
       setShowFilter(true);
+      setFilterType("mice-info");
+      return;
+    }
+
+    if (types === "photos") {
+      setShowFilter(true);
+      setFilterType("photos");
       return;
     }
 
@@ -200,7 +208,10 @@ export default function Home() {
           <main className="flex md:gap-40 md:px-32 md:mt-16 px-2 gap-2 md:flex-row flex-col">
             {showFilter && (
               <div className="w-full md:w-1/6">
-                <Filter onApplyFilterClick={handleApplyFilterClick}></Filter>
+                <Filter
+                  type={filterType}
+                  onApplyFilterClick={handleApplyFilterClick}
+                ></Filter>
               </div>
             )}
             <div className="w-full grid grid-cols-2 md:grid-cols-6 gap-x-2 gap-y-7 ">

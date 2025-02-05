@@ -10,7 +10,7 @@ import {
   Typography,
 } from "@material-tailwind/react";
 
-export default function Filter({ onApplyFilterClick }) {
+export default function Filter({ type, onApplyFilterClick }) {
   const COMBINED = [
     { label: "Meetings Layout", value: "mice-info-layout" },
     {
@@ -36,6 +36,22 @@ export default function Filter({ onApplyFilterClick }) {
     },
   ];
 
+  const COMBINED2 = [
+    { label: "Spa", value: "photos-spa" },
+    { label: "Rooms", value: "photos-rooms" },
+    { label: "Aerial", value: "photos-aerial" },
+    { label: "Residences", value: "photos-residences" },
+    { label: "Public Spaces", value: "photos-public" },
+    { label: "Meeting Spaces", value: "photos-meeting" },
+  ];
+
+  let list = "";
+  if (type === "photos") {
+    list = COMBINED2;
+  } else if (type === "mice-info") {
+    list = COMBINED;
+  }
+
   const [expandedSubcategories, setExpandedSubcategories] = useState({});
 
   function handleTypeClick(type) {
@@ -54,7 +70,7 @@ export default function Filter({ onApplyFilterClick }) {
       <p className="uppercase font-silk-serif">FILTER</p>
 
       <List>
-        {COMBINED.map((type, index) => (
+        {list.map((type, index) => (
           <div key={index}>
             <ListItem
               className="p-0 cursor-pointer"

@@ -90,7 +90,7 @@ export default function FileTypeFilter({ onApplyFilterClick }) {
 
         <div className="flex flex-col items-center max-w-[8rem] m-4">
           <div
-            onClick={() => handleTypeClick("img")}
+            onClick={() => handleTypeClick("photos")}
             className="cursor-pointer bg-[url('./assets/photos.webp')] bg-center h-[8rem] w-[8rem] md:h-[10rem] md:w-[10rem] bg-cover flex items-center justify-center rounded-full"
           ></div>
           <p className="uppercase text-black mt-2 text-center">Photos</p>
