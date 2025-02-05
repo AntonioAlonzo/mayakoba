@@ -171,7 +171,7 @@ export default function FileTypeFilter({ onApplyFilterClick }) {
                     onClick={() => handleTypeClick("mice-info")}
                     className="transition-all hover:tracking-wider font-itc-franklin"
                   >
-                    Venue's Photogallery
+                    Venue&apos;s Photogallery
                   </a>
                 </div>
               </div>
