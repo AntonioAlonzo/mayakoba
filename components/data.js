@@ -1825,7 +1825,7 @@ export const ASSETS = [
   {
     id: 266,
     title: "Factsheet Individual Extendido ING",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Factsheet-Fairmont-EN-FINAL.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/02/Factsheet-Fairmont-ENG-13-feb-2025.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Factsheet-Fairmont-ENG-2024.png",
     type: "brochure",
@@ -1834,7 +1834,7 @@ export const ASSETS = [
   {
     id: 267,
     title: "Factsheet Individual Extendido ESP",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Factsheet-Fairmont-MYK-Esp-Final.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/02/Factsheet-Fairmont-Esp-13-feb-2025.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Factsheet-Fairmont-ENG-2024.png",
     type: "brochure",
