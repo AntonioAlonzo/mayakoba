@@ -1318,7 +1318,7 @@ export const ASSETS = [
   {
     id: 172,
     title: "Menú Brisas Breakfast Español",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Menu-Brisas_ESP_Oficio_Desayuno.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/03/Menu-Brisas_ESP_Oficio_Desayuno.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/brisas-breakfast.png",
     type: "menus",
@@ -1327,7 +1327,7 @@ export const ASSETS = [
   {
     id: 173,
     title: "Menú Brisas Desayunos Inglés",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Menu-Brisas_ENG_Oficio_Desayunos.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/03/Menu-Brisas_ENG_Oficio_Desayunos.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/brisas-breakfast.png",
     type: "menus",
@@ -1336,7 +1336,7 @@ export const ASSETS = [
   {
     id: 174,
     title: "Menú Brisas Lunch Español",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Menu-Brisas_ESP_Oficio_Lunch.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/03/Menu-Brisas_ESP_Oficio_LUNCH.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/brisas-lunch.png",
     type: "menus",
@@ -1345,7 +1345,7 @@ export const ASSETS = [
   {
     id: 175,
     title: "Menú Brisas Lunch Inglés",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Menu-Brisas_ENG_Oficio_Lunch.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/03/Menu-Brisas_ENG_Oficio_Lunch.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/brisas-lunch.png",
     type: "menus",
@@ -1565,7 +1565,7 @@ export const ASSETS = [
   {
     id: 237,
     title: "Menu HIX 2024ESP",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Menu-HIX-2024-digital-ESP.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/03/Menu-HIX-2025_ESP-1.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/hix.png",
     type: "menus",
@@ -1646,7 +1646,7 @@ export const ASSETS = [
   {
     id: 246,
     title: "Menu HIX 2024ING",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Menu-HIX-2024-digital-ENG.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/03/Menu-HIX-2025_ING.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/hix.png",
     type: "menus",
