@@ -2670,4 +2670,13 @@ export const ASSETS = [
     type: "mice-info-aerial",
     filetype: "img",
   },
+  {
+    id: 360,
+    title: "All Inclusive",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/03/ALL-INCLUSIVE.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/03/all-inclusive-prev.png",
+    type: "menus",
+    filetype: "other",
+  },
 ];
