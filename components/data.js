@@ -1345,7 +1345,7 @@ export const ASSETS = [
   {
     id: 175,
     title: "Menú Brisas Lunch Inglés",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/03/Menu-Brisas_ENG_Oficio_Lunch.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/03/Menu-Brisas_ENG_Oficio_Lunch-1.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/brisas-lunch.png",
     type: "menus",
