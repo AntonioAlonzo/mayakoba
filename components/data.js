@@ -205,7 +205,7 @@ export const ASSETS = [
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/05/FactSheet-Kids-2024-ING-1.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/08/FactSheet-Kids-2024-ING-1.png",
-    type: "spa",
+    type: "kids-club",
     filetype: "other",
   },
   {
@@ -214,7 +214,7 @@ export const ASSETS = [
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/05/FactSheet-Kids-2024-ESP-1.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/08/FactSheet-Kids-2024-ING-1.png",
-    type: "spa",
+    type: "kids-club",
     filetype: "other",
   },
   {
