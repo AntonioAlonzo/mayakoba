@@ -1492,7 +1492,7 @@ export const ASSETS = [
   {
     id: 229,
     title: "MenúGaia 2024 ESP",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/MenuGaia_2024_ESP_28x40cm.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/05/MenuGaia_ESP-1.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/gaia.png",
     type: "menus",
@@ -1501,7 +1501,7 @@ export const ASSETS = [
   {
     id: 230,
     title: "MenuGaia 2024 ING",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/MenuGaia_2024_ING_28x40cm.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/05/MenuGaia_ING-1.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/gaia.png",
     type: "menus",
