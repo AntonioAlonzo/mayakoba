@@ -1316,6 +1316,24 @@ export const ASSETS = [
     filetype: "other",
   },
   {
+    id: 163,
+    title: "Menú Cantina Inglés",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/05/Menu_Cantina_Lunch_ING.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/06/cantina-prev.png",
+    type: "menus",
+    filetype: "other",
+  },
+  {
+    id: 163,
+    title: "Menú Cantina Español",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/05/Menu_Cantina_Lunch_ESP.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/06/cantina-prev.png",
+    type: "menus",
+    filetype: "other",
+  },
+  {
     id: 172,
     title: "Menú Brisas Breakfast Español",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2025/03/Menu-Brisas_ESP_Oficio_Desayuno.pdf",
