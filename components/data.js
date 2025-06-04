@@ -2697,4 +2697,22 @@ export const ASSETS = [
     type: "menus",
     filetype: "other",
   },
+  {
+    id: 361,
+    title: "Elevador Rainy Days HIX español 2025",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/06/Elevador-Rainy-Days_HIX_espanol_2025.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/06/liquid-shine-prev.png",
+    type: "activities",
+    filetype: "other",
+  },
+  {
+    id: 362,
+    title: "Elevador Rainy Days HIX ingles 2025",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/06/Elevador-Rainy-Days_HIX_ingles_2025.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/06/liquid-shine-prev.png",
+    type: "activities",
+    filetype: "other",
+  },
 ];

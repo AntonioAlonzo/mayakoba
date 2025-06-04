@@ -157,6 +157,13 @@ export default function FileTypeFilter({ onApplyFilterClick }) {
           ></div>
           <p className="uppercase text-black mt-2 text-center">Kids Club</p>
         </div>
+        <div className="flex flex-col items-center max-w-[8rem] m-4">
+          <div
+            onClick={() => handleTypeClick("activities")}
+            className="cursor-pointer bg-[url('./assets/activities.webp')] bg-center h-[8rem] w-[8rem] md:h-[10rem] md:w-[10rem] bg-cover flex items-center justify-center rounded-full"
+          ></div>
+          <p className="uppercase text-black mt-2 text-center">Activities</p>
+        </div>
       </div>
       {showMiceSubcategories && (
         <div className="flex md:gap-40 md:px-32 md:mt-16 px-2 gap-2 md:flex-row flex-col">
