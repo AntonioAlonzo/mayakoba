@@ -147,19 +147,19 @@ export const ASSETS = [
   },
   {
     id: 17,
-    title: "Brochure Bodas 2023 en español",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/05/Brochure-weddings-Esp.pdf",
+    title: "Brochure Bodas 2025 en español",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/05/Bodas.pdf",
     preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Brochure-weddings-Esp.png",
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/06/weddings-brochure-prev.png",
     type: "weddings",
     filetype: "other",
   },
   {
     id: 18,
-    title: "Brochure Bodas 2023 en inglés",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/05/Brochure-Weddings-ENG.pdf",
+    title: "Brochure Bodas 2025 en inglés",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/05/Wedding-Booklet_Fairmont-V4.pdf",
     preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Brochure-Weddings-ENG.png",
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/06/weddings-brochure-prev.png",
     type: "weddings",
     filetype: "other",
   },
