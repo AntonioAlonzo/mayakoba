@@ -2715,4 +2715,13 @@ export const ASSETS = [
     type: "activities",
     filetype: "other",
   },
+  {
+    id: 363,
+    title: "Carta Destilados Fairmont Mayakoba",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/06/Carta-Destilados-Fairmont-Mayakoba-11062025.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/06/carta-destilados-prev.png",
+    type: "drinks",
+    filetype: "other",
+  },
 ];

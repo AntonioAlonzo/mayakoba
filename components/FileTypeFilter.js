@@ -83,7 +83,7 @@ export default function FileTypeFilter({ onApplyFilterClick }) {
         <div className="flex flex-col items-center max-w-[8rem] m-4">
           <div
             onClick={() => handleTypeClick("virtual")}
-            className="cursor-pointer bg-[url('./assets/virtual.png')] h-[8rem] w-[8rem] md:h-[10rem] md:w-[10rem] bg-cover flex items-center justify-center rounded-full"
+            className="cursor-pointer bg-[url('./assets/virtual.webp')] h-[8rem] w-[8rem] md:h-[10rem] md:w-[10rem] bg-cover flex items-center justify-center rounded-full"
           ></div>
           <p className="uppercase text-black mt-2 text-center">Virtual Tour</p>
         </div>
@@ -106,7 +106,7 @@ export default function FileTypeFilter({ onApplyFilterClick }) {
         <div className="flex flex-col items-center max-w-[8rem] m-4">
           <div
             onClick={() => handleTypeClick("mice")}
-            className="cursor-pointer bg-[url('./assets/mice.jpg')] h-[8rem] w-[8rem] md:h-[10rem] md:w-[10rem] bg-cover flex items-center justify-center rounded-full bg-center"
+            className="cursor-pointer bg-[url('./assets/mice.webp')] h-[8rem] w-[8rem] md:h-[10rem] md:w-[10rem] bg-cover flex items-center justify-center rounded-full bg-center"
           ></div>
           <p className="uppercase text-black mt-2 text-center">
             Meetings & Events
@@ -163,6 +163,13 @@ export default function FileTypeFilter({ onApplyFilterClick }) {
             className="cursor-pointer bg-[url('./assets/activities.webp')] bg-center h-[8rem] w-[8rem] md:h-[10rem] md:w-[10rem] bg-cover flex items-center justify-center rounded-full"
           ></div>
           <p className="uppercase text-black mt-2 text-center">Activities</p>
+        </div>
+        <div className="flex flex-col items-center max-w-[8rem] m-4">
+          <div
+            onClick={() => handleTypeClick("drinks")}
+            className="cursor-pointer bg-[url('./assets/bebidas.jpg')] bg-center h-[8rem] w-[8rem] md:h-[10rem] md:w-[10rem] bg-cover flex items-center justify-center rounded-full"
+          ></div>
+          <p className="uppercase text-black mt-2 text-center">Drinks</p>
         </div>
       </div>
       {showMiceSubcategories && (
