@@ -1336,7 +1336,7 @@ export const ASSETS = [
   {
     id: 172,
     title: "Menú Brisas Breakfast Español",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/03/Menu-Brisas_ESP_Oficio_Desayuno.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/06/Menu-Brisas_ESP_Oficio_Desayuno.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/brisas-breakfast.png",
     type: "menus",
@@ -1345,7 +1345,7 @@ export const ASSETS = [
   {
     id: 173,
     title: "Menú Brisas Desayunos Inglés",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/03/Menu-Brisas_ENG_Oficio_Desayunos.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/06/Menu-Brisas_ENG_Oficio_Desayunos.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/brisas-breakfast.png",
     type: "menus",
@@ -1390,7 +1390,7 @@ export const ASSETS = [
   {
     id: 202,
     title: "Menu Laguna Dinner ENG",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Menu_Laguna_dinner_ING-1.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/06/Menu_Laguna_dinner_ING.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/laguna.png",
     type: "menus",
@@ -1399,7 +1399,7 @@ export const ASSETS = [
   {
     id: 203,
     title: "Menu Laguna Dinner ESP",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/Menu_Laguna_dinner_ESP-1.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/06/Menu_Laguna_dinner_ESP.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/laguna.png",
     type: "menus",
@@ -1409,7 +1409,7 @@ export const ASSETS = [
   {
     id: 215,
     title: "Menu Tauro ESP 2024",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Menu-Tauro-ESP-2024-2.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/06/DIGITAL_Menu_Tauro_ESP_2025.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/tauro.png",
     type: "menus",
@@ -1436,7 +1436,7 @@ export const ASSETS = [
   {
     id: 221,
     title: "Menu Tauro ENG",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Menu-Tauro-ENG-2024.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/06/DIGITAL_Menu_Tauro_ENG_2025.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/tauro.png",
     type: "menus",
@@ -1473,7 +1473,7 @@ export const ASSETS = [
   {
     id: 225,
     title: "Menu Fuego ENG",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Digital_Fuego-Menu_ENG.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/06/Digital_Fuego-Menu_ENG.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/fuego-impresso.png",
     type: "menus",
@@ -1500,7 +1500,7 @@ export const ASSETS = [
   {
     id: 228,
     title: "Menú Fuego ESP",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Digital_Fuego-Menu_ESP.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/06/Digital_Fuego-Menu_ESP.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/fuego-impresso.png",
     type: "menus",
@@ -1510,7 +1510,7 @@ export const ASSETS = [
   {
     id: 229,
     title: "MenúGaia 2024 ESP",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/05/MenuGaia_ESP-1.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/06/MenuGaia_ESP.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/gaia.png",
     type: "menus",
@@ -1519,7 +1519,7 @@ export const ASSETS = [
   {
     id: 230,
     title: "MenuGaia 2024 ING",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/05/MenuGaia_ING-1.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/06/MenuGaia_ING.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/gaia.png",
     type: "menus",
@@ -1583,7 +1583,7 @@ export const ASSETS = [
   {
     id: 237,
     title: "Menu HIX 2024ESP",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/03/Menu-HIX-2025_ESP-1.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/06/Menu-HIX-2025_ESP.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/hix.png",
     type: "menus",
@@ -1601,7 +1601,7 @@ export const ASSETS = [
   {
     id: 239,
     title: "Menú Bassano Español",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Bassano_Carta_ESP.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/06/Bassano_Carta_ESP_digital.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/bassano.png",
     type: "menus",
@@ -1610,7 +1610,7 @@ export const ASSETS = [
   {
     id: 240,
     title: "Menú Bassano Inglés",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Bassano_Carta_EN.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/06/Bassano_Carta_EN.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/bassano.png",
     type: "menus",
@@ -1664,7 +1664,7 @@ export const ASSETS = [
   {
     id: 246,
     title: "Menu HIX 2024ING",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/03/Menu-HIX-2025_ING.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/06/Menu-HIX-2025_ING.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/hix.png",
     type: "menus",
