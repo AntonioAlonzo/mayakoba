@@ -2724,4 +2724,40 @@ export const ASSETS = [
     type: "drinks",
     filetype: "other",
   },
+  {
+    id: 364,
+    title: "Fairmont Mayakoba Tour 360",
+    url: "https://tourmkr.com/F1vJw67YU4",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/07/mayakoba-360-prev.png",
+    type: "drinks",
+    filetype: "other",
+  },
+  {
+    id: 365,
+    title: "Fairmont Mayakoba Tour 360 Google Street View",
+    url: "https://www.google.com/maps/place/Fairmont+Mayakoba/@20.6864944,-87.0280861,3a,19y,75.03h,66.38t/data=!3m8!1e1!3m6!1sCIABIhBkPbFduvwTichb6fBCcep0!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HYWDDKL_nAyS5ix48IAk5Q2vqFc97U7t7Hw8W8ki_JpHEtl1BPDlHjSEOAG5ExHunl_s4OGRBGnFKzVSNo_Esc_3TBdLGnzt0fkrqr2dqEhrAy6I2karD2VymuUza2lJimJSoOJKaq7zh9l%3Dw900-h600-k-no-pi23.61937752695738-ya75.025521589661-ro0-fo100!7i16384!8i8192!4m7!3m6!1s0x8f4e6788ea8922a9:0x3ac35106db90502b!8m2!3d20.6864439!4d-87.0274375!10e5!16s%2Fg%2F11b8d2xrr0?entry=ttu&g_ep=EgoyMDI1MDcyOS4wIKXMDSoASAFQAw%3D%3D",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/07/mayakoba-google-street-prev.png",
+    type: "drinks",
+    filetype: "other",
+  },
+  {
+    id: 366,
+    title: "Heritage Place Fairmont Mayakoba Tour 360",
+    url: "https://tourmkr.com/F18DYMJ3Wi",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/07/heritage-360-prev.png",
+    type: "drinks",
+    filetype: "other",
+  },
+  {
+    id: 367,
+    title: "Heritage Place Fairmont Mayakoba Tour 360 Google Street View",
+    url: "https://www.google.com/maps/place/Fairmont+Heritage+Place+Mayakoba/@20.6874605,-87.0284952,3a,75y,53.11h,87.55t/data=!3m7!1e1!3m5!1sCIABIhAaTAgPv2eFuRzpdTx1L_-U!2e10!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HZUX4bff5AYm3jAbaNsbGGtEcTgW1XeV4GWDdsKU1VAZpS1Z8im9a-Uf-YWKEZwc-6H4T1_qmMiIqBJ8C0jr3rrWuXRvI22QJk1_9QwfU66msu3-BdRirdOc3pupZWF5cqD0qGb6mFBdJiO%3Dw900-h600-k-no-pi2.4451947022675995-ya53.108514751777804-ro0-fo100!7i11984!8i5992!4m9!3m8!1s0x8f4e6709d63c6991:0xc3b8653a4fdf4660!5m2!4m1!1i2!8m2!3d20.6874355!4d-87.0285652!16s%2Fg%2F11stgrf722?entry=ttu&g_ep=EgoyMDI1MDcyNy4wIKXMDSoASAFQAw%3D%3D",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/07/heritage-google-street-prev.png",
+    type: "drinks",
+    filetype: "other",
+  },
 ];

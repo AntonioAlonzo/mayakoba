@@ -46,14 +46,6 @@ export default function Home() {
       return;
     }
 
-    if (types === "virtual") {
-      window.open(
-        "https://visitingmedia.com/tt8/?ttid=fairmont-riviera-maya#/360?group=0&tour=0",
-        "_blank"
-      );
-      return;
-    }
-
     if (types === "video") {
       window.open(
         "https://www.youtube.com/@FairmontMayakobaOfficial",
