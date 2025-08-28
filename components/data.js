@@ -137,15 +137,6 @@ export const ASSETS = [
   },
   */
   {
-    id: 16,
-    title: "Presentación de bodas 2024 inglés",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/05/Wedding-presentation-ENG-2024.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/08/Wedding-presentation-ENG-2024.png",
-    type: "weddings",
-    filetype: "other",
-  },
-  {
     id: 17,
     title: "Brochure Bodas 2025 en español",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2025/05/Bodas.pdf",
@@ -2758,6 +2749,15 @@ export const ASSETS = [
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2025/07/heritage-google-street-prev.png",
     type: "virtual",
+    filetype: "other",
+  },
+  {
+    id: 368,
+    title: "All-Inclusive Menu",
+    url: "hhttps://www.fairmont-mayakoba.com/content/uploads/2025/07/250716_Menu_AllIn_Web.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/08/all-inclusive-prev.png",
+    type: "drinks",
     filetype: "other",
   },
 ];
