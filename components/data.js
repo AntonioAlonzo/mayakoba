@@ -1464,7 +1464,7 @@ export const ASSETS = [
   {
     id: 225,
     title: "Menu Fuego ENG",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/06/Digital_Fuego-Menu_ENG.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/10/Digital_Fuego-Menu.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/fuego-impresso.png",
     type: "menus",
@@ -1491,7 +1491,7 @@ export const ASSETS = [
   {
     id: 228,
     title: "Menú Fuego ESP",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/06/Digital_Fuego-Menu_ESP.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/10/Digital_Fuego-Menu-1.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/fuego-impresso.png",
     type: "menus",
