@@ -2760,4 +2760,13 @@ export const ASSETS = [
     type: "drinks",
     filetype: "other",
   },
+  {
+    id: 369,
+    title: "All-Inclusive Menu",
+    url: "hhttps://www.fairmont-mayakoba.com/content/uploads/2025/07/250716_Menu_AllIn_Web.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/08/all-inclusive-prev.png",
+    type: "brochure",
+    filetype: "other",
+  },
 ];
