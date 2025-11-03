@@ -2769,4 +2769,22 @@ export const ASSETS = [
     type: "brochure",
     filetype: "other",
   },
+  {
+    id: 233,
+    title: "Menú Olas ESP Oficio",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/11/Menu-Olas-ESP-Oficio.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/11/prev-olas.png",
+    type: "menus",
+    filetype: "other",
+  },
+  {
+    id: 234,
+    title: "Menú Olas ING Oficio",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/11/Menu-Olas-ING-Oficio.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/11/prev-olas.png",
+    type: "menus",
+    filetype: "other",
+  },
 ];
