@@ -1852,7 +1852,16 @@ export const ASSETS = [
   {
     id: 268,
     title: "IRD Menu ESP",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/IRD-Menu-ESP-16x23-CM-DIGITAL-1.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/11/251028_IRD_Menu_ESP.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/ird.png",
+    type: "menus",
+    filetype: "other",
+  },
+  {
+    id: 268,
+    title: "IRD Menu ENG",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/11/251028_IRD_Menu_ENG.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/ird.png",
     type: "menus",
