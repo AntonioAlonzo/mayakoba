@@ -2796,4 +2796,13 @@ export const ASSETS = [
     type: "menus",
     filetype: "other",
   },
+  {
+    id: 235,
+    title: "Wine List 2025",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/11/Wine_List_2025.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/11/winelist_rpev.png",
+    type: "menus",
+    filetype: "other",
+  },
 ];
