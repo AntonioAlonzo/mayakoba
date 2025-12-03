@@ -1469,6 +1469,25 @@ export const ASSETS = [
     type: "menus",
     filetype: "other",
   },
+  {
+    id: 222,
+    title: "Menu Tauro Drinks ESP",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/12/Menu-Tauro-Drinks-ESP.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/12/tauro-prev.png",
+    type: "menus",
+    filetype: "other",
+  },
+  {
+    id: 222,
+    title: "Menu Tauro Drinks ING",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/12/Menu-Tauro-Drinks-ING.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/12/tauro-prev.png",
+    type: "menus",
+    filetype: "other",
+  },
+
   /* FUEGO */
   {
     id: 223,
@@ -1609,10 +1628,10 @@ export const ASSETS = [
   },
   {
     id: 238,
-    title: "Menú Cielo ESP",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/CIELO-ESP-DIGITAL-.pdf",
+    title: "Menu Cielo bebidas",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/12/Menu-cielo_bebidas.pdf",
     preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/cielo.png",
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/12/cielo-prev.png",
     type: "menus",
     filetype: "other",
   },
@@ -1649,15 +1668,6 @@ export const ASSETS = [
     url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Bassano_MC_Kids_EN.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/bassano-kids.png",
-    type: "menus",
-    filetype: "other",
-  },
-  {
-    id: 243,
-    title: "Menú Cielo ING",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/CIELO-ENG-DIGITAL.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/cielo.png",
     type: "menus",
     filetype: "other",
   },
@@ -2714,15 +2724,6 @@ export const ASSETS = [
     preview: "",
     type: "mice-info-aerial",
     filetype: "img",
-  },
-  {
-    id: 360,
-    title: "All Inclusive",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/03/ALL-INCLUSIVE.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2025/03/all-inclusive-prev.png",
-    type: "menus",
-    filetype: "other",
   },
   {
     id: 361,
