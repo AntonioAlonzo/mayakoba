@@ -2815,22 +2815,4 @@ export const ASSETS = [
     type: "menus",
     filetype: "other",
   },
-  {
-    id: 236,
-    title: "Menu Tauro Drinks ESP",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/12/Menu-Tauro-Drinks-ESP.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2025/12/tauro-prev.png",
-    type: "menus",
-    filetype: "other",
-  },
-  {
-    id: 237,
-    title: "Menu Tauro Drinks ING",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/12/Menu-Tauro-Drinks-ING.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2025/12/tauro-prev.png",
-    type: "menus",
-    filetype: "other",
-  },
 ];
