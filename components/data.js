@@ -1772,9 +1772,9 @@ export const ASSETS = [
   {
     id: 257,
     title: "Golf Landing Microsite",
-    url: "https://www.fairmont-mayakoba.com/explore/golf/",
+    url: "https://www.fairmont-mayakoba.com/experience/golf/",
     preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/12/golf-micrositio-prev.png",
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/12/golf-prev.png",
     type: "golf",
     filetype: "other",
   },
