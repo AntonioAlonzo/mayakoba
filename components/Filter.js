@@ -43,6 +43,8 @@ export default function Filter({ type, onApplyFilterClick }) {
     { label: "Residences", value: "photos-residences" },
     { label: "Public Spaces", value: "photos-public" },
     { label: "Meeting Spaces", value: "photos-meeting" },
+    { label: "Adult Pool", value: "photos-adult-pool" },
+    { label: "Boat Tour", value: "photos-boat-tour" },
   ];
 
   let list = "";
