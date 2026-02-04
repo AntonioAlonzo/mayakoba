@@ -49,7 +49,7 @@ export default function Filter({ type, onApplyFilterClick }) {
     { label: "Couple Villas", value: "photos-couple-villas" },
     { label: "Fairmont Spa", value: "photos-fairmont-spa" },
     { label: "Property", value: "photos-property" },
-    { label: "Property", value: "photos-family" },
+    { label: "Family", value: "photos-family" },
   ];
 
   let list = "";
