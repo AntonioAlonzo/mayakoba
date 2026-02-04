@@ -45,6 +45,11 @@ export default function Filter({ type, onApplyFilterClick }) {
     { label: "Meeting Spaces", value: "photos-meeting" },
     { label: "Adult Pool", value: "photos-adult-pool" },
     { label: "Boat Tour", value: "photos-boat-tour" },
+    { label: "Cabanas", value: "photos-cabanas" },
+    { label: "Couple Villas", value: "photos-couple-villas" },
+    { label: "Fairmont Spa", value: "photos-fairmont-spa" },
+    { label: "Property", value: "photos-property" },
+    { label: "Property", value: "photos-family" },
   ];
 
   let list = "";
@@ -141,7 +146,7 @@ export default function Filter({ type, onApplyFilterClick }) {
                                   {nestedSub.label}
                                 </Typography>
                               </ListItem>
-                            )
+                            ),
                           )}
                         </List>
                       )}

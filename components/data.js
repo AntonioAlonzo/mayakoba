@@ -1808,7 +1808,7 @@ export const ASSETS = [
   {
     id: 261,
     title: "Spa Experiences Menu ENG",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/MENU-ING-Experiencias-SPA_2025-1.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Spa-Menu-2026-ING-2.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/12/spa-menu-preview.png",
     type: "spa",
@@ -1826,7 +1826,7 @@ export const ASSETS = [
   {
     id: 263,
     title: "Spa Price List ENG",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Price_List_Fairmont_Spa_ENG.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Spa-Price-List-2026-ING-2.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/12/spa-pricelist-preview.png",
     type: "spa",
@@ -2815,43 +2815,48 @@ export const ASSETS = [
     type: "menus",
     filetype: "other",
   },
-   {
+  {
     id: 236,
     title: "Adult Pool 1",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/AdultPool1-scaled.jpg",
-    preview: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/AdultPool1-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/AdultPool1-scaled.jpg",
     type: "photos-adult-pool",
     filetype: "img",
   },
-   {
+  {
     id: 236,
     title: "Adult Pool 2",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/AdultPool2-scaled.jpg",
-    preview: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/AdultPool2-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/AdultPool2-scaled.jpg",
     type: "photos-adult-pool",
     filetype: "img",
   },
-   {
+  {
     id: 236,
     title: "Adult Pool 3",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/AdultPool3-scaled.jpg",
-    preview: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/AdultPool3-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/AdultPool3-scaled.jpg",
     type: "photos-adult-pool",
     filetype: "img",
   },
-   {
+  {
     id: 236,
     title: "Adult Pool 4",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/AdultPool4-scaled.jpg",
-    preview: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/AdultPool4-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/AdultPool4-scaled.jpg",
     type: "photos-adult-pool",
     filetype: "img",
   },
   {
     id: 236,
     title: "Aerials1",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Aerials1-scaled.jpg",
-    preview: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Aerials1-scaled.jpg",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Aerials1-1-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Aerials1-1-scaled.jpg",
     type: "photos-aerial",
     filetype: "img",
   },
@@ -2859,7 +2864,8 @@ export const ASSETS = [
     id: 236,
     title: "Aerials2",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Aerials2-scaled.jpg",
-    preview: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Aerials2-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Aerials2-scaled.jpg",
     type: "photos-aerial",
     filetype: "img",
   },
@@ -2867,7 +2873,8 @@ export const ASSETS = [
     id: 236,
     title: "Aerials3",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Aerials3-scaled.jpg",
-    preview: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Aerials3-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Aerials3-scaled.jpg",
     type: "photos-aerial",
     filetype: "img",
   },
@@ -2875,7 +2882,8 @@ export const ASSETS = [
     id: 236,
     title: "Aerials4",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Aerials4-6-scaled.jpg",
-    preview: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Aerials4-6-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Aerials4-6-scaled.jpg",
     type: "photos-aerial",
     filetype: "img",
   },
@@ -2883,7 +2891,8 @@ export const ASSETS = [
     id: 236,
     title: "Aerials5",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Aerials5-scaled.jpg",
-    preview: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Aerials5-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Aerials5-scaled.jpg",
     type: "photos-aerial",
     filetype: "img",
   },
@@ -2891,7 +2900,8 @@ export const ASSETS = [
     id: 236,
     title: "Aerials6",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Aerials6-scaled.jpg",
-    preview: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Aerials6-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Aerials6-scaled.jpg",
     type: "photos-aerial",
     filetype: "img",
   },
@@ -2899,7 +2909,8 @@ export const ASSETS = [
     id: 236,
     title: "Aerials10",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Aerials10-3-scaled.jpg",
-    preview: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Aerials10-3-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Aerials10-3-scaled.jpg",
     type: "photos-aerial",
     filetype: "img",
   },
@@ -2907,7 +2918,8 @@ export const ASSETS = [
     id: 236,
     title: "Aerials11",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Aerials11-scaled.jpg",
-    preview: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Aerials11-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Aerials11-scaled.jpg",
     type: "photos-aerial",
     filetype: "img",
   },
@@ -2915,7 +2927,8 @@ export const ASSETS = [
     id: 236,
     title: "Aerials12",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Aerials12-2-scaled.jpg",
-    preview: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Aerials12-2-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Aerials12-2-scaled.jpg",
     type: "photos-aerial",
     filetype: "img",
   },
@@ -2923,7 +2936,8 @@ export const ASSETS = [
     id: 236,
     title: "Aerials13",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Aerials13-3-scaled.jpg",
-    preview: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Aerials13-3-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Aerials13-3-scaled.jpg",
     type: "photos-aerial",
     filetype: "img",
   },
@@ -2931,7 +2945,8 @@ export const ASSETS = [
     id: 236,
     title: "Aerials14",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Aerials14-3-scaled.jpg",
-    preview: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Aerials14-3-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Aerials14-3-scaled.jpg",
     type: "photos-aerial",
     filetype: "img",
   },
@@ -2939,7 +2954,8 @@ export const ASSETS = [
     id: 236,
     title: "Aerials15",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Aerials15-scaled.jpg",
-    preview: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Aerials15-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Aerials15-scaled.jpg",
     type: "photos-aerial",
     filetype: "img",
   },
@@ -2947,8 +2963,882 @@ export const ASSETS = [
     id: 236,
     title: "Aerials16",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Aerials16-scaled.jpg",
-    preview: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Aerials16-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Aerials16-scaled.jpg",
     type: "photos-aerial",
+    filetype: "img",
+  },
+  {
+    id: 236,
+    title: "BoatTour1",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/BoatTour1-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/BoatTour1-scaled.jpg",
+    type: "photos-boat-tour",
+    filetype: "img",
+  },
+  {
+    id: 236,
+    title: "BoatTour2",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/BoatTour2-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/BoatTour2-scaled.jpg",
+    type: "photos-boat-tour",
+    filetype: "img",
+  },
+  {
+    id: 236,
+    title: "BoatTour3",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/BoatTour3-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/BoatTour3-scaled.jpg",
+    type: "photos-boat-tour",
+    filetype: "img",
+  },
+  {
+    id: 236,
+    title: "BoatTour4",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/BoatTour4-2-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/02/BoatTour4-2-scaled.jpg",
+    type: "photos-boat-tour",
+    filetype: "img",
+  },
+  {
+    id: 236,
+    title: "BoatTour5",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/BoatTour5-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/02/BoatTour5-scaled.jpg",
+    type: "photos-boat-tour",
+    filetype: "img",
+  },
+  {
+    id: 236,
+    title: "BoatTour6",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/BoatTour6-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/02/BoatTour6-scaled.jpg",
+    type: "photos-boat-tour",
+    filetype: "img",
+  },
+  {
+    id: 236,
+    title: "BoatTour7",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/BoatTour7-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/BoatTour7-scaled.jpg",
+    type: "photos-boat-tour",
+    filetype: "img",
+  },
+  {
+    id: 236,
+    title: "BoatTour8",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/BoatTour8-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/02/BoatTour8-scaled.jpg",
+    type: "photos-boat-tour",
+    filetype: "img",
+  },
+  {
+    id: 236,
+    title: "BoatTour9",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/BoatTour9-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/02/BoatTour9-scaled.jpg",
+    type: "photos-boat-tour",
+    filetype: "img",
+  },
+  {
+    id: 236,
+    title: "BoatTour10",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/12/BoatTour10-min-1-scaled-e1767192918726.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/12/BoatTour10-min-1-scaled-e1767192918726.jpg",
+    type: "photos-boat-tour",
+    filetype: "img",
+  },
+  {
+    id: 236,
+    title: "Cabanas1",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Cabanas1-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Cabanas1-scaled.jpg",
+    type: "photos-cabanas",
+    filetype: "img",
+  },
+  {
+    id: 236,
+    title: "Cabanas2",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/12/Cabanas2-min-scaled-e1766519261851.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2025/12/Cabanas2-min-scaled-e1766519261851.jpg",
+    type: "photos-cabanas",
+    filetype: "img",
+  },
+  {
+    id: 236,
+    title: "Cabanas3",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Cabanas3-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Cabanas3-scaled.jpg",
+    type: "photos-cabanas",
+    filetype: "img",
+  },
+  {
+    id: 236,
+    title: "Cabanas4",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Cabanas4-1-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Cabanas4-1-scaled.jpg",
+    type: "photos-cabanas",
+    filetype: "img",
+  },
+  {
+    id: 236,
+    title: "Cabanas5",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Cabanas5-1-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Cabanas5-1-scaled.jpg",
+    type: "photos-cabanas",
+    filetype: "img",
+  },
+  {
+    id: 236,
+    title: "Cabanas6",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Cabanas6-1-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Cabanas6-1-scaled.jpg",
+    type: "photos-cabanas",
+    filetype: "img",
+  },
+  {
+    id: 236,
+    title: "Cabanas7",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Cabanas7-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Cabanas7-scaled.jpg",
+    type: "photos-cabanas",
+    filetype: "img",
+  },
+  {
+    id: 236,
+    title: "CoupleVillas1",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/CoupleVillas1-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/CoupleVillas1-scaled.jpg",
+    type: "photos-couple-villas",
+    filetype: "img",
+  },
+  {
+    id: 236,
+    title: "CoupleVillas2",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/CoupleVillas2-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/CoupleVillas2-scaled.jpg",
+    type: "photos-couple-villas",
+    filetype: "img",
+  },
+  {
+    id: 236,
+    title: "CoupleVillas3",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/CoupleVillas3-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/CoupleVillas3-scaled.jpg",
+    type: "photos-couple-villas",
+    filetype: "img",
+  },
+  {
+    id: 236,
+    title: "CoupleVillas4",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/CoupleVillas4-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/CoupleVillas4-scaled.jpg",
+    type: "photos-couple-villas",
+    filetype: "img",
+  },
+  {
+    id: 236,
+    title: "CoupleVillas5",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/CoupleVillas-scaled5.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/CoupleVillas-scaled5.jpg",
+    type: "photos-couple-villas",
+    filetype: "img",
+  },
+  {
+    id: 236,
+    title: "FairmontSpa1",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa1-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa1-scaled.jpg",
+    type: "photos-fairmont-spa",
+    filetype: "img",
+  },
+  {
+    id: 237,
+    title: "FairmontSpa2",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa2-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa2-scaled.jpg",
+    type: "photos-fairmont-spa",
+    filetype: "img",
+  },
+  {
+    id: 238,
+    title: "FairmontSpa3",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa3-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa3-scaled.jpg",
+    type: "photos-fairmont-spa",
+    filetype: "img",
+  },
+  {
+    id: 239,
+    title: "FairmontSpa4",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa4-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa4-scaled.jpg",
+    type: "photos-fairmont-spa",
+    filetype: "img",
+  },
+  {
+    id: 240,
+    title: "FairmontSpa5",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa5-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa5-scaled.jpg",
+    type: "photos-fairmont-spa",
+    filetype: "img",
+  },
+  {
+    id: 241,
+    title: "FairmontSpa6",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa6-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa6-scaled.jpg",
+    type: "photos-fairmont-spa",
+    filetype: "img",
+  },
+  {
+    id: 242,
+    title: "FairmontSpa7",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa7-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa7-scaled.jpg",
+    type: "photos-fairmont-spa",
+    filetype: "img",
+  },
+  {
+    id: 243,
+    title: "FairmontSpa8",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa8-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa8-scaled.jpg",
+    type: "photos-fairmont-spa",
+    filetype: "img",
+  },
+  {
+    id: 244,
+    title: "FairmontSpa9",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa9-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa9-scaled.jpg",
+    type: "photos-fairmont-spa",
+    filetype: "img",
+  },
+  {
+    id: 245,
+    title: "FairmontSpa10",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa10-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa10-scaled.jpg",
+    type: "photos-fairmont-spa",
+    filetype: "img",
+  },
+  {
+    id: 246,
+    title: "FairmontSpa11",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa11-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa11-scaled.jpg",
+    type: "photos-fairmont-spa",
+    filetype: "img",
+  },
+  {
+    id: 247,
+    title: "FairmontSpa12",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa12-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa12-scaled.jpg",
+    type: "photos-fairmont-spa",
+    filetype: "img",
+  },
+  {
+    id: 248,
+    title: "FairmontSpa13",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa13-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa13-scaled.jpg",
+    type: "photos-fairmont-spa",
+    filetype: "img",
+  },
+  {
+    id: 249,
+    title: "FairmontSpa14",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa14-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa14-scaled.jpg",
+    type: "photos-fairmont-spa",
+    filetype: "img",
+  },
+  {
+    id: 250,
+    title: "FairmontSpa15",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa15-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa15-scaled.jpg",
+    type: "photos-fairmont-spa",
+    filetype: "img",
+  },
+  {
+    id: 251,
+    title: "FairmontSpa16",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa16-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa16-scaled.jpg",
+    type: "photos-fairmont-spa",
+    filetype: "img",
+  },
+  {
+    id: 252,
+    title: "FairmontSpa17",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa17-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa17-scaled.jpg",
+    type: "photos-fairmont-spa",
+    filetype: "img",
+  },
+  {
+    id: 253,
+    title: "FairmontSpa18",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa18-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa18-scaled.jpg",
+    type: "photos-fairmont-spa",
+    filetype: "img",
+  },
+  {
+    id: 254,
+    title: "FairmontSpa19",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa19-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa19-scaled.jpg",
+    type: "photos-fairmont-spa",
+    filetype: "img",
+  },
+  {
+    id: 255,
+    title: "FairmontSpa20",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa20-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa20-scaled.jpg",
+    type: "photos-fairmont-spa",
+    filetype: "img",
+  },
+  {
+    id: 256,
+    title: "FairmontSpa21",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa21-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa21-scaled.jpg",
+    type: "photos-fairmont-spa",
+    filetype: "img",
+  },
+  {
+    id: 257,
+    title: "FairmontSpa22",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa22-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa22-scaled.jpg",
+    type: "photos-fairmont-spa",
+    filetype: "img",
+  },
+  {
+    id: 258,
+    title: "FairmontSpa23",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa23-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa23-scaled.jpg",
+    type: "photos-fairmont-spa",
+    filetype: "img",
+  },
+  {
+    id: 259,
+    title: "FairmontSpa24",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa24-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa24-scaled.jpg",
+    type: "photos-fairmont-spa",
+    filetype: "img",
+  },
+  {
+    id: 260,
+    title: "FairmontSpa24",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa24-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FairmontSpa24-scaled.jpg",
+    type: "photos-fairmont-spa",
+    filetype: "img",
+  },
+  {
+    id: 285,
+    title: "Fuego1",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Fuego1-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Fuego1-scaled.jpg",
+    type: "mice-info-fuego",
+    filetype: "img",
+  },
+  {
+    id: 286,
+    title: "Fuego2",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Fuego2-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Fuego2-scaled.jpg",
+    type: "mice-info-fuego",
+    filetype: "img",
+  },
+  {
+    id: 287,
+    title: "Fuego3",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Fuego3-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Fuego3-scaled.jpg",
+    type: "mice-info-fuego",
+    filetype: "img",
+  },
+  {
+    id: 288,
+    title: "Fuego4",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Fuego4-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Fuego4-scaled.jpg",
+    type: "mice-info-fuego",
+    filetype: "img",
+  },
+  {
+    id: 289,
+    title: "Fuego5",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Fuego5-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Fuego5-scaled.jpg",
+    type: "mice-info-fuego",
+    filetype: "img",
+  },
+  {
+    id: 290,
+    title: "Fuego6",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Fuego6-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Fuego6-scaled.jpg",
+    type: "mice-info-fuego",
+    filetype: "img",
+  },
+  {
+    id: 291,
+    title: "Fuego7",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Fuego7-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Fuego7-scaled.jpg",
+    type: "mice-info-fuego",
+    filetype: "img",
+  },
+  {
+    id: 292,
+    title: "Fuego8",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Fuego8-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Fuego8-scaled.jpg",
+    type: "mice-info-fuego",
+    filetype: "img",
+  },
+  {
+    id: 293,
+    title: "Fuego9",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Fuego9-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Fuego9-scaled.jpg",
+    type: "mice-info-fuego",
+    filetype: "img",
+  },
+  {
+    id: 294,
+    title: "Fuego10",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Fuego10-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Fuego10-scaled.jpg",
+    type: "mice-info-fuego",
+    filetype: "img",
+  },
+  {
+    id: 295,
+    title: "Gaia1",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Gaia1-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Gaia1-scaled.jpg",
+    type: "mice-info-gaia",
+    filetype: "img",
+  },
+  {
+    id: 296,
+    title: "Gaia2",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Gaia2-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Gaia2-scaled.jpg",
+    type: "mice-info-gaia",
+    filetype: "img",
+  },
+  {
+    id: 297,
+    title: "Gaia3",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Gaia3-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Gaia3-scaled.jpg",
+    type: "mice-info-gaia",
+    filetype: "img",
+  },
+  {
+    id: 298,
+    title: "Gaia4",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Gaia4-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Gaia4-scaled.jpg",
+    type: "mice-info-gaia",
+    filetype: "img",
+  },
+  {
+    id: 299,
+    title: "Gaia5",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Gaia5-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Gaia5-scaled.jpg",
+    type: "mice-info-gaia",
+    filetype: "img",
+  },
+  {
+    id: 300,
+    title: "Gaia6",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Gaia6-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Gaia6-scaled.jpg",
+    type: "mice-info-gaia",
+    filetype: "img",
+  },
+  {
+    id: 301,
+    title: "Gaia7",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Gaia7-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Gaia7-scaled.jpg",
+    type: "mice-info-gaia",
+    filetype: "img",
+  },
+  {
+    id: 302,
+    title: "Gaia8",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Gaia8-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Gaia8-scaled.jpg",
+    type: "mice-info-gaia",
+    filetype: "img",
+  },
+  {
+    id: 303,
+    title: "Gaia9",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Gaia9-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Gaia9-scaled.jpg",
+    type: "mice-info-gaia",
+    filetype: "img",
+  },
+  {
+    id: 304,
+    title: "Gaia10",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Gaia10-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Gaia10-scaled.jpg",
+    type: "mice-info-gaia",
+    filetype: "img",
+  },
+  {
+    id: 304,
+    title: "Tauro1",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Tauro1-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Tauro1-scaled.jpg",
+    type: "mice-info-tauro",
+    filetype: "img",
+  },
+  {
+    id: 305,
+    title: "Tauro2",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Tauro2-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Tauro2-scaled.jpg",
+    type: "mice-info-tauro",
+    filetype: "img",
+  },
+  {
+    id: 306,
+    title: "Tauro3",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Tauro3-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Tauro3-scaled.jpg",
+    type: "mice-info-tauro",
+    filetype: "img",
+  },
+  {
+    id: 307,
+    title: "Tauro4",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Tauro4-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Tauro4-scaled.jpg",
+    type: "mice-info-tauro",
+    filetype: "img",
+  },
+  {
+    id: 308,
+    title: "Tauro5",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Tauro5-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Tauro5-scaled.jpg",
+    type: "mice-info-tauro",
+    filetype: "img",
+  },
+  {
+    id: 309,
+    title: "Tauro6",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Tauro6-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Tauro6-scaled.jpg",
+    type: "mice-info-tauro",
+    filetype: "img",
+  },
+  {
+    id: 310,
+    title: "Tauro7",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Tauro7-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Tauro7-scaled.jpg",
+    type: "mice-info-tauro",
+    filetype: "img",
+  },
+  {
+    id: 311,
+    title: "Tauro8",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Tauro8-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Tauro8-scaled.jpg",
+    type: "mice-info-tauro",
+    filetype: "img",
+  },
+  {
+    id: 312,
+    title: "Property1",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Property1-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Property1-scaled.jpg",
+    type: "photos-property",
+    filetype: "img",
+  },
+  {
+    id: 313,
+    title: "Property2",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Property2-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Property2-scaled.jpg",
+    type: "photos-property",
+    filetype: "img",
+  },
+  {
+    id: 314,
+    title: "Property3",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Property3-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Property3-scaled.jpg",
+    type: "photos-property",
+    filetype: "img",
+  },
+  {
+    id: 315,
+    title: "Property4",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Property4-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Property4-scaled.jpg",
+    type: "photos-property",
+    filetype: "img",
+  },
+  {
+    id: 316,
+    title: "Property5",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Property5-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Property5-scaled.jpg",
+    type: "photos-property",
+    filetype: "img",
+  },
+  {
+    id: 317,
+    title: "Property6",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Property6-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Property6-scaled.jpg",
+    type: "photos-property",
+    filetype: "img",
+  },
+  {
+    id: 318,
+    title: "Property7",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Property7-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Property7-scaled.jpg",
+    type: "photos-property",
+    filetype: "img",
+  },
+  {
+    id: 319,
+    title: "Property8",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Property8-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Property8-scaled.jpg",
+    type: "photos-property",
+    filetype: "img",
+  },
+  {
+    id: 319,
+    title: "FamilyBeachMoment1",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/FamilyBeachMoment1-1.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/02/FamilyBeachMoment1-1.jpg",
+    type: "photos-family",
+    filetype: "img",
+  },
+  {
+    id: 319,
+    title: "FamilyBeachMoment2",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FamilyBeachMoment2-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FamilyBeachMoment2-scaled.jpg",
+    type: "photos-family",
+    filetype: "img",
+  },
+  {
+    id: 319,
+    title: "FamilyBeachMoment3",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FamilyBeachMoment3-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FamilyBeachMoment3-scaled.jpg",
+    type: "photos-family",
+    filetype: "img",
+  },
+  {
+    id: 319,
+    title: "FamilyBeachMoment4",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/FamilyBeachMoment4-2-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/02/FamilyBeachMoment4-2-scaled.jpg",
+    type: "photos-family",
+    filetype: "img",
+  },
+  {
+    id: 319,
+    title: "FamilyBeachMoment5",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FamilyBeachMoment5-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FamilyBeachMoment5-scaled.jpg",
+    type: "photos-family",
+    filetype: "img",
+  },
+  {
+    id: 319,
+    title: "FamilyBeachMoment6",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/FamilyBeachMoment6-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/02/FamilyBeachMoment6-scaled.jpg",
+    type: "photos-family",
+    filetype: "img",
+  },
+  {
+    id: 319,
+    title: "FamilyBeachMoment7",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/FamilyBeachMoment7-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/02/FamilyBeachMoment7-scaled.jpg",
+    type: "photos-family",
+    filetype: "img",
+  },
+  {
+    id: 319,
+    title: "FamilyBeachMoment8",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/FamilyBeachMoment8-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/02/FamilyBeachMoment8-scaled.jpg",
+    type: "photos-family",
+    filetype: "img",
+  },
+  {
+    id: 319,
+    title: "FamilyBeachMoment9",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/FamilyBeachMoment9-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/02/FamilyBeachMoment9-scaled.jpg",
+    type: "photos-family",
+    filetype: "img",
+  },
+  {
+    id: 319,
+    title: "Family1",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Family1-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Family1-scaled.jpg",
+    type: "photos-family",
+    filetype: "img",
+  },
+  {
+    id: 319,
+    title: "Family2",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Family2-2-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Family2-2-scaled.jpg",
+    type: "photos-family",
+    filetype: "img",
+  },
+  {
+    id: 319,
+    title: "Family3",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Family3-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Family3-scaled.jpg",
+    type: "photos-family",
+    filetype: "img",
+  },
+  {
+    id: 319,
+    title: "Family4",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Family4-2-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Family4-2-scaled.jpg",
+    type: "photos-family",
+    filetype: "img",
+  },
+  {
+    id: 236,
+    title: "Couple property 5",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Couple-property-5-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Couple-property-5-scaled.jpg",
+    type: "photos-couple-villas",
     filetype: "img",
   },
 ];
