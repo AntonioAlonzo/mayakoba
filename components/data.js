@@ -3841,4 +3841,58 @@ export const ASSETS = [
     type: "photos-couple-villas",
     filetype: "img",
   },
+  {
+    id: 247,
+    title: "Monochromatic Logo Vertical",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/FM_20-years-vertical-B.png",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/02/FM_20-years-vertical-B.png",
+    type: "logo",
+    filetype: "other",
+  },
+  {
+    id: 247,
+    title: "Monochromatic Logo Horizontal",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/FM_20-years-B-scaled.png",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/02/FM_20-years-B-scaled.png",
+    type: "logo",
+    filetype: "other",
+  },
+  {
+    id: 247,
+    title: "Negative Logo Vertical",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/FM_20-years-vertical-W.png",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/02/FM_20-years-vertical-W.png",
+    type: "logo",
+    filetype: "other",
+  },
+  {
+    id: 247,
+    title: "Negative Logo Horizontal",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/FM_20-yeasr-W-scaled.png",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/02/FM_20-yeasr-W-scaled.png",
+    type: "logo",
+    filetype: "other",
+  },
+  {
+    id: 247,
+    title: "Primary Logo Vertical",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/FM_20-years-vertical-color.png",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/02/FM_20-years-vertical-color.png",
+    type: "logo",
+    filetype: "other",
+  },
+  {
+    id: 247,
+    title: "Primary Logo Horizontal",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/FM_20-years-color-scaled.png",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/02/FM_20-years-color-scaled.png",
+    type: "logo",
+    filetype: "other",
+  },
 ];
