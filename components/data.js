@@ -191,18 +191,9 @@ export const ASSETS = [
     filetype: "other",
   },
   {
-    id: 23,
-    title: "Factsheet Kids Club 2024 en inglés",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/05/FactSheet-Kids-2024-ING-1.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/08/FactSheet-Kids-2024-ING-1.png",
-    type: "kids-club",
-    filetype: "other",
-  },
-  {
     id: 24,
-    title: "Factsheet Kids Club 2024 en español",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/05/FactSheet-Kids-2024-ESP-1.pdf",
+    title: "Factsheet Kids Club 11/03/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/03/Factsheet-Kids-Club.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/08/FactSheet-Kids-2024-ING-1.png",
     type: "kids-club",
