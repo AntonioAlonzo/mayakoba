@@ -138,8 +138,8 @@ export const ASSETS = [
   */
   {
     id: 17,
-    title: "Brochure Bodas 2025 en español",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/12/ESP-Wedding-Booklet_Fairmont.pdf",
+    title: "Brochure Bodas 2026 en español 13/03/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/03/ESP-Wedding-Booklet_Fairmont.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2025/06/weddings-brochure-prev.png",
     type: "weddings",
