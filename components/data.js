@@ -1906,8 +1906,8 @@ export const ASSETS = [
   },
   {
     id: 260,
-    title: "Spa Experiences Menu ESP",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/01/MENU-ESP-Experiencias-SPA_2025.pdf",
+    title: "Spa Experiences Menu ESP 19/03/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/03/Spa-Menu-2026-ESP-1.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/12/spa-menu-preview.png",
     type: "spa",
@@ -1915,8 +1915,8 @@ export const ASSETS = [
   },
   {
     id: 261,
-    title: "Spa Experiences Menu ENG",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Spa-Menu-2026-ING-2.pdf",
+    title: "Spa Experiences Menu ENG 19/03/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/03/Spa-Menu-2026-ING-1.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/12/spa-menu-preview.png",
     type: "spa",
@@ -1924,8 +1924,8 @@ export const ASSETS = [
   },
   {
     id: 262,
-    title: "Spa Price List ESP",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/Price_List_Fairmont_Spa_ESP.pdf",
+    title: "Spa Price List ESP 19/03/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/03/Spa-Price-List-2026-ESP.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/12/spa-pricelist-preview.png",
     type: "spa",
@@ -1933,8 +1933,8 @@ export const ASSETS = [
   },
   {
     id: 263,
-    title: "Spa Price List ENG",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Spa-Price-List-2026-ING-2.pdf",
+    title: "Spa Price List ENG 19/03/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/03/Spa-Price-List-2026-ING.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/12/spa-pricelist-preview.png",
     type: "spa",
