@@ -1888,8 +1888,8 @@ export const ASSETS = [
   },
   {
     id: 258,
-    title: "Mayakoba Guests 2025",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/MAYAKOBA-GUESTS-2025.pdf",
+    title: "Mayakoba Guests 2026",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/01/FAIRMONT-RATES-2026-CAMALEON-MAYAKOBA.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/12/MAYAKOBA-GUESTS-2025_prev-scaled.jpg",
     type: "golf",
