@@ -1315,24 +1315,7 @@ export const ASSETS = [
     type: "menus",
     filetype: "other",
   },
-  {
-    id: 172,
-    title: "Menú Brisas Kids Cena Español 23/02/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Menu-Brisas_ESP_Oficio_Cena_Kids.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2026/02/brisas-kids-prev.png",
-    type: "menus",
-    filetype: "other",
-  },
-  {
-    id: 172,
-    title: "Menú Brisas Kids Cena Ingles 23/02/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Menu-Brisas_ENG_Oficio_Kids_Dinner.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2026/02/brisas-kids-prev.png",
-    type: "menus",
-    filetype: "other",
-  },
+
   {
     id: 172,
     title: "Menú Brisas Breakfast Español 23/02/26",
