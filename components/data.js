@@ -2898,6 +2898,24 @@ export const ASSETS = [
     filetype: "other",
   },
   {
+    id: 234,
+    title: "Menú Olas Kids Snacks ESP 27/03/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/03/MENU-OLAS-KIDS_SNACKS_ESP.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/03/prev-1.png",
+    type: "menus",
+    filetype: "other",
+  },
+  {
+    id: 234,
+    title: "Menú Olas Kids Snacks ING 27/03/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/03/MENU-OLAS-KIDS_SNACKS_ING.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/03/prev-1.png",
+    type: "menus",
+    filetype: "other",
+  },
+  {
     id: 235,
     title: "Wine List 2025",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2025/11/Wine_List_2025.pdf",
