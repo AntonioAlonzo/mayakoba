@@ -1281,8 +1281,8 @@ export const ASSETS = [
   },
   {
     id: 162,
-    title: "Menú Aqua Español 23/02/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/MENU-AQUA-ESPANOL.pdf",
+    title: "Menú Aqua Español 30/03/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/03/MENU-AQUA-ESPANOL.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/aqua-espanol.png",
     type: "menus",
@@ -1290,8 +1290,8 @@ export const ASSETS = [
   },
   {
     id: 163,
-    title: "Menú Aqua Inglés 23/02/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/MENU-AQUA-INGLES.pdf",
+    title: "Menú Aqua Inglés 30/03/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/03/MENU-AQUA-INGLES.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/aqua-espanol.png",
     type: "menus",
@@ -1299,8 +1299,8 @@ export const ASSETS = [
   },
   {
     id: 163,
-    title: "Menú Cantina Inglés 23/02/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Menu_Cantina_Lunch_ING.pdf",
+    title: "Menú Cantina Inglés 30/03/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/03/Menu_Cantina_Lunch_ING.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2025/06/cantina-prev.png",
     type: "menus",
@@ -1309,7 +1309,7 @@ export const ASSETS = [
   {
     id: 163,
     title: "Menú Cantina Español 23/02/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Menu_Cantina_Lunch_ESP.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/03/Menu_Cantina_Lunch_ESP.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2025/06/cantina-prev.png",
     type: "menus",
