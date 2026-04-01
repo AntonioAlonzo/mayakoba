@@ -1481,8 +1481,8 @@ export const ASSETS = [
   /* TAURO */
   {
     id: 215,
-    title: "Menu Tauro ESP 23/02/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Menu_Tauro_ESP_2025.pdf",
+    title: "Menu Tauro ESP 01/04/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/04/Menu_Tauro_ESP_2026_Digital.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/tauro.png",
     type: "menus",
@@ -1499,8 +1499,8 @@ export const ASSETS = [
   },
   {
     id: 220,
-    title: "Menu Tauro Postres Español Inglés 23/02/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Tauro_Menu_Postres_Digital.pdf",
+    title: "Menu Tauro Postres Español Inglés 01/04/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/04/Tauro_Menu_Postres_2026_Digital.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/tauro-desserts.png",
     type: "menus",
@@ -1508,8 +1508,8 @@ export const ASSETS = [
   },
   {
     id: 221,
-    title: "Menu Tauro ENG 23/02/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Menu_Tauro_ENG_2025.pdf",
+    title: "Menu Tauro ENG 01/04/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/04/Menu_Tauro_ENG_2026_Digital.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/tauro.png",
     type: "menus",
@@ -1710,8 +1710,8 @@ export const ASSETS = [
   },
   {
     id: 239,
-    title: "Menú Bassano Español 09/03/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/03/Bassano_Carta_ESP_digital.pdf",
+    title: "Menú Bassano Español 01/04/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/04/Bassano_Carta_ESP_digital.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/bassano.png",
     type: "menus",
@@ -1719,8 +1719,8 @@ export const ASSETS = [
   },
   {
     id: 240,
-    title: "Menú Bassano Inglés 09/03/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/03/Bassano_Carta_EN.pdf",
+    title: "Menú Bassano Inglés 01/04/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/04/Bassano_Carta_EN.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/bassano.png",
     type: "menus",
@@ -1728,8 +1728,8 @@ export const ASSETS = [
   },
   {
     id: 241,
-    title: "Menú Bassano Kids y Postres Español 09/03/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/03/Bassano_MC_Kids-y-Postres_ESP.pdf",
+    title: "Menú Bassano Kids y Postres Español 01/04/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/04/Bassano_MC_Kids-y-Postres_ESP.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/bassano-kids.png",
     type: "menus",
@@ -1737,8 +1737,8 @@ export const ASSETS = [
   },
   {
     id: 242,
-    title: "Menú Bassano Kids y Postres Inglés 09/03/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/03/Bassano_MC_Kids-y-Postres_EN.pdf",
+    title: "Menú Bassano Kids y Postres Inglés 01/04/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/04/Bassano_MC_Kids-y-Postres_EN.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/bassano-kids.png",
     type: "menus",
