@@ -1709,6 +1709,15 @@ export const ASSETS = [
     filetype: "other",
   },
   {
+    id: 238,
+    title: "Menú Cielo Compendium WEB 07/04/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/04/Menu-Cielo-Compendium-WEB.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/04/Sin-titulo-1.png",
+    type: "menus",
+    filetype: "other",
+  },
+  {
     id: 239,
     title: "Menú Bassano Español 01/04/26",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2026/04/Bassano_Carta_ESP_digital.pdf",
