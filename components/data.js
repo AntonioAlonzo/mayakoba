@@ -1705,7 +1705,7 @@ export const ASSETS = [
     url: "https://www.fairmont-mayakoba.com/content/uploads/2025/12/Menu-cielo_bebidas.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2025/12/cielo-prev.png",
-    type: "menus",
+    type: "drinks",
     filetype: "other",
   },
   {
@@ -1714,7 +1714,7 @@ export const ASSETS = [
     url: "https://www.fairmont-mayakoba.com/content/uploads/2026/04/Menu-Cielo-Compendium-WEB.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2026/04/Sin-titulo-1.png",
-    type: "menus",
+    type: "drinks",
     filetype: "other",
   },
   {
