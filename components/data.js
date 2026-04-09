@@ -1599,6 +1599,7 @@ export const ASSETS = [
     filetype: "other",
   },
   /* GAIA */
+  /*
   {
     id: 229,
     title: "MenúGaia 2024 ESP 23/02/26",
@@ -1635,6 +1636,7 @@ export const ASSETS = [
     type: "menus",
     filetype: "other",
   },
+  */
   /* HIX */
   {
     id: 231,
@@ -2121,7 +2123,7 @@ export const ASSETS = [
     type: "mice-info-bassano",
     filetype: "img",
   },
-
+  /*
   {
     id: 283,
     title: "GAIA 1",
@@ -2140,6 +2142,7 @@ export const ASSETS = [
     type: "mice-info-gaia",
     filetype: "img",
   },
+  */
   {
     id: 285,
     title: "Fuego",
@@ -3599,6 +3602,7 @@ export const ASSETS = [
     type: "mice-info-fuego",
     filetype: "img",
   },
+  /*
   {
     id: 295,
     title: "Gaia1",
@@ -3689,6 +3693,7 @@ export const ASSETS = [
     type: "mice-info-gaia",
     filetype: "img",
   },
+  */
   {
     id: 304,
     title: "Tauro1",
