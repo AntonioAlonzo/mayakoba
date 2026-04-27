@@ -28,7 +28,7 @@ export default function Home() {
     if (types === "webapp") {
       window.open(
         "https://fairmontmayakoba.duve.co/g/RJSdbyW-t?id=home&isCompany=1",
-        "_blank"
+        "_blank",
       );
       return;
     }
@@ -36,7 +36,7 @@ export default function Home() {
     if (types === "events") {
       window.open(
         "https://www.fairmont-mayakoba.com/explore/events-calendar/",
-        "_blank"
+        "_blank",
       );
       return;
     }
@@ -49,7 +49,7 @@ export default function Home() {
     if (types === "video") {
       window.open(
         "https://www.youtube.com/@FairmontMayakobaOfficial",
-        "_blank"
+        "_blank",
       );
       return;
     }
@@ -62,7 +62,7 @@ export default function Home() {
     if (types === "mice-tour") {
       window.open(
         "https://visitingmedia.com/tt8/?ttid=fairmont-riviera-maya#/360?group=6&tour=0",
-        "_blank"
+        "_blank",
       );
       return;
     }
@@ -85,7 +85,7 @@ export default function Home() {
 
     setTimeout(() => {
       const filteredItems = ASSETS.filter((item) =>
-        types.length ? types.includes(item.type) : true
+        types.length ? types.includes(item.type) : true,
       );
       setItemList(filteredItems);
       setCurrentPage(1);
@@ -97,7 +97,7 @@ export default function Home() {
     setLoading(true); // Start loading when filter is applied
     setTimeout(() => {
       const filteredItems = ASSETS.filter((item) =>
-        types.length ? types.includes(item.filetype) : true
+        types.length ? types.includes(item.filetype) : true,
       );
       setItemList(filteredItems);
       setCurrentPage(1); // Reset to the first page after filtering
@@ -197,19 +197,22 @@ export default function Home() {
             ""
           )}
 
-          <main className="flex md:gap-40 md:px-32 md:mt-16 px-2 gap-2 md:flex-row flex-col">
+          <main className="flex md:gap-6 md:px-8 md:mt-16 px-2 gap-2 md:flex-row flex-col">
             {showFilter && (
-              <div className="w-full md:w-1/6">
+              <div className="w-full md:w-[160px] flex-shrink-0">
                 <Filter
                   type={filterType}
                   onApplyFilterClick={handleApplyFilterClick}
                 ></Filter>
               </div>
             )}
-            <div className="w-full grid grid-cols-2 md:grid-cols-6 gap-x-2 gap-y-7 ">
+            <div className="w-full grid grid-cols-2 md:grid-cols-4 gap-x-3 gap-y-6 auto-rows-fr">
               {loading ? (
-                <div className="justify-center">
-                  <p className="text-center">Loading...</p>
+                <div className="col-span-2 md:col-span-4 flex flex-col items-center justify-center py-24 gap-4">
+                  <div className="w-12 h-12 rounded-full border-4 border-gray-200 border-t-black animate-spin"></div>
+                  <p className="font-silk-serif italic text-[1.2rem] tracking-widest text-gray-500">
+                    Loading...
+                  </p>
                 </div>
               ) : (
                 currentItems.map((item) => (

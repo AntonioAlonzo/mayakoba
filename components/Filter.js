@@ -73,19 +73,19 @@ export default function Filter({ type, onApplyFilterClick }) {
   }
 
   return (
-    <div className="md:px-0 md:my-0 px-6 my-6">
+    <div className="md:px-0 md:my-0 px-6 my-6 overflow-hidden">
       <p className="uppercase font-silk-serif">FILTER</p>
 
-      <List>
+      <List className="min-w-0 p-0">
         {list.map((type, index) => (
           <div key={index}>
             <ListItem
-              className="p-0 cursor-pointer"
+              className="p-0 cursor-pointer rounded-none"
               onClick={() => handleTypeClick(type.value)}
             >
               <Typography
                 color="blue-gray"
-                className="font-itc-franklin px-3 py-2"
+                className="font-itc-franklin px-3 py-2 text-sm"
               >
                 {type.label}
               </Typography>

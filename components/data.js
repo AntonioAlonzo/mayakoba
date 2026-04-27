@@ -4018,4 +4018,31 @@ export const ASSETS = [
     type: "logo",
     filetype: "other",
   },
+  {
+    id: 347,
+    title: "EH-4",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/04/EH-4-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/04/EH-4-scaled.jpg",
+    type: "photos-meeting",
+    filetype: "img",
+  },
+  {
+    id: 347,
+    title: "EH-5",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/04/EH-5-scaled.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/04/EH-5-scaled.jpg",
+    type: "photos-meeting",
+    filetype: "img",
+  },
+  {
+    id: 347,
+    title: "Isla Lawn",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/04/Isla-Lawn-EDITADO.jpg",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/04/Isla-Lawn-EDITADO.jpg",
+    type: "photos-meeting",
+    filetype: "img",
+  },
 ];
