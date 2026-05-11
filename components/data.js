@@ -2876,7 +2876,7 @@ export const ASSETS = [
   {
     id: 368,
     title: "All-Inclusive Menu",
-    url: "hhttps://www.fairmont-mayakoba.com/content/uploads/2025/07/250716_Menu_AllIn_Web.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/05/2026_Menu_AllIn_Web.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2025/08/all-inclusive-prev.png",
     type: "drinks",
@@ -2885,7 +2885,7 @@ export const ASSETS = [
   {
     id: 369,
     title: "All-Inclusive Menu",
-    url: "hhttps://www.fairmont-mayakoba.com/content/uploads/2025/07/250716_Menu_AllIn_Web.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/05/2026_Menu_AllIn_Web.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2025/08/all-inclusive-prev.png",
     type: "brochure",
