@@ -4045,4 +4045,13 @@ export const ASSETS = [
     type: "photos-meeting",
     filetype: "img",
   },
+   {
+    id: 361,
+    title: "Fairmont Summer of Champions",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/05/Fairmont-Summer-of-Champions_v3_compressed.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/05/preview.png",
+    type: "activities",
+    filetype: "other",
+  },
 ];
