@@ -1819,19 +1819,10 @@ export const ASSETS = [
   },
   {
     id: 251,
-    title: "Resort Map ESP",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/MapaFairmont_Espanol.pdf",
+    title: "Resort Map",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/05/Mapa-2026.pdf",
     preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/12/MapaFairmont_Espanol_page-0001_resultado.webp",
-    type: "resort",
-    filetype: "other",
-  },
-  {
-    id: 252,
-    title: "Resort Map ENG",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/MapaFairmont_Ingles.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/12/MapaFairmont_Ingles_page-0001_resultado.webp",
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/05/Maps_prev.png",
     type: "resort",
     filetype: "other",
   },
