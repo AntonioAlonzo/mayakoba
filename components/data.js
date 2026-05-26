@@ -1918,7 +1918,7 @@ export const ASSETS = [
   },
   {
     id: 263,
-    title: "Spa Price List ENG 22/05/26",
+    title: "Spa Price List ENG 26/05/26",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2026/05/Spa-Price-List-2026-ING-26MAY2026.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/12/spa-pricelist-preview.png",
