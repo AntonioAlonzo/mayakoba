@@ -1827,6 +1827,15 @@ export const ASSETS = [
     filetype: "other",
   },
   {
+    id: 251,
+    title: "Mapa Fairmont",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/05/Mapa-Fairmont.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/05/map-preview.png",
+    type: "resort",
+    filetype: "other",
+  },
+  {
     id: 253,
     title: "Weddings Landing Microsite",
     url: "https://www.fairmont-mayakoba.com/gather/weddings/",
