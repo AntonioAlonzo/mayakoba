@@ -1774,6 +1774,15 @@ export const ASSETS = [
     filetype: "other",
   },
   {
+    id: 245,
+    title: "Menú Bassano Non Alcoholic Drinks 15/06/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/06/Non-Alcoholic-Drinks-Menu-Bassano_15-Jun-2026.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/06/bassano-prev-non-alcoholic.png",
+    type: "menus",
+    filetype: "other",
+  },
+  {
     id: 246,
     title: "Menu HIX ING 23/02/26",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Menu-HIX-2025_ING.pdf",
