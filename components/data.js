@@ -1526,8 +1526,8 @@ export const ASSETS = [
   },
   {
     id: 222,
-    title: "Tauro Drinks EN 23/02/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Menu-Tauro-Drinks-ING.pdf",
+    title: "Tauro Drinks EN 17/06/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/06/Menu-Tauro-Drinks-ING-170626.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2026/02/tauro-drinks.png",
     type: "menus",
@@ -1535,8 +1535,8 @@ export const ASSETS = [
   },
   {
     id: 222,
-    title: "Tauro Drinks ESP 23/02/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Menu-Tauro-Drinks-ESP.pdf",
+    title: "Tauro Drinks ESP 17/06/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/06/Menu-Tauro-Drinks-ESP-170626.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2026/02/tauro-drinks.png",
     type: "menus",
