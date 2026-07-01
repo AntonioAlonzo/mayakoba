@@ -54,6 +54,14 @@ export default function Home() {
       return;
     }
 
+    if (types === "experiences") {
+      window.open(
+        "https://www.fairmont-mayakoba.com/explore/experiences/#!/",
+        "_blank",
+      );
+      return;
+    }
+
     if (types === "reservations") {
       setShowReservationInfo(true);
       return;

@@ -46,6 +46,14 @@ export default function FileTypeFilter({ onApplyFilterClick }) {
 
         <div className="flex flex-col items-center max-w-[8rem] m-4">
           <div
+            onClick={() => handleTypeClick("experiences")}
+            className="cursor-pointer bg-[url('./assets/experiences.webp')] h-[8rem] w-[8rem] md:h-[10rem] md:w-[10rem] bg-cover flex items-center justify-center rounded-full"
+          ></div>
+          <p className="uppercase text-black mt-2 text-center">Experiences</p>
+        </div>
+
+        <div className="flex flex-col items-center max-w-[8rem] m-4">
+          <div
             onClick={() => handleTypeClick("resort")}
             className="cursor-pointer bg-[url('./assets/resortmap.png')] h-[8rem] w-[8rem] md:h-[10rem] md:w-[10rem] bg-cover flex items-center justify-center rounded-full"
           ></div>
