@@ -1757,8 +1757,8 @@ export const ASSETS = [
   },
   {
     id: 245,
-    title: "Menú Bassano Cocteles 23/02/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Menu_cocteles_insignia_bassano_2.pdf",
+    title: "Menú Bassano Cocteles 29/06/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/07/Menu_cocteles_insignia_bassano_290626.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2026/02/bassano-cocteles-prev.png",
     type: "menus",
