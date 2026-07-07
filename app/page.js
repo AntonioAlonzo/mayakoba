@@ -27,7 +27,7 @@ export default function Home() {
 
     if (types === "webapp") {
       window.open(
-        "https://fairmontmayakoba.duve.co/g/RJSdbyW-t?id=home&isCompany=1",
+        "https://fairmont.hudini.app/en/fairmont-mayakoba/",
         "_blank",
       );
       return;
