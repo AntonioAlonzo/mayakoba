@@ -1713,7 +1713,7 @@ export const ASSETS = [
   {
     id: 238,
     title: "Menú Cielo Compendium WEB 07/04/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/04/Menu-Cielo-Compendium-WEB.pdf",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/07/Menu-Cielo-Compendium_Media-Carta_Digital.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2026/04/Sin-titulo-1.png",
     type: "drinks",
