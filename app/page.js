@@ -46,14 +46,6 @@ export default function Home() {
       return;
     }
 
-    if (types === "video") {
-      window.open(
-        "https://www.youtube.com/@FairmontMayakobaOfficial",
-        "_blank",
-      );
-      return;
-    }
-
     if (types === "experiences") {
       window.open(
         "https://www.fairmont-mayakoba.com/explore/experiences/#!/",

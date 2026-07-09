@@ -4072,4 +4072,22 @@ export const ASSETS = [
     type: "brochure",
     filetype: "other",
   },
+  {
+    id: 361,
+    title: "Video promocional 2025-2026",
+    url: "https://accor-my.sharepoint.com/:v:/p/samantha_ochoa/IQAE-AskfsVIRIc-XGFiJbR2AauDQRSHeN6lnQO22SL1PsU?e=NBVpZQ",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/07/prev.png",
+    type: "video",
+    filetype: "other",
+  },
+  {
+    id: 361,
+    title: "Fairmont Mayakoba YouTube Channel",
+    url: "https://www.youtube.com/@FairmontMayakobaOfficial/videos",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/07/videos.jpg",
+    type: "video",
+    filetype: "other",
+  },
 ];
