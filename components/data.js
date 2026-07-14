@@ -1372,8 +1372,8 @@ export const ASSETS = [
   },
   {
     id: 175,
-    title: "Menú Brisas Drinks Español 23/02/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Menu-Brisas-Bebidas_ESP.pdf",
+    title: "Menú Brisas Drinks Español 14/07/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/07/Menu-Brisas_Bebidas_Esp.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2026/02/brisas-drinks-prev.png",
     type: "menus",
@@ -1381,8 +1381,8 @@ export const ASSETS = [
   },
   {
     id: 175,
-    title: "Menú Brisas Drinks Ingles 23/02/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Menu-Brisas-ENG_Digital.pdf",
+    title: "Menú Brisas Drinks Ingles 14/07/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/07/Menu-Brisas_Bebidas_Eng.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2026/02/brisas-drinks-prev.png",
     type: "menus",
@@ -1712,10 +1712,28 @@ export const ASSETS = [
   },
   {
     id: 238,
-    title: "Menú Cielo Compendium WEB 07/04/26",
+    title: "Menú Cielo Compendium WEB 09/07/26",
     url: "https://www.fairmont-mayakoba.com/content/uploads/2026/07/Menu-Cielo-Compendium_Media-Carta_Digital.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2026/04/Sin-titulo-1.png",
+    type: "drinks",
+    filetype: "other",
+  },
+  {
+    id: 238,
+    title: "Menu Aqua Bebidas General ESP 14/07/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/07/Menu-Aqua-Bebidas-General-ESP.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/07/prev-1.png",
+    type: "drinks",
+    filetype: "other",
+  },
+  {
+    id: 238,
+    title: "Menu Aqua Bebidas General ENG 14/07/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/07/Menu-Aqua-Bebidas-General-ENG.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/07/prev-1.png",
     type: "drinks",
     filetype: "other",
   },
