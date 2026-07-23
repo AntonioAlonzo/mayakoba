@@ -2920,8 +2920,8 @@ export const ASSETS = [
   },
   {
     id: 233,
-    title: "Menú Olas ESP Oficio 23/02/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Menu-Olas-ESP-Oficio.pdf",
+    title: "Menú Olas ESP Oficio 23/07/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/07/Menu-Olas-ESP-Oficio.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2025/11/prev-olas.png",
     type: "menus",
@@ -2929,8 +2929,8 @@ export const ASSETS = [
   },
   {
     id: 234,
-    title: "Menú Olas ING Oficio 23/02/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Menu-Olas-ING-Oficio.pdf",
+    title: "Menú Olas ING Oficio 23/07/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/07/Menu-Olas-ING-Oficio.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2025/11/prev-olas.png",
     type: "menus",
