@@ -1352,24 +1352,7 @@ export const ASSETS = [
     type: "menus",
     filetype: "other",
   },
-  {
-    id: 175,
-    title: "Menú Brisas Dinner Inglés",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/12/Menu-Brisas_Dinner_Menu.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2025/12/brisas-dinner-prev.png",
-    type: "menus",
-    filetype: "other",
-  },
-  {
-    id: 175,
-    title: "Menú Brisas Dinner Español",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/12/Menu-Brisas_ESP_Cenas.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2025/12/brisas-dinner-prev.png",
-    type: "menus",
-    filetype: "other",
-  },
+
   {
     id: 175,
     title: "Menú Brisas Drinks Español 14/07/26",
