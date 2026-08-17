@@ -1677,8 +1677,8 @@ export const ASSETS = [
   },
   {
     id: 237,
-    title: "Menu HIX ESP 23/02/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Menu-HIX-2025_ESP.pdf",
+    title: "Menu HIX 05/08/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/08/NUEVO-Menu-HIX-Carta-2026-DIGITAL.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/hix.png",
     type: "menus",
@@ -1780,15 +1780,6 @@ export const ASSETS = [
     url: "https://www.fairmont-mayakoba.com/content/uploads/2026/06/Non-Alcoholic-Drinks-Menu-Bassano_15-Jun-2026.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2026/06/bassano-prev-non-alcoholic.png",
-    type: "menus",
-    filetype: "other",
-  },
-  {
-    id: 246,
-    title: "Menu HIX ING 23/02/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Menu-HIX-2025_ING.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/hix.png",
     type: "menus",
     filetype: "other",
   },
