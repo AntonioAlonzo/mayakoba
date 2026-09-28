@@ -1281,8 +1281,8 @@ export const ASSETS = [
   },
   {
     id: 162,
-    title: "Menú Aqua Español 30/03/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/03/MENU-AQUA-ESPANOL.pdf",
+    title: "Menú Aqua Español 23/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/ESP-Menu-Aqua-Alimentos-23SEP.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/aqua-espanol.png",
     type: "menus",
@@ -1290,8 +1290,8 @@ export const ASSETS = [
   },
   {
     id: 163,
-    title: "Menú Aqua Inglés 30/03/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/03/MENU-AQUA-INGLES.pdf",
+    title: "Menú Aqua Inglés 23/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/ENG-Menu-Aqua-Alimentos-23SEP.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/aqua-espanol.png",
     type: "menus",
@@ -1299,8 +1299,8 @@ export const ASSETS = [
   },
   {
     id: 163,
-    title: "Menú Cantina Inglés 30/03/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/03/Menu_Cantina_Lunch_ING.pdf",
+    title: "Menú Cantina Lunch Inglés 24/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/Menu_Cantina_Lunch_ENG_24Sep_2026.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2025/06/cantina-prev.png",
     type: "menus",
@@ -1308,18 +1308,35 @@ export const ASSETS = [
   },
   {
     id: 163,
-    title: "Menú Cantina Español 23/02/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/03/Menu_Cantina_Lunch_ESP.pdf",
+    title: "Menú Cantina Lunch Español 24/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/Menu_Cantina_Lunch_ESP_24Sep2026.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2025/06/cantina-prev.png",
     type: "menus",
     filetype: "other",
   },
-
+  {
+    id: 163,
+    title: "Menú Cantina Bebidas Inglés 23/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/Menu-Bebidas-La-Cantina_ENG_23_09_26.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/09/cantina-bebidas.png",
+    type: "menus",
+    filetype: "other",
+  },
+  {
+    id: 163,
+    title: "Menú Cantina Bebidas Español 23/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/Menu-Bebidas-La-Cantina_ESP_23_09_26.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/09/cantina-bebidas.png",
+    type: "menus",
+    filetype: "other",
+  },
   {
     id: 172,
-    title: "Menú Brisas Breakfast Español 23/02/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Menu-Brisas-Desayuno-Esp.pdf",
+    title: "Menú Brisas Desayunos Español 24/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/Menu-Brisas-Desayuno_ESP_Oficio_24-Sept.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/brisas-breakfast.png",
     type: "menus",
@@ -1327,8 +1344,8 @@ export const ASSETS = [
   },
   {
     id: 173,
-    title: "Menú Brisas Desayunos Inglés 23/02/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Menu-Brisas-Desayuno-ENG.pdf",
+    title: "Menú Brisas Desayunos Inglés 24/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/Menu-Brisas-Desayuno_ING_Oficio_24-Sept.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/brisas-breakfast.png",
     type: "menus",
@@ -1336,8 +1353,8 @@ export const ASSETS = [
   },
   {
     id: 174,
-    title: "Menú Brisas Lunch Español",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/12/Menu_Brisas_ESP_Oficio_Lunch.pdf",
+    title: "Menú Brisas Lunch Español 24/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/Menu-Brisas-Lunch_ESP_Oficio_24-sept.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/brisas-lunch.png",
     type: "menus",
@@ -1345,8 +1362,8 @@ export const ASSETS = [
   },
   {
     id: 175,
-    title: "Menú Brisas Lunch Inglés",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/12/Menu_Brisas_ENG_Oficio_Lunch.pdf",
+    title: "Menú Brisas Lunch Inglés 24/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/Menu-Brisas-Lunch_ING_Oficio_24-sept.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/brisas-lunch.png",
     type: "menus",
@@ -1355,8 +1372,8 @@ export const ASSETS = [
 
   {
     id: 175,
-    title: "Menú Brisas Drinks Español 14/07/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/07/Menu-Brisas_Bebidas_Esp.pdf",
+    title: "Menú Brisas Drinks Español 24/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/Menu-Brisas_Bebidas_ESP_24-Sept.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2026/02/brisas-drinks-prev.png",
     type: "menus",
@@ -1364,10 +1381,28 @@ export const ASSETS = [
   },
   {
     id: 175,
-    title: "Menú Brisas Drinks Ingles 14/07/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/07/Menu-Brisas_Bebidas_Eng.pdf",
+    title: "Menú Brisas Drinks Ingles 24/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/Menu-Brisas_Bebidas_ENG_24-Sept.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2026/02/brisas-drinks-prev.png",
+    type: "menus",
+    filetype: "other",
+  },
+  {
+    id: 175,
+    title: "Menú Brisas Cena Español 24/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/Menu-Brisas-Cenas_ESP_Oficio.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/09/brisas-cenas.png",
+    type: "menus",
+    filetype: "other",
+  },
+  {
+    id: 175,
+    title: "Menú Brisas Cena Ingles 24/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/Menu-Brisas-Cenas_ING_Oficio.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/09/brisas-cenas.png",
     type: "menus",
     filetype: "other",
   },
@@ -1382,8 +1417,8 @@ export const ASSETS = [
   },
   {
     id: 198,
-    title: "LAGUNA POSTRES ESP",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Menu_Laguna-postre_esp.pdf",
+    title: "LAGUNA POSTRES ESP 23/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/POSTRES-ESP-23-SEP.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/laguna-desserts.png",
     type: "menus",
@@ -1391,8 +1426,8 @@ export const ASSETS = [
   },
   {
     id: 199,
-    title: "DESSERTS LAGUNA ENG",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Menu_Laguna-postre_ing.pdf",
+    title: "DESSERTS LAGUNA ENG 23/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/DESSERTS-LAGUNA-ENG-23-SEP.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/laguna-desserts.png",
     type: "menus",
@@ -1400,8 +1435,8 @@ export const ASSETS = [
   },
   {
     id: 202,
-    title: "Menu Laguna Dinner ENG 23/02/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Menu_Laguna_dinner_ING.pdf",
+    title: "Menu Laguna Dinner ENG 24/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/24-Septiembre-Menu_Laguna_dinner_ING.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/laguna.png",
     type: "menus",
@@ -1409,8 +1444,8 @@ export const ASSETS = [
   },
   {
     id: 203,
-    title: "Menu Laguna Dinner ESP 23/02/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Menu_Laguna_dinner_ESP.pdf",
+    title: "Menu Laguna Dinner ESP 24/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/24-Septiembre-Menu_Laguna_dinner_ESP.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/laguna.png",
     type: "menus",
@@ -1418,8 +1453,8 @@ export const ASSETS = [
   },
   {
     id: 203,
-    title: "Menu Laguna Kids ESP 23/02/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/MENU-LAGUNA-KIDS_ESP.pdf",
+    title: "Menu Laguna Kids ESP 23/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/MENU-LAGUNA-KIDS_ESP_23Sep2026.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2026/02/laguna-kids.png",
     type: "menus",
@@ -1427,8 +1462,8 @@ export const ASSETS = [
   },
   {
     id: 203,
-    title: "Menu Laguna Kids ENG 23/02/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/MENU-LAGUNA-KIDS_ENG.pdf",
+    title: "Menu Laguna Kids ENG 23/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/MENU-LAGUNA-KIDS_ENG_23Sep2026.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2026/02/laguna-kids.png",
     type: "menus",
@@ -1454,8 +1489,8 @@ export const ASSETS = [
   },
   {
     id: 203,
-    title: "Menu Laguna Lunch 23/02/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Menu-Laguna-Lunch.pdf",
+    title: "Menu Laguna Lunch 23/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/Menu-Laguna-Lunch.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2026/02/laguna-lunch.png",
     type: "menus",
@@ -1464,8 +1499,8 @@ export const ASSETS = [
   /* TAURO */
   {
     id: 215,
-    title: "Menu Tauro ESP 14/04/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/04/Menu_Tauro_ESP_2026.pdf",
+    title: "Menu Tauro ESP 24/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/Menu_Tauro_ESP_24-Septiembre-2026.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/tauro.png",
     type: "menus",
@@ -1473,8 +1508,8 @@ export const ASSETS = [
   },
   {
     id: 216,
-    title: "Menú Kids Tauro ESP 23/02/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/DIGITAL_KIDS-MENU_TAURO_ESP_2025.pdf",
+    title: "Menú Kids Tauro ESP 24/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/KIDS-MENU_TAURO_ESP_Digital_240926.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/tauro-kids.png",
     type: "menus",
@@ -1482,8 +1517,8 @@ export const ASSETS = [
   },
   {
     id: 220,
-    title: "Menu Tauro Postres Español Inglés 14/04/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/04/Tauro_Menu_Postres_2026_Digital-1.pdf",
+    title: "Menu Tauro Postres Español Inglés 23/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/Tauro_Menu_Postres_Septiembre2026.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/tauro-desserts.png",
     type: "menus",
@@ -1491,8 +1526,8 @@ export const ASSETS = [
   },
   {
     id: 221,
-    title: "Menu Tauro ENG 14/04/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/04/Menu_Tauro_ENG_2026.pdf",
+    title: "Menu Tauro ENG 24/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/Menu_Tauro_ENG_24-Septiembre-2026.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/tauro.png",
     type: "menus",
@@ -1500,8 +1535,8 @@ export const ASSETS = [
   },
   {
     id: 222,
-    title: "Kids Menu Tauro EN 23/02/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/DIGITAL_KIDS-MENU_TAURO_ENG_2025.pdf",
+    title: "Kids Menu Tauro EN 24/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/KIDS-MENU_TAURO_ENG_Digital_240926.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/tauro-kids.png",
     type: "menus",
@@ -1509,8 +1544,8 @@ export const ASSETS = [
   },
   {
     id: 222,
-    title: "Tauro Drinks EN 17/06/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/06/Menu-Tauro-Drinks-ING-170626.pdf",
+    title: "Tauro Drinks EN 23/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/ML-OZ-Menu-Tauro-Bebidas-230926-ING.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2026/02/tauro-drinks.png",
     type: "menus",
@@ -1518,8 +1553,8 @@ export const ASSETS = [
   },
   {
     id: 222,
-    title: "Tauro Drinks ESP 17/06/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/06/Menu-Tauro-Drinks-ESP-170626.pdf",
+    title: "Tauro Drinks ESP 23/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/ML-OZ-Menu-Tauro-Bebidas-230926-ESP.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2026/02/tauro-drinks.png",
     type: "menus",
@@ -1529,8 +1564,8 @@ export const ASSETS = [
   /* FUEGO */
   {
     id: 223,
-    title: "Menu Fuego Kids ENG 23/02/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Digital_Fuego-Menu_kids-1.pdf",
+    title: "Menu Fuego Kids ENG 21/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/Kids-Menu-Fuego-ENG_21Sep2026.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/fuego-kids.png",
     type: "menus",
@@ -1538,8 +1573,8 @@ export const ASSETS = [
   },
   {
     id: 224,
-    title: "Menu Fuego DRINKS ENG 23/02/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Digital_Fuego-Menu_drinks.pdf",
+    title: "Menu Fuego DRINKS ENG 21/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/Digital_Fuego-Menu_Bebidas_ENG_21Sep2026.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/fuego-bebidas.png",
     type: "menus",
@@ -1547,8 +1582,8 @@ export const ASSETS = [
   },
   {
     id: 225,
-    title: "Menu Fuego ENG 23/02/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Digital_Fuego-Menu.pdf",
+    title: "Menu Fuego ENG 21/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/Digital_Fuego-Menu_ENG_21Sep_2026.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/fuego-impresso.png",
     type: "menus",
@@ -1556,8 +1591,8 @@ export const ASSETS = [
   },
   {
     id: 226,
-    title: "Menu Fuego Kids ESP 23/02/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Digital_Fuego-Menu_ninos-1.pdf",
+    title: "Menu Fuego Kids ESP 21/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/Menu-de-Ninos-Fuego-Esp_21Sep2026.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/fuego-kids.png",
     type: "menus",
@@ -1565,8 +1600,8 @@ export const ASSETS = [
   },
   {
     id: 227,
-    title: "Menu Fuego BEBIDAS ESP 23/02/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Digital_Fuego-Menu_bebida.pdf",
+    title: "Menu Fuego BEBIDAS ESP 21/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/Digital_Fuego-Menu-Bebidas_21SEp2026.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/fuego-bebidas.png",
     type: "menus",
@@ -1574,8 +1609,8 @@ export const ASSETS = [
   },
   {
     id: 228,
-    title: "Menú Fuego ESP 23/02/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/02/Digital_Fuego-Menu-1.pdf",
+    title: "Menú Fuego ESP 21/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/Digital_Fuego-Menu_Esp_21sep_2026.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/fuego-impresso.png",
     type: "menus",
@@ -1659,8 +1694,8 @@ export const ASSETS = [
   },
   {
     id: 235,
-    title: "HixBar Menu Niños Esp",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/HixBar_Menu-Ninos-ESP.pdf",
+    title: "HixBar Menu Niños Esp 24/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/HixBar_Menu-Ninos_ESP_Digital_240926.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/hix-kids.png",
     type: "menus",
@@ -1668,8 +1703,8 @@ export const ASSETS = [
   },
   {
     id: 236,
-    title: "HixBar Menu Niños ING",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/HixBar_Kids-Menu-ENG.pdf",
+    title: "HixBar Menu Niños ING 24/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/HixBar_Menu-Ninos_ENG_Digital_240926.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/hix-kids.png",
     type: "menus",
@@ -1677,8 +1712,17 @@ export const ASSETS = [
   },
   {
     id: 237,
-    title: "Menu HIX 05/08/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/08/NUEVO-Menu-HIX-Carta-2026-DIGITAL.pdf",
+    title: "Menu HIX ESP 24/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/Menu-HIX_ESP_Digital_240926.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/hix.png",
+    type: "menus",
+    filetype: "other",
+  },
+  {
+    id: 237,
+    title: "Menu HIX ENG 24/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/Menu-HIX_ENG_Digital_240926.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/10/hix.png",
     type: "menus",
@@ -1704,8 +1748,8 @@ export const ASSETS = [
   },
   {
     id: 238,
-    title: "Menu Aqua Bebidas General ESP 14/07/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/07/Menu-Aqua-Bebidas-General-ESP.pdf",
+    title: "Menu Aqua Bebidas General ESP 24/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/Menu-Aqua-Bebidas-General-24-SEP-ESP.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2026/07/prev-1.png",
     type: "drinks",
@@ -1713,10 +1757,28 @@ export const ASSETS = [
   },
   {
     id: 238,
-    title: "Menu Aqua Bebidas General ENG 14/07/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/07/Menu-Aqua-Bebidas-General-ENG.pdf",
+    title: "Menu Aqua Bebidas General ENG 24/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/Menu-Aqua-Bebidas-General-24-SEP-ENG.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2026/07/prev-1.png",
+    type: "drinks",
+    filetype: "other",
+  },
+  {
+    id: 238,
+    title: "Menu Aqua Cocteles ENG 22/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/ENG_Menu-Aqua-Cocteles-Bebidas-22SEP.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/09/aqua-cocteles.png",
+    type: "drinks",
+    filetype: "other",
+  },
+  {
+    id: 238,
+    title: "Menu Aqua Cocteles ESP 22/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/ESP_Menu-Aqua-Cocteles-Bebidas-22SEP.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/09/aqua-cocteles.png",
     type: "drinks",
     filetype: "other",
   },
@@ -1780,6 +1842,15 @@ export const ASSETS = [
     url: "https://www.fairmont-mayakoba.com/content/uploads/2026/06/Non-Alcoholic-Drinks-Menu-Bassano_15-Jun-2026.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2026/06/bassano-prev-non-alcoholic.png",
+    type: "menus",
+    filetype: "other",
+  },
+  {
+    id: 245,
+    title: "Menú Bassano Destilados 23/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/Menu-Destilados-Bassano_DIGITAL_23092026.pdf",
+    preview:
+      "https://www.fairmont-mayakoba.com/content/uploads/2026/09/bassano-spirits.png",
     type: "menus",
     filetype: "other",
   },
@@ -1861,15 +1932,6 @@ export const ASSETS = [
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/12/23-29-DICIEMBRE-BALAM-ING.png",
     type: "daily",
-    filetype: "other",
-  },
-  {
-    id: 256,
-    title: "Menu Laguna Lunch ESP",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2024/12/Menu_Laguna_Lunch-ESP.pdf",
-    preview:
-      "https://www.fairmont-mayakoba.com/content/uploads/2024/10/laguna.png",
-    type: "menus",
     filetype: "other",
   },
   {
@@ -2831,8 +2893,8 @@ export const ASSETS = [
   },
   {
     id: 363,
-    title: "Carta Destilados Fairmont Mayakoba",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/06/Carta-Destilados-Fairmont-Mayakoba-11062025.pdf",
+    title: "Carta Destilados Fairmont Mayakoba 25/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/Menu_Destilados-25-SEP.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2025/06/carta-destilados-prev.png",
     type: "drinks",
@@ -2894,8 +2956,8 @@ export const ASSETS = [
   },
   {
     id: 233,
-    title: "Menú Olas ESP Oficio 23/07/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/07/Menu-Olas-ESP-Oficio.pdf",
+    title: "Menú Olas ESP Oficio 24/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/Menu-Olas-ESP-Oficio-24-SEP.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2025/11/prev-olas.png",
     type: "menus",
@@ -2903,8 +2965,8 @@ export const ASSETS = [
   },
   {
     id: 234,
-    title: "Menú Olas ING Oficio 23/07/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/07/Menu-Olas-ING-Oficio.pdf",
+    title: "Menú Olas ING Oficio 24/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/Menu-Olas-ING-Oficio-24-SEP.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2025/11/prev-olas.png",
     type: "menus",
@@ -2912,8 +2974,8 @@ export const ASSETS = [
   },
   {
     id: 234,
-    title: "Menú Olas Kids Snacks ESP 27/03/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/03/MENU-OLAS-KIDS_SNACKS_ESP.pdf",
+    title: "Menú Olas Kids Snacks ESP 24/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/MENU-OLAS-KIDS_SNACKS_ESP_Digital_240926.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2026/03/prev-1.png",
     type: "menus",
@@ -2921,8 +2983,8 @@ export const ASSETS = [
   },
   {
     id: 234,
-    title: "Menú Olas Kids Snacks ING 27/03/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/03/MENU-OLAS-KIDS_SNACKS_ING.pdf",
+    title: "Menú Olas Kids Snacks ING 24/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/MENU-OLAS-KIDS_SNACKS_ENG_Digital_240926.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2026/03/prev-1.png",
     type: "menus",
@@ -2930,8 +2992,8 @@ export const ASSETS = [
   },
   {
     id: 235,
-    title: "Wine List 2025",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2025/11/Wine_List_2025.pdf",
+    title: "Wine List 24/09/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/09/Wine_List_2026-24-SEP.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2025/11/winelist_rpev.png",
     type: "menus",
