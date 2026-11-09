@@ -1981,8 +1981,8 @@ export const ASSETS = [
   },
   {
     id: 262,
-    title: "Spa Price List ESP 03/11/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/11/Spa-Price-List-2026-ESP-03NOV26.pdf",
+    title: "Spa Price List ESP 09/11/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/11/Spa-Price-List-2026-ESP-09NOV26.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/12/spa-pricelist-preview.png",
     type: "spa",
@@ -1990,8 +1990,8 @@ export const ASSETS = [
   },
   {
     id: 263,
-    title: "Spa Price List ENG 03/11/26",
-    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/11/Spa-Price-List-2026-ING-03NOV26.pdf",
+    title: "Spa Price List ENG 09/11/26",
+    url: "https://www.fairmont-mayakoba.com/content/uploads/2026/11/Spa-Price-List-2026-ING-09NOV26.pdf",
     preview:
       "https://www.fairmont-mayakoba.com/content/uploads/2024/12/spa-pricelist-preview.png",
     type: "spa",
